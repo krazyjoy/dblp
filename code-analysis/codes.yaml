@@ -1,0 +1,49 @@
+topics taught:
+- none
+- other
+- general ml & security
+
+ml aspects:
+- ml for security/privacy application
+- valid
+- safety
+- accountability
+- fairness
+- explainability
+- privacy
+- security
+
+security topics:
+- evasion
+- poisoning
+- jailbreak
+- prompt injection
+
+privacy topics:
+- crypto
+- differential privacy
+- stealing/model extraction
+- membership inference
+- data reconstruction/data extraction/model inversion
+- property inference
+- prompt stealing
+
+
+trustworthy ml qualifiers:
+- knowledge-black-box
+- knowledge-white-box
+- adaptive
+- federated learning
+- physical
+
+architecture:
+- svm
+- nn
+- generative ai
+- reinforcement learning
+- llm/foundation
+- graph-nn
+- mixture of experts
+- rag
+- agent
+

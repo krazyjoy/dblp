@@ -1,0 +1,420 @@
+uuid,title,response
+ccs_2024_0,"Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security, CCS 2024, Salt Lake City, UT, USA, October 14-18, 2024.",No
+ccs_2024_1,Cryptography and Computer Security: A View From the Year 2100.,No
+ccs_2024_2,Staving off the IoT Armageddon.,No
+ccs_2024_3,Verifiable Security Policies for Distributed Systems.,No
+ccs_2024_4,"Libra: Architectural Support For Principled, Secure And Efficient Balanced Execution On High-End Processors.",No
+ccs_2024_5,Compositional Verification of Composite Byzantine Protocols.,No
+ccs_2024_6,Byzantine-Secure Relying Party for Resilient RPKI.,No
+ccs_2024_7,SysBumps: Exploiting Speculative Execution in System Calls for Breaking KASLR in macOS for Apple Silicon.,No
+ccs_2024_8,TDXdown: Single-Stepping and Instruction Counting Attacks against Intel TDX.,No
+ccs_2024_9,Cross-Core Interrupt Detection: Exploiting User and Virtualized IPIs.,No
+ccs_2024_10,Spec-o-Scope: Cache Probing at Cache Speed.,No
+ccs_2024_11,"Training Robust ML-based Raw-Binary Malware Detectors in Hours, not Months.",Yes
+ccs_2024_12,TREC: APT Tactic / Technique Recognition via Few-Shot Provenance Subgraph Learning.,No
+ccs_2024_13,SAFARI: Speech-Associated Facial Authentication for AR/VR Settings via Robust VIbration Signatures.,No
+ccs_2024_14,KnowGraph: Knowledge-Enabled Anomaly Detection via Logical Reasoning on Graph Data.,No
+ccs_2024_15,Principled Microarchitectural Isolation on Cloud CPUs.,No
+ccs_2024_16,Interstellar: Fully Partitioned and Efficient Security Monitoring Hardware Near a Processor Core for Protecting Systems against Attacks on Privileged Software.,No
+ccs_2024_17,μCFI: Formal Verification of Microarchitectural Control-flow Integrity.,No
+ccs_2024_18,Crystalor: Recoverable Memory Encryption Mechanism with Optimized Metadata Structure.,No
+ccs_2024_19,Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy.,Yes
+ccs_2024_20,S 2 NeRF: Privacy-preserving Training Framework for NeRF.,Yes
+ccs_2024_21,$DPM: $ Clustering Sensitive Data through Separation.,No
+ccs_2024_22,S-BDT: Distributed Differentially Private Boosted Decision Trees.,No
+ccs_2024_23,Cross-silo Federated Learning with Record-level Personalized Differential Privacy.,Yes
+ccs_2024_24,Benchmarking Secure Sampling Protocols for Differential Privacy.,No
+ccs_2024_25,Smooth Sensitivity for Geo-Privacy.,No
+ccs_2024_26,Metric Differential Privacy at the User-Level via the Earth-Mover's Distance.,No
+ccs_2024_27,Nakamoto Consensus under Bounded Processing Capacity.,No
+ccs_2024_28,Data Independent Order Policy Enforcement: Limitations and Solutions.,No
+ccs_2024_29,Securing Lightning Channels against Rational Miners.,No
+ccs_2024_30,Interactive Multi-Credential Authentication.,No
+ccs_2024_31,Towards Fine-Grained Webpage Fingerprinting at Scale.,No
+ccs_2024_32,Understanding Routing-Induced Censorship Changes Globally.,No
+ccs_2024_33,Internet's Invisible Enemy: Detecting and Measuring Web Cache Poisoning in the Wild.,No
+ccs_2024_34,Inbox Invasion: Exploiting MIME Ambiguities to Evade Email Attachment Detectors.,Yes
+ccs_2024_35,Toward Understanding the Security of Plugins in Continuous Integration Services.,No
+ccs_2024_36,"The Harder You Try, The Harder You Fail: The KeyTrap Denial-of-Service Algorithmic Complexity Attacks on DNSSEC.",No
+ccs_2024_37,FuzzCache: Optimizing Web Application Fuzzing Through Software-Based Data Cache.,No
+ccs_2024_38,MiniCAT: Understanding and Detecting Cross-Page Request Forgery Vulnerabilities in Mini-Programs.,No
+ccs_2024_39,SWIDE: A Semantic-aware Detection Engine for Successful Web Injection Attacks.,No
+ccs_2024_40,Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication.,No
+ccs_2024_41,Test Suites Guided Vulnerability Validation for Node.js Applications.,No
+ccs_2024_42,ReactAppScan: Mining React Application Vulnerabilities via Component Graph.,No
+ccs_2024_43,Certifiable Black-Box Attacks with Randomized Adversarial Examples: Breaking Defenses with Provable Confidence.,Yes
+ccs_2024_44,Phantom: Untargeted Poisoning Attacks on Semi-Supervised Learning.,Yes
+ccs_2024_45,Zero-Query Adversarial Attack on Black-box Automatic Speech Recognition Systems.,Yes
+ccs_2024_46,SUB-PLAY: Adversarial Policies against Partially Observed Multi-Agent Reinforcement Learning Systems.,Yes
+ccs_2024_47,Optimization-based Prompt Injection Attack to LLM-as-a-Judge.,Yes
+ccs_2024_48,Neural Dehydration: Effective Erasure of Black-box Watermarks from DNNs with Limited Data.,Yes
+ccs_2024_49,DarthShader: Fuzzing WebGPU Shader Translators & Compilers.,No
+ccs_2024_50,OSmart: Whitebox Program Option Fuzzing.,No
+ccs_2024_51,Program Environment Fuzzing.,No
+ccs_2024_52,ProphetFuzz: Fully Automated Prediction and Fuzzing of High-Risk Option Combinations with Only Documentation via Large Language Model.,No
+ccs_2024_53,"No Peer, no Cry: Network Application Fuzzing via Fault Injection.",No
+ccs_2024_54,FOX: Coverage-guided Fuzzing as Online Stochastic Control.,No
+ccs_2024_55,Leakage-Resilient Circuit Garbling.,No.
+ccs_2024_56,Secure Multiparty Computation with Lazy Sharing.,No
+ccs_2024_57,Coral: Maliciously Secure Computation Framework for Packed and Mixed Circuits.,No
+ccs_2024_58,Sublinear Distributed Product Checks on Replicated Secret-Shared Data over Z 2 k Without Ring Extensions.,No
+ccs_2024_59,Secret Sharing with Snitching.,No
+ccs_2024_60,Shortcut: Making MPC-based Collaborative Analytics Efficient on Dynamic Databases.,No
+ccs_2024_61,Dora: A Simple Approach to Zero-Knowledge for RAM Programs.,No
+ccs_2024_62,Dual Polynomial Commitment Schemes and Applications to Commit-and-Prove SNARKs.,No
+ccs_2024_63,Direct Range Proofs for Paillier Cryptosystem and Their Applications.,No
+ccs_2024_64,Conan: Distributed Proofs of Compliance for Anonymous Data Collection.,No
+ccs_2024_65,Hekaton: Horizontally-Scalable zkSNARKs Via Proof Aggregation.,No
+ccs_2024_66,GRandLine: Adaptively Secure DKG and Randomness Beacon with (Log-)Quadratic Communication Complexity.,No
+ccs_2024_67,TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning.,No
+ccs_2024_68,fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup.,No
+ccs_2024_69,Characterizing Ethereum Address Poisoning Attack.,No
+ccs_2024_70,FORAY: Towards Effective Attack Synthesis against Deep Logical Vulnerabilities in DeFi Protocols.,No
+ccs_2024_71,Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models.,No
+ccs_2024_72,Blockchain Bribing Attacks and the Efficacy of Counterincentives.,No
+ccs_2024_73,Keeping Up with the KEMs: Stronger Security Notions for KEMs and Automated Analysis of KEM-based Protocols.,No
+ccs_2024_74,SECOMP: Formally Secure Compilation of Compartmentalized C Programs.,No
+ccs_2024_75,Testing Side-channel Security of Cryptographic Implementations against Future Microarchitectures.,No
+ccs_2024_76,On Kernel's Safety in the Spectre Era (And KASLR is Formally Dead).,No
+ccs_2024_77,The Privacy-Utility Trade-off in the Topics API.,No
+ccs_2024_78,Specification and Verification of Strong Timing Isolation of Hardware Enclaves.,No
+ccs_2024_79,A Causal Explainable Guardrails for Large Language Models.,Yes
+ccs_2024_80,Legilimens: Practical and Unified Content Moderation for Large Language Model Services.,Yes
+ccs_2024_81,SurrogatePrompt: Bypassing the Safety Filter of Text-to-Image Models via Substitution.,Yes
+ccs_2024_82,Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies.,Yes
+ccs_2024_83,GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models.,No
+ccs_2024_84,Understanding Implosion in Text-to-Image Generative Models.,Yes
+ccs_2024_85,Is Difficulty Calibration All We Need? Towards More Practical Membership Inference Attacks.,Yes
+ccs_2024_86,A Unified Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability.,Yes
+ccs_2024_87,Membership Inference Attacks against Vision Transformers: Mosaic MixUp Training to the Defense.,Yes
+ccs_2024_88,Evaluations of Machine Learning Privacy Defenses are Misleading.,Yes
+ccs_2024_89,The Janus Interface: How Fine-Tuning in Large Language Models Amplifies the Privacy Risks.,Yes
+ccs_2024_90,A General Framework for Data-Use Auditing of ML Models.,Yes
+ccs_2024_91,CountDown: Refcount-guided Fuzzing for Exposing Temporal Memory Errors in Linux Kernel.,No
+ccs_2024_92,Top of the Heap: Efficient Memory Error Protection of Safe Heap Objects.,No
+ccs_2024_93,Safeslab: Mitigating Use-After-Free Vulnerabilities via Memory Protection Keys.,No
+ccs_2024_94,The Illusion of Randomness: An Empirical Analysis of Address Space Layout Randomization Implementations.,No
+ccs_2024_95,SeMalloc: Semantics-Informed Memory Allocator.,No
+ccs_2024_96,Crossing Shifted Moats: Replacing Old Bridges with New Tunnels to Confidential Containers.,No
+ccs_2024_97,Faster FHE-Based Single-Server Private Information Retrieval.,No
+ccs_2024_98,Simple and Practical Amortized Sublinear Private Information Retrieval using Dummy Subsets.,No
+ccs_2024_99,Unbalanced Private Set Union with Reduced Computation and Communication.,No
+ccs_2024_100,ThorPIR: Single Server PIR via Homomorphic Thorp Shuffles.,No
+ccs_2024_101,Respire: High-Rate PIR for Databases with Small Records.,No
+ccs_2024_102,Actively Secure Private Set Intersection in the Client-Server Setting.,No
+ccs_2024_103,Functional Adaptor Signatures: Beyond All-or-Nothing Blockchain-based Payments.,No
+ccs_2024_104,Blind Multisignatures for Anonymous Tokens with Decentralized Issuance.,No
+ccs_2024_105,Practical Post-Quantum Signatures for Privacy.,No
+ccs_2024_106,Reckle Trees: Updatable Merkle Batch Proofs with Applications.,No
+ccs_2024_107,Provable Security for PKI Schemes.,No
+ccs_2024_108,Fast Two-party Threshold ECDSA with Proactive Security.,No
+ccs_2024_109,Are We Getting Well-informed? An In-depth Study of Runtime Privacy Notice Practice in Mobile Apps.,No
+ccs_2024_110,Graphical vs. Deep Generative Models: Measuring the Impact of Differentially Private Mechanisms and Budgets on Utility.,No
+ccs_2024_111,A Qualitative Analysis of Practical De-Identification Guides.,No.
+ccs_2024_112,A First Look at Security and Privacy Risks in the RapidAPI Ecosystem.,No
+ccs_2024_113,Measuring Compliance Implications of Third-party Libraries' Privacy Label Disclosure Guidelines.,No
+ccs_2024_114,"Trust, Because You Can't Verify: Privacy and Security Hurdles in Education Technology Acquisition Practices.",No
+ccs_2024_115,"""Do Anything Now"": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models.",Yes
+ccs_2024_116,Breaching Security Keys without Root: FIDO2 Deception Attacks via Overlays exploiting Limited Display Authenticators.,No
+ccs_2024_117,The Not-So-Silent Type: Vulnerabilities in Chinese IME Keyboards' Network Security Protocols.,No
+ccs_2024_118,Demystifying RCE Vulnerabilities in LLM-Integrated Apps.,Yes
+ccs_2024_119,GAZEploit: Remote Keystroke Inference Attack by Gaze Estimation from Avatar Views in VR/MR Devices.,Yes
+ccs_2024_120,VPVet: Vetting Privacy Policies of Virtual Reality Apps.,No
+ccs_2024_121,Collapse Like A House of Cards: Hacking Building Automation System Through Fuzzing.,No
+ccs_2024_122,Watch the Rhythm: Breaking Privacy with Accelerometer at the Extremely-Low Sampling Rate of 5Hz.,No
+ccs_2024_123,CAPSID: A Private Session ID System for Small UAVs.,No
+ccs_2024_124,MaskPrint: Take the Initiative in Fingerprint Protection to Mitigate the Harm of Data Breach.,No
+ccs_2024_125,Precio: Private Aggregate Measurement via Oblivious Shuffling.,No
+ccs_2024_126,Formal Privacy Proof of Data Encoding: The Possibility and Impossibility of Learnable Encryption.,Yes
+ccs_2024_127,SpecGuard: Specification Aware Recovery for Robotic Autonomous Vehicles from Physical Attacks.,Yes
+ccs_2024_128,VisionGuard: Secure and Robust Visual Perception of Autonomous Vehicles in Practice.,Yes
+ccs_2024_129,PhyScout: Detecting Sensor Spoofing Attacks via Spatio-temporal Consistency.,No
+ccs_2024_130,ERACAN: Defending Against an Emerging CAN Threat Model.,No
+ccs_2024_131,Elephants Do Not Forget: Differential Privacy with State Continuity for Privacy Budget.,No
+ccs_2024_132,ProBE: Proportioning Privacy Budget for Complex Exploratory Decision Support.,No
+ccs_2024_133,Almost Instance-optimal Clipping for Summation Problems in the Shuffle Model of Differential Privacy.,No
+ccs_2024_134,Securing Floating-Point Arithmetic for Noise Addition.,No
+ccs_2024_135,Distributed PIR: Scaling Private Messaging via the Users' Machines.,No
+ccs_2024_136,Bytes to Schlep? Use a FEP: Hiding Protocol Metadata with Fully Encrypted Protocols.,No
+ccs_2024_137,Robust and Reliable Early-Stage Website Fingerprinting Attacks via Spatial-Temporal Distribution Analysis.,Yes
+ccs_2024_138,"HomeRun: High-efficiency Oblivious Message Retrieval, Unrestricted.",No
+ccs_2024_139,RANsacked: A Domain-Informed Approach for Fuzzing LTE and 5G RAN-Core Interfaces.,No
+ccs_2024_140,Jäger: Automated Telephone Call Traceback.,No
+ccs_2024_141,Strong Privacy-Preserving Universally Composable AKA Protocol with Seamless Handover Support for Mobile Virtual Network Operator.,No
+ccs_2024_142,Untangling the Knot: Breaking Access Control in Home Wireless Mesh Networks.,No.
+ccs_2024_143,BlueSWAT: A Lightweight State-Aware Security Framework for Bluetooth Low Energy.,No.
+ccs_2024_144,State Machine Mutation-based Testing Framework for Wireless Communication Protocols.,No
+ccs_2024_145,Peeking through the window: Fingerprinting Browser Extensions through Page-Visible Execution Traces and Interactions.,No
+ccs_2024_146,Understanding Cross-Platform Referral Traffic for Illicit Drug Promotion.,No
+ccs_2024_147,Characterizing and Mitigating Phishing Attacks at ccTLD Scale.,No
+ccs_2024_148,The Big Brother's New Playground: Unmasking the Illusion of Privacy in Web Metaverses from a Malicious User's Perspective.,No
+ccs_2024_149,Blocking Tracking JavaScript at the Function Granularity.,No
+ccs_2024_150,Unbundle-Rewrite-Rebundle: Runtime Detection and Rewriting of Privacy-Harming Code in JavaScript Bundles.,No
+ccs_2024_151,ProFake: Detecting Deepfakes in the Wild against Quality Degradation with Progressive Quality-adaptive Learning.,Yes
+ccs_2024_152,Trident of Poseidon: A Generalized Approach for Detecting Deepfake Voices.,Yes
+ccs_2024_153,"On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing.",Yes
+ccs_2024_154,MGTBench: Benchmarking Machine-Generated Text Detection.,Yes
+ccs_2024_155,PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs).,Yes
+ccs_2024_156,Dye4AI: Assuring Data Boundary on Generative AI Services.,Yes
+ccs_2024_157,Rust for Embedded Systems: Current State and Open Problems.,No
+ccs_2024_158,BaseMirror: Automatic Reverse Engineering of Baseband Commands from Android's Radio Interface Layer.,No
+ccs_2024_159,CanCal: Towards Real-time and Lightweight Ransomware Detection and Response in Industrial Environments.,No
+ccs_2024_160,RIoTFuzzer: Companion App Assisted Remote Fuzzing for Detecting Vulnerabilities in IoT Devices.,No
+ccs_2024_161,OctopusTaint: Advanced Data Flow Analysis for Detecting Taint-Based Vulnerabilities in IoT/IIoT Firmware.,No
+ccs_2024_162,AutoPatch: Automated Generation of Hotpatches for Real-Time Embedded Devices.,No
+ccs_2024_163,Obfuscated Key Exchange.,No
+ccs_2024_164,"Quarantined-TreeKEM: A Continuous Group Key Agreement for MLS, Secure in Presence of Inactive Users.",No
+ccs_2024_165,Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets.,No
+ccs_2024_166,The Insecurity of Masked Comparisons: SCAs on ML-KEM's FO-Transform.,No
+ccs_2024_167,Password-Protected Key Retrieval with(out) HSM Protection.,No
+ccs_2024_168,Non-Transferable Anonymous Tokens by Secret Binding.,No
+ccs_2024_169,DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using 4-Directional Manipulation.,No
+ccs_2024_170,Rhombus: Fast Homomorphic Matrix-Vector Multiplication for Secure Two-Party Inference.,No
+ccs_2024_171,Attacks Against the IND-CPA D Security of Exact FHE Schemes.,No
+ccs_2024_172,VERITAS: Plaintext Encoders for Practical Verifiable Homomorphic Encryption.,No
+ccs_2024_173,Simpler and Faster BFV Bootstrapping for Arbitrary Plaintext Modulus from CKKS.,No
+ccs_2024_174,New Secret Keys for Enhanced Performance in (T)FHE.,No
+ccs_2024_175,Payout Races and Congested Channels: A Formal Analysis of Security in the Lightning Network.,No
+ccs_2024_176,DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back.,No
+ccs_2024_177,Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups.,No
+ccs_2024_178,Sui Lutris: A Blockchain Combining Broadcast and Consensus.,No
+ccs_2024_179,Random Beacons in Monte Carlo: Efficient Asynchronous Random Beacon without Threshold Cryptography.,No
+ccs_2024_180,Scalable and Adaptively Secure Any-Trust Distributed Key Generation and All-hands Checkpointing.,No
+ccs_2024_181,Skipping the Security Side Quests: A Qualitative Study on Security Practices and Challenges in Game Development.,No
+ccs_2024_182,Selling Satisfaction: A Qualitative Analysis of Cybersecurity Awareness Vendors' Promises.,No
+ccs_2024_183,"""Modern problems require modern solutions"": Community-Developed Techniques for Online Exam Proctoring Evasion.",No
+ccs_2024_184,"""Better Be Computer or I'm Dumb"": A Large-Scale Evaluation of Humans as Audio Deepfake Detectors.",Yes
+ccs_2024_185,Understanding Legal Professionals' Practices and Expectations in Data Breach Incident Reporting.,No
+ccs_2024_186,Using AI Assistants in Software Development: A Qualitative Study on Security Practices and Concerns.,No
+ccs_2024_187,SpecMon: Modular Black-Box Runtime Monitoring of Security Protocols.,No
+ccs_2024_188,SemPat: From Hyperproperties to Attack Patterns for Scalable Analysis of Microarchitectural Security.,No
+ccs_2024_189,Block Ciphers in Idealized Models: Automated Proofs and New Security Results.,No
+ccs_2024_190,Verifiably Correct Lifting of Position-Independent x86-64 Binaries to Symbolized Assembly.,No
+ccs_2024_191,Gaussian Elimination of Side-Channels: Linear Algebra for Memory Coloring.,No
+ccs_2024_192,Foundations for Cryptographic Reductions in CCSA Logics.,No
+ccs_2024_193,Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses.,Yes
+ccs_2024_194,Two-Tier Data Packing in RLWE-based Homomorphic Encryption for Secure Federated Learning.,Yes
+ccs_2024_195,Samplable Anonymous Aggregation for Private Federated Data Analysis.,No
+ccs_2024_196,Byzantine-Robust Decentralized Federated Learning.,Yes
+ccs_2024_197,Not One Less: Exploring Interplay between User Profiles and Items in Untargeted Attacks against Federated Recommendation.,Yes
+ccs_2024_198,Unveiling the Vulnerability of Private Fine-Tuning in Split-Based Frameworks for Large Language Models: A Bidirectionally Enhanced Attack.,Yes
+ccs_2024_199,PeTAL: Ensuring Access Control Integrity against Data-only Attacks on Linux.,No
+ccs_2024_200,Detecting Broken Object-Level Authorization Vulnerabilities in Database-Backed Applications.,No
+ccs_2024_201,AuthSaber : Automated Safety Verification of OpenID Connect Programs.,No
+ccs_2024_202,"Unveiling Collusion-Based Ad Attribution Laundering Fraud: Detection, Analysis, and Security Implications.",No
+ccs_2024_203,Gopher: High-Precision and Deep-Dive Detection of Cryptographic API Misuse in the Go Ecosystem.,No
+ccs_2024_204,u MMU: Securing Data Confidentiality with Unobservable Memory Subsystem.,No
+ccs_2024_205,Secure Parallel Computation with Oblivious State Transitions.,No
+ccs_2024_206,Secure Sorting and Selection via Function Secret Sharing.,No
+ccs_2024_207,Helium: Scalable MPC among Lightweight Participants and under Churn.,No
+ccs_2024_208,Practical Key-Extraction Attacks in Leading MPC Wallets.,No
+ccs_2024_209,Efficient Secret Sharing for Large-Scale Applications.,No
+ccs_2024_210,Oblivious Single Access Machines - A New Model for Oblivious Computation.,No
+ccs_2024_211,Tight ZK CPU: Batched ZK Branching with Cost Proportional to Evaluated Instruction.,No
+ccs_2024_212,Sparrow: Space-Efficient zkSNARK for Data-Parallel Circuits and Applications to Zero-Knowledge Decision Trees.,No
+ccs_2024_213,The LaZer Library: Lattice-Based Zero Knowledge and Succinct Proofs for Quantum-Safe Privacy.,No
+ccs_2024_214,Real-World Universal zkSNARKs are Non-Malleable.,No
+ccs_2024_215,A Succinct Range Proof for Polynomial-based Vector Commitment.,No
+ccs_2024_216,LUNA: Quasi-Optimally Succinct Designated-Verifier Zero-Knowledge Arguments from Lattices.,No
+ccs_2024_217,zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials.,No
+ccs_2024_218,Derecho: Privacy Pools with Proof-Carrying Disclosures.,No
+ccs_2024_219,Arke: Scalable and Byzantine Fault Tolerant Privacy-Preserving Contact Discovery.,No
+ccs_2024_220,Atomic and Fair Data Exchange via Blockchain.,No
+ccs_2024_221,Asynchronous Consensus without Trusted Setup or Public-Key Cryptography.,No
+ccs_2024_222,Asynchronous Authentication.,No
+ccs_2024_223,PG: Byzantine Fault-Tolerant and Privacy-Preserving Sensor Fusion with Guaranteed Output Delivery.,Yes
+ccs_2024_224,A Comprehensive Analysis of Security Vulnerabilities and Attacks in Satellite Modems.,No
+ccs_2024_225,GPSBuster: Busting out Hidden GPS Trackers via MSoC Electromagnetic Radiations.,No
+ccs_2024_226,Accurate and Efficient Recurring Vulnerability Detection for IoT Firmware.,No
+ccs_2024_227,RISiren: Wireless Sensing System Attacks via Metasurface.,Yes
+ccs_2024_228,The Invisible Polyjuice Potion: an Effective Physical Adversarial Attack against Face Recognition.,Yes
+ccs_2024_229,RefleXnoop: Passwords Snooping on NLoS Laptops Leveraging Screen-Induced Sound Reflection.,No
+ccs_2024_230,UWBAD: Towards Effective and Imperceptible Jamming Attacks Against UWB Ranging Systems with COTS Chips.,No.
+ccs_2024_231,Stealing Maggie's Secrets-On the Challenges of IP Theft Through FPGA Reverse Engineering.,No
+ccs_2024_232,Glitch-Stopping Circuits: Hardware Secure Masking without Registers.,No
+ccs_2024_233,Whipping the Multivariate-based MAYO Signature Scheme using Hardware Platforms.,No
+ccs_2024_234,CiMSAT: Exploiting SAT Analysis to Attack Compute-in-Memory Architecture Defenses.,No
+ccs_2024_235,QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems.,No
+ccs_2024_236,Analyzing Inference Privacy Risks Through Gradients In Machine Learning.,Yes
+ccs_2024_237,Membership Inference Attacks Against In-Context Learning.,Yes
+ccs_2024_238,SeqMIA: Sequential-Metric Based Membership Inference Attack.,Yes
+ccs_2024_239,PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps.,Yes
+ccs_2024_240,Uncovering Gradient Inversion Risks in Practical Language Model Training.,Yes
+ccs_2024_241,Curator Attack: When Blackbox Differential Privacy Auditing Loses Its Power.,No
+ccs_2024_242,Data Poisoning Attacks to Locally Differentially Private Frequent Itemset Mining Protocols.,Yes
+ccs_2024_243,TabularMark: Watermarking Tabular Datasets for Machine Learning.,No
+ccs_2024_244,SafeEar: Content Privacy-Preserving Audio Deepfake Detection.,Yes
+ccs_2024_245,PLeak: Prompt Leaking Attacks against Large Language Model Applications.,Yes
+ccs_2024_246,A Framework for Differential Privacy Against Timing Attacks.,No
+ccs_2024_247,Exploiting Temporal Vulnerabilities for Unauthorized Access in Intent-based Networking.,No
+ccs_2024_248,PIC-BI: Practical and Intelligent Combinatorial Batch Identification for UAV assisted IoT Networks.,No
+ccs_2024_249,Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns.,No
+ccs_2024_250,Release the Hounds! Automated Inference and Empirical Security Evaluation of Field-Deployed PLCs Using Active Network Data.,No
+ccs_2024_251,BinPRE: Enhancing Field Inference in Binary Analysis Based Protocol Reverse Engineering.,No
+ccs_2024_252,Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning.,Yes
+ccs_2024_253,Fuzz to the Future: Uncovering Occluded Future Vulnerabilities via Robust Fuzzing.,No
+ccs_2024_254,Fuzzing JavaScript Engines with a Graph-based IR.,No
+ccs_2024_255,CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon.,No
+ccs_2024_256,Leveraging Binary Coverage for Effective Generation Guidance in Kernel Fuzzing.,No
+ccs_2024_257,LiftFuzz: Validating Binary Lifters through Context-aware Fuzzing with GPT.,No
+ccs_2024_258,Prompt Fuzzing for Fuzz Driver Generation.,No
+ccs_2024_259,Alchemy: Data-Free Adversarial Training.,Yes
+ccs_2024_260,"I Don't Know You, But I Can Catch You: Real-Time Defense against Diverse Adversarial Patches for Object Detectors.",Yes
+ccs_2024_261,Beowulf: Mitigating Model Extraction Attacks Via Reshaping Decision Regions.,Yes
+ccs_2024_262,PhySense: Defending Physically Realizable Attacks for Autonomous Systems via Consistency Reasoning.,Yes
+ccs_2024_263,AirGapAgent: Protecting Privacy-Conscious Conversational Agents.,Yes
+ccs_2024_264,ERASER: Machine Unlearning in MLaaS via an Inference Serving-Aware Approach.,Yes
+ccs_2024_265,The HitchHiker's Guide to High-Assurance System Observability Protection with Efficient Permission Switches.,No
+ccs_2024_266,Eclipse: Preventing Speculative Memory-error Abuse with Artificial Data Dependencies.,No
+ccs_2024_267,Toss a Fault to BpfChecker: Revealing Implementation Flaws for eBPF runtimes with Differential Fuzzing.,No
+ccs_2024_268,Program Ingredients Abstraction and Instantiation for Synthesis-based JVM Testing.,No
+ccs_2024_269,VMud: Detecting Recurring Vulnerabilities with Multiple Fixing Functions via Function Selection and Semantic Equivalent Statement Matching.,No
+ccs_2024_270,On Understanding and Forecasting Fuzzers Performance with Static Analysis.,No
+ccs_2024_271,End-to-End Encrypted Cloud Storage in the Wild: A Broken Ecosystem.,No
+ccs_2024_272,Scalable Equi-Join Queries over Encrypted Database.,No
+ccs_2024_273,Graphiti: Secure Graph Computation Made More Scalable.,No
+ccs_2024_274,CoGNN: Towards Secure and Efficient Collaborative Graph Learning.,Yes
+ccs_2024_275,PathGES: An Efficient and Secure Graph Encryption Scheme for Shortest Path Queries.,No
+ccs_2024_276,Secure Vickrey Auctions with Rational Parties.,No
+ccs_2024_277,Batching-Efficient RAM using Updatable Lookup Arguments.,No
+ccs_2024_278,Multi-Verifier Zero-Knowledge Proofs for Any Constant Fraction of Corrupted Verifiers.,No
+ccs_2024_279,"Call Me By My Name: Simple, Practical Private Information Retrieval for Keyword Queries.",No
+ccs_2024_280,Computationally Secure Aggregation and Private Information Retrieval in the Shuffle Model.,No
+ccs_2024_281,Efficient Scalable Multi-Party Private Set Intersection(-Variants) from Bicentric Zero-Sharing.,No
+ccs_2024_282,High-Throughput Three-Party DPFs with Applications to ORAM and Digital Currencies.,No
+ccs_2024_283,"Employees' Attitudes towards Phishing Simulations: ""It's like when a child reaches onto the hot hob"".",No
+ccs_2024_284,"Content, Nudges and Incentives: A Study on the Effectiveness and Perception of Embedded Phishing Training.",No
+ccs_2024_285,"""I Had Sort of a Sense that I Was Always Being Watched...Since I Was"": Examining Interpersonal Discomfort From Continuous Location-Sharing Applications.",No
+ccs_2024_286,When Compiler Optimizations Meet Symbolic Execution: An Empirical Study.,No
+ccs_2024_287,Defying the Odds: Solana's Unexpected Resilience in Spite of the Security Challenges Faced by Developers.,No
+ccs_2024_288,Unmasking the Security and Usability of Password Masking.,No
+ccs_2024_289,Batch Range Proof: How to Make Threshold ECDSA More Efficient.,No
+ccs_2024_290,RSA-Based Dynamic Accumulator without Hashing into Primes.,No
+ccs_2024_291,Non-interactive VSS using Class Groups and Application to DKG.,No
+ccs_2024_292,zkPi: Proving Lean Theorems in Zero-Knowledge.,No
+ccs_2024_293,Zero-Knowledge Proofs of Training for Deep Neural Networks.,No
+ccs_2024_294,Multi-User Security of CCM Authenticated Encryption Mode.,No
+ccs_2024_295,HyperTheft: Thieving Model Weights from TEE-Shielded Neural Networks via Ciphertext Side Channels.,Yes
+ccs_2024_296,NeuJeans: Private Neural Network Inference with Joint Optimization of Convolution and FHE Bootstrapping.,No
+ccs_2024_297,Ents: An Efficient Three-party Training Framework for Decision Trees by Communication Optimization.,No
+ccs_2024_298,Fast and Accurate Homomorphic Softmax Evaluation.,No
+ccs_2024_299,zkLLM: Zero Knowledge Proofs for Large Language Models.,No
+ccs_2024_300,AITIA: Efficient Secure Computation of Bivariate Causal Discovery.,No
+ccs_2024_301,Fisher Information guided Purification against Backdoor Attacks.,Yes
+ccs_2024_302,BadMerging: Backdoor Attacks Against Model Merging.,Yes
+ccs_2024_303,Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense.,Yes
+ccs_2024_304,Mithridates: Auditing and Boosting Backdoor Resistance of Machine Learning Pipelines.,Yes
+ccs_2024_305,DeepCache: Revisiting Cache Side-Channel Attacks in Deep Neural Networks Executables.,No
+ccs_2024_306,Rules Refine the Riddle: Global Explanation for Deep Learning-Based Anomaly Detection in Security Applications.,No
+ccs_2024_307,Boosting Practical Control-Flow Integrity with Complete Field Sensitivity and Origin Awareness.,No
+ccs_2024_308,PowerPeeler: A Precise and General Dynamic Deobfuscation Method for PowerShell Scripts.,No
+ccs_2024_309,ReSym: Harnessing LLMs to Recover Variable and Data Structure Symbols from Stripped Binaries.,No
+ccs_2024_310,Manipulative Interference Attacks.,No
+ccs_2024_311,Isolate and Detect the Untrusted Driver with a Virtual Box.,No
+ccs_2024_312,Gramine-TDX: A Lightweight OS Kernel for Confidential VMs.,No
+ccs_2024_313,ArcEDB: An Arbitrary-Precision Encrypted Database via (Amortized) Modular Homomorphic Encryption.,No
+ccs_2024_314,ISABELLA: Improving Structures of Attribute-Based Encryption Leveraging Linear Algebra.,No
+ccs_2024_315,Conditional Encryption with Applications to Secure Personalized Password Typo Correction.,No
+ccs_2024_316,Practical Non-interactive Encrypted Conjunctive Search with Leakage Suppression.,No
+ccs_2024_317,Securely Training Decision Trees Efficiently.,No
+ccs_2024_318,FABESA: Fast (and Anonymous) Attribute-Based Encryption under Standard Assumption.,No
+ccs_2024_319,Pulsar: Secure Steganography for Diffusion Models.,No
+ccs_2024_320,Protoss: Protocol for Tight Optimal Symmetric Security.,No
+ccs_2024_321,What Did Come Out of It? Analysis and Improvements of DIDComm Messaging.,No
+ccs_2024_322,On the Tight Security of the Double Ratchet.,No
+ccs_2024_323,Fake It till You Make It: Enhancing Security of Bluetooth Secure Connections via Deferrable Authentication.,No
+ccs_2024_324,Reconstructing with Even Less: Amplifying Leakage and Drawing Graphs.,No
+ccs_2024_325,Avara: A Uniform Evaluation System for Perceptibility Analysis Against Adversarial Object Evasion Attacks.,Yes
+ccs_2024_326,SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models.,Yes
+ccs_2024_327,Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?,Yes
+ccs_2024_328,"Image-Perfect Imperfections: Safety, Bias, and Authenticity in the Shadow of Text-To-Image Model Evolution.",Yes
+ccs_2024_329,ZeroFake: Zero-Shot Detection of Fake Images Generated and Edited by Text-to-Image Generation Models.,Yes
+ccs_2024_330,Blind and Low-Vision Individuals' Detection of Audio Deepfakes.,Yes
+ccs_2024_331,HealthSec '24: First ACM CCS Workshop on Cybersecurity in Healthcare.,No
+ccs_2024_332,AACD '24: 11th ACM Workshop on Adaptive and Autonomous Cyber Defense.,Yes
+ccs_2024_333,SaTS '24: The 2nd ACM Workshop on Secure and Trustworthy Superapps.,No
+ccs_2024_334,LAMPS '24: ACM CCS Workshop on Large AI Systems and Models with Privacy and Safety Analysis.,Yes
+ccs_2024_335,WPES '24: 23rd Workshop on Privacy in the Electronic Society (WPES).,No
+ccs_2024_336,RICSS'24: 2nd International Workshop on Re-design Industrial Control Systems with Security.,No
+ccs_2024_337,The 19th Workshop on Programming Languages and Analysis for Security (PLAS 2024).,No
+ccs_2024_338,FEAST'24: Sixth Workshop on Forming an Ecosystem Around Software Transformation.,No
+ccs_2024_339,CCSW 2024 - Cloud Computing Security Workshop.,No
+ccs_2024_340,CheckMATE '24 - Research on Offensive and Defensive Techniques in the context of Man At The End (MATE) Attacks.,No
+ccs_2024_341,CPSIoTSec'24: Sixth Workshop on CPS&IoT Security and Privacy.,No
+ccs_2024_342,AISec '24: 17th ACM Workshop on Artificial Intelligence and Security.,Yes
+ccs_2024_343,DeFi '24: Workshop on Decentralized Finance and Security.,No
+ccs_2024_344,ASHES '24: Workshop on Attacks and Solutions in Hardware Security.,No
+ccs_2024_345,AutonomousCyber '24 - Workshop on Autonomous Cybersecurity.,No
+ccs_2024_346,CSCS '24 - Cyber Security in CarS Workshop.,No
+ccs_2024_347,SCORED '24: Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses.,No
+ccs_2024_348,Poster: Privacy Norms for Fertility Data in the Roe v. Wade era.,No
+ccs_2024_349,Poster: Kill Krill or Proxy RPKI.,No
+ccs_2024_350,Poster: Security of Login Interfaces in Modern Organizations.,No
+ccs_2024_351,Poster: Whether We Are Good Enough to Detect Server-Side Request Forgeries in PHP-native Applications?,No
+ccs_2024_352,Poster: Marian: An Open Source RISC-V Processor with Zvk Vector Cryptography Extensions.,No
+ccs_2024_353,Poster: Towards Real-Time Intrusion Detection with Explainable AI-Based Detector.,No
+ccs_2024_354,"Poster: Patching NSEC3-Encloser: The Good, the Bad, and the Ugly.",No
+ccs_2024_355,Poster: An Exploration of Large Language Models in Malicious Source Code Detection.,Yes
+ccs_2024_356,Poster: The Concept of a System for Automatic Detection and Correction of Vulnerabilities in the Source Code.,No
+ccs_2024_357,Poster: Cyber Security Economics Model (CYSEM).,No
+ccs_2024_358,Poster: AuditVotes: A Framework towards Deployable Certified Robustness for GNNs.,Yes
+ccs_2024_359,Poster: zkTax: A Pragmatic Way to Support Zero-Knowledge Tax Disclosures.,No
+ccs_2024_360,Poster: End-to-End Privacy-Preserving Vertical Federated Learning using Private Cross-Organizational Data Collaboration.,No
+ccs_2024_361,Poster: YFuzz: Data-Driven Fuzzing.,No
+ccs_2024_362,Poster: Repairing Bugs with the Introduction of New Variables: A Multi-Agent Large Language Model.,No
+ccs_2024_363,Poster: In-switch Defense against DNS Amplification DDoS Attacks.,No
+ccs_2024_364,Poster: A Full-stack Secure Deletion Framework for Modern Computing Devices.,No
+ccs_2024_365,Poster: Few-Shot Inter-Domain Routing Threat Detection with Large-Scale Multi-Modal Pre-Training.,No
+ccs_2024_366,Poster: Formally Verified Binary Lifting to P-Code.,No
+ccs_2024_367,"Poster: libdebug, Build Your Own Debugger for a Better (Hello) World.",No
+ccs_2024_368,Poster: M 2 ASK: A Correlation-Based Multi-Step Attack Scenario Detection Framework Using MITRE ATT&CK Mapping.,No
+ccs_2024_369,Poster: Synchronization Concerns of DNS Integrations.,No
+ccs_2024_370,Poster: E-Graphs and Equality Saturation for Term-Rewriting in MBA Deobfuscation: An Empirical Study.,No
+ccs_2024_371,"Poster: Different Victims, Same Layout: Email Visual Similarity Detection for Enhanced Email Protection.",Yes
+ccs_2024_372,Poster: Formalizing Cognitive Biases for Cybersecurity Defenses.,No
+ccs_2024_373,Poster: TAPChecker: Model Checking in Trigger-Action Rules Generation Using Large Language Models.,Yes
+ccs_2024_374,Poster: Gift or Curse? Safety Slider Settings in Tor Website Fingerprinting.,No
+ccs_2024_375,Poster: Detecting Ransomware Attacks by Analyzing Replicated Block Snapshots Using Neural Networks.,Yes
+ccs_2024_376,Poster: Multiparty Private Set Intersection from Multiparty Homomorphic Encryption.,No
+ccs_2024_377,Poster: Post-Quantum Identity-Based Matching Encryption with Revocable Decryption Key.,No
+ccs_2024_378,Poster: A Multi-step Approach for Classification of Malware Samples.,No
+ccs_2024_379,Poster: DoHunter: A feature fusion-based LLM for DoH tunnel detection.,Yes
+ccs_2024_380,Poster: From Fort to Foe: The Threat of RCE in RPKI.,No
+ccs_2024_381,Poster: Unmasking Label Errors: A need for Robust Cybersecurity Benchmarks.,No
+ccs_2024_382,Poster: How Do Visually Impaired Users Navigate Accessibility Challenges in an Ad-Driven Web?,No
+ccs_2024_383,Poster: Automated Dependency Mapping for Web API Security Testing Using Large Language Models.,No
+ccs_2024_384,Poster: Acoustic Side-Channel Attack on Robot Vacuums.,Yes
+ccs_2024_385,Poster: Protecting Source Code Privacy When Hunting Bugs.,No
+ccs_2024_386,Poster: Enhancing Network Traffic Analysis with Pre-trained Side-channel Feature Imputation.,No
+ccs_2024_387,Poster: Protection against Source Inference Attacks in Federated Learning using Unary Encoding and Shuffling.,Yes
+ccs_2024_388,Poster: FlashGuard: Real-time Disruption of Non-Price Flash Loan Attacks in DeFi.,No
+ccs_2024_389,Poster: Analyzing and Correcting Inaccurate CVE-CWE Mappings in the National Vulnerability Database.,No
+ccs_2024_390,Poster: Solving the Free-rider Problem in Bittensor.,No
+ccs_2024_391,Poster: BlindMarket: A Trustworthy Chip Designs Marketplace for IP Vendors and Users.,No
+ccs_2024_392,Poster: Security and Privacy Heterogeneous Environment for Reproducible Experimentation (SPHERE).,No
+ccs_2024_393,Poster: Advanced Features for Real-Time Website Fingerprinting Attacks on Tor.,No
+ccs_2024_394,"Poster: Byzantine Discrepancy Attacks against Calendar, Set-intersection and Nations.",No
+ccs_2024_395,Poster: Enhance Hardware Domain Specific Large Language Model with Reinforcement Learning for Resilience.,No
+ccs_2024_396,Poster: PGPNet: Classify APT Malware Using Prediction-Guided Prototype Network.,No
+ccs_2024_397,Poster: Context-Based Effective Password Detection in Plaintext.,No
+ccs_2024_398,Poster: A Secure Multiparty Computation Platform for Squeaky-Clean Data Rooms.,No
+ccs_2024_399,Demo: Enhancing Smart Contract Security Comprehensively through Dynamic Symbolic Execution.,No
+ccs_2024_400,Demo: FT-PrivacyScore: Personalized Privacy Scoring Service for Machine Learning Participation.,No
+ccs_2024_401,Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code.,Yes
+ccs_2024_402,Demo: Towards Reproducible Evaluations of ML-Based IDS Using Data-Driven Approaches.,No
+ccs_2024_403,Demo: An End-to-End Anonymous Traffic Analysis System.,No
+ccs_2024_404,ACM CCS 2024 Doctoral Symposium.,No.
+ccs_2024_405,Trusted Execution Environments for Quantum Computers.,No
+ccs_2024_406,Towards Secure Runtime Auditing of Remote Embedded System Software.,No
+ccs_2024_407,Understanding and Addressing Online Tracking: Online Privacy's Regulatory Turn.,No
+ccs_2024_408,Catch Me if You Can: Detecting Unauthorized Data Use in Training Deep Learning Models.,Yes
+ccs_2024_409,Evolving Network Security in the Era of Network Programmability.,No
+ccs_2024_410,Symbolic Execution for Dynamic Kernel Analysis.,No
+ccs_2024_411,"Toward Practical Threshold FHE: Low Communication, Computation and Interaction.",No
+ccs_2024_412,Privacy Analyses in Machine Learning.,Yes
+ccs_2024_413,Novel Privacy Attacks and Defenses Against Neural Networks.,Yes
+ccs_2024_414,Leveraging Storage Semantics to Enhance Data Security and Privacy.,No
+ccs_2024_415,Securing Cyber-Physical Systems via Advanced Cyber Threat Intelligence Methods.,No
+ccs_2024_416,Language-based Sandboxing.,No
+ccs_2024_417,Privacy-Preserving Graph Analysis.,No
+ccs_2024_418,Towards Proactive Protection against Unauthorized Speech Synthesis.,Yes

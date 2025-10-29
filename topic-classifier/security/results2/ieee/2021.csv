@@ -1,0 +1,116 @@
+uuid,title,response
+ieee_2021_0,"42nd IEEE Symposium on Security and Privacy, SP 2021, San Francisco, CA, USA, 24-27 May 2021.",No
+ieee_2021_1,Using Selective Memoization to Defeat Regular Expression Denial of Service (ReDoS).,No
+ieee_2021_2,Co-Inflow: Coarse-grained Information Flow Control for Java-like Languages.,No
+ieee_2021_3,When Function Signature Recovery Meets Compiler Optimization.,No
+ieee_2021_4,How Did That Get In My Phone? Unwanted App Distribution on Android Devices.,No
+ieee_2021_5,Android Custom Permissions Demystified: From Privilege Escalation to Design Shortcomings.,No
+ieee_2021_6,"Trust, But Verify: A Longitudinal Analysis Of Android OEM Compliance and Customization.",No
+ieee_2021_7,Detecting AI Trojans Using Meta Neural Analysis.,Yes
+ieee_2021_8,Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding.,Yes
+ieee_2021_9,Machine Unlearning.,No
+ieee_2021_10,Poltergeist: Acoustic Adversarial Machine Learning against Cameras and Computer Vision.,Yes
+ieee_2021_11,Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks.,Yes
+ieee_2021_12,CANNON: Reliable and Stealthy Remote Shutdown Attacks via Unaltered Automotive Microcontrollers.,No
+ieee_2021_13,SoK: Quantifying Cyber Risk.,No
+ieee_2021_14,Self-Supervised Euphemism Detection and Identification for Content Moderation.,No
+ieee_2021_15,"SoK: Hate, Harassment, and the Changing Landscape of Online Abuse.",No
+ieee_2021_16,"Keep the Dirt: Tainted TreeKEM, Adaptively and Actively Secure Continuous Group Key Agreement.",No
+ieee_2021_17,Merkle 2 : A Low-Latency Transparency Log System.,No
+ieee_2021_18,Post-quantum WireGuard.,No
+ieee_2021_19,Invisible Probe: Timing Attacks with PCIe Congestion Side-channel.,No
+ieee_2021_20,CacheOut: Leaking Data on Intel CPUs via Cache Evictions.,No
+ieee_2021_21,PLATYPUS: Software-based Power Side-Channel Attacks on x86.,No
+ieee_2021_22,Defensive Technology Use by Political Activists During the Sudanese Revolution.,No
+ieee_2021_23,DP-Sniper: Black-Box Discovery of Differential Privacy Violations using Classifiers.,No
+ieee_2021_24,Is Private Learning Possible with Instance Encoding?,No
+ieee_2021_25,High-Frequency Trading on Decentralized On-Chain Exchanges.,No
+ieee_2021_26,Ebb-and-Flow Protocols: A Resolution of the Availability-Finality Dilemma.,No
+ieee_2021_27,"Red Belly: A Secure, Fair and Scalable Open Blockchain.",No
+ieee_2021_28,Diane: Identifying Fuzzing Triggers in Apps to Generate Under-constrained Inputs for IoT Devices.,No
+ieee_2021_29,Data Privacy in Trigger-Action Systems.,No
+ieee_2021_30,Which Privacy and Security Attributes Most Impact Consumers' Risk Perception and Willingness to Purchase IoT Devices?,No
+ieee_2021_31,An Interactive Prover for Protocol Verification in the Computational Model.,No
+ieee_2021_32,SmartPulse: Automated Checking of Temporal Properties in Smart Contracts.,No
+ieee_2021_33,An I/O Separation Model for Formal Verification of Kernel Implementations.,No
+ieee_2021_34,Diogenes: Lightweight Scalable RSA Modulus Generation with a Dishonest Majority.,No
+ieee_2021_35,Refresh When You Wake Up: Proactive Threshold Wallets with Offline Devices.,No
+ieee_2021_36,Compact Certificates of Collective Knowledge.,No
+ieee_2021_37,One Engine to Fuzz 'em All: Generic Language Processor Testing with Semantic Validation.,No
+ieee_2021_38,StochFuzz: Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting.,No
+ieee_2021_39,NtFuzz: Enabling Type-Aware Kernel Fuzzing on Windows with Static Binary Analysis.,No
+ieee_2021_40,Who is Real Bob? Adversarial Attacks on Speaker Recognition Systems.,Yes
+ieee_2021_41,"Hear ""No Evil"", See ""Kenansville""*: Efficient and Transferable Black-Box Attacks on Speech Recognition and Voice Identification Systems.",Yes
+ieee_2021_42,SoK: The Faults in our ASRs: An Overview of Attacks against Automatic Speech Recognition and Speaker Identification Systems.,Yes
+ieee_2021_43,"Cross-Domain Access Control Encryption: Arbitrary-policy, Constant-size, Efficient.",No
+ieee_2021_44,Lightweight Techniques for Private Heavy Hitters.,No
+ieee_2021_45,SoK: Computer-Aided Cryptography.,No
+ieee_2021_46,ConDySTA: Context-Aware Dynamic Supplement to Static Taint Analysis.,No
+ieee_2021_47,OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary.,No
+ieee_2021_48,SoK: All You Ever Wanted to Know About x86/x64 Binary Disassembly But Were Afraid to Ask.,No
+ieee_2021_49,Learning Differentially Private Mechanisms.,No
+ieee_2021_50,Adversary Instantiation: Lower Bounds for Differentially Private Machine Learning.,No
+ieee_2021_51,Manipulation Attacks in Local Differential Privacy.,Yes
+ieee_2021_52,Bitcoin-Compatible Virtual Channels.,No
+ieee_2021_53,On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols.,No
+ieee_2021_54,Lockable Signatures for Blockchains: Scriptless Scripts for All Signatures.,No
+ieee_2021_55,Randomized Last-Level Caches Are Still Vulnerable to Cache Side-Channel Attacks! But We Can Fix It.,No
+ieee_2021_56,Bomberman: Defining and Defeating Hardware Ticking Timebombs at Design-time.,No
+ieee_2021_57,Systematic Analysis of Randomization-based Protected Cache Architectures.,No
+ieee_2021_58,SiRnn: A Math Library for Secure RNN Inference.,No
+ieee_2021_59,CryptGPU: Fast Privacy-Preserving Machine Learning on the GPU.,No
+ieee_2021_60,Proof-of-Learning: Definitions and Practice.,No
+ieee_2021_61,PEGASUS: Bridging Polynomial and Non-polynomial Evaluations in Homomorphic Encryption.,No
+ieee_2021_62,"Wolverine: Fast, Scalable, and Communication-Efficient Zero-Knowledge Proofs for Boolean and Arithmetic Circuits.",No
+ieee_2021_63,SoK: Fully Homomorphic Encryption Compilers.,No
+ieee_2021_64,CrawlPhish: Large-scale Analysis of Client-side Cloaking Techniques in Phishing.,No
+ieee_2021_65,Black Widow: Blackbox Data-driven Web Scanning.,No
+ieee_2021_66,Fingerprinting the Fingerprinters: Learning to Detect Browser Fingerprinting Behaviors.,No
+ieee_2021_67,A Security Model and Fully Verified Implementation for the IETF QUIC Record Layer.,No
+ieee_2021_68,"Cross Layer Attacks and How to Use Them (for DNS Cache Poisoning, Device Tracking and More).",No
+ieee_2021_69,Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis.,No
+ieee_2021_70,SGUARD: Towards Fixing Vulnerable Smart Contracts Automatically.,No
+ieee_2021_71,MAD-HTLC: Because HTLC is Crazy-Cheap to Attack.,No
+ieee_2021_72,Compositional Security for Reentrant Applications.,No
+ieee_2021_73,HackEd: A Pedagogical Analysis of Online Vulnerability Discovery Exercises.,No
+ieee_2021_74,DifuzzRTL: Differential Fuzz Testing to Find CPU Bugs.,No
+ieee_2021_75,When LoRa Meets EMR: Electromagnetic Covert Channels Can Be Super Resilient.,No
+ieee_2021_76,Linking Bluetooth LE & Classic and Implications for Privacy-Preserving Bluetooth-Based Protocols.,No
+ieee_2021_77,Method Confusion Attack on Bluetooth Pairing.,No
+ieee_2021_78,"CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability.",No
+ieee_2021_79,They Would do Better if They Worked Together: The Case of Interaction Problems Between Password Managers and Websites.,No
+ieee_2021_80,Improving Password Guessing via Representation Learning.,No
+ieee_2021_81,ARBITRAR: User-Guided API Misuse Detection.,No
+ieee_2021_82,Compositional Non-Interference for Fine-Grained Concurrent Programs.,No
+ieee_2021_83,SoK: Security and Privacy in the Age of Commercial Drones.,No
+ieee_2021_84,A First Look at Zoombombing.,No
+ieee_2021_85,Revealer: Detecting and Exploiting Regular Expression Denial-of-Service Vulnerabilities.,No
+ieee_2021_86,Breaking the Specification: PDF Certification.,No
+ieee_2021_87,Response-Hiding Encrypted Ranges: Revisiting Security via Parametrized Leakage-Abuse Attacks.,No
+ieee_2021_88,A Decentralized and Encrypted National Gun Registry.,No.
+ieee_2021_89,Zero Knowledge for Everything and Everyone: Fast ZK Processor with Cached ORAM for ANSI C Programs.,No
+ieee_2021_90,Survivalism: Systematic Analysis of Windows Malware Living-Off-The-Land.,No
+ieee_2021_91,Runtime Recovery of Web Applications under Zero-Day ReDoS Attacks.,No
+ieee_2021_92,"Good Bot, Bad Bot: Characterizing Automated Browsing Activity.",No
+ieee_2021_93,Trouble Over-The-Air: An Analysis of FOTA Apps in the Android Ecosystem.,No
+ieee_2021_94,Doing good by fighting fraud: Ethical anti-fraud systems for mobile payments.,No
+ieee_2021_95,Happer: Unpacking Android Apps via a Hardware-Assisted Approach.,No
+ieee_2021_96,The Provable Security of Ed25519: Theory and Practice.,No
+ieee_2021_97,Epochal Signatures for Deniable Group Chats.,No
+ieee_2021_98,BUFFing signature schemes beyond unforgeability and the case of post-quantum signatures.,No
+ieee_2021_99,Detecting Filter List Evasion with Event-Loop-Turn Granularity JavaScript Signatures.,No
+ieee_2021_100,Reading Between the Lines: An Extensive Evaluation of the Security and Privacy Implications of EPUB Reading Systems.,No
+ieee_2021_101,Did you mix me? Formally Verifying Verifiable Mix Nets in Electronic Voting.,No
+ieee_2021_102,"The EMV Standard: Break, Fix, Verify.",No
+ieee_2021_103,A Secure and Formally Verified Linux KVM Hypervisor.,No
+ieee_2021_104,Many-out-of-Many Proofs and Applications to Anonymous Zether.,No
+ieee_2021_105,On the Anonymity Guarantees of Anonymous Proof-of-Stake Protocols.,No
+ieee_2021_106,A 2 L: Anonymous Atomic Locks for Scalability in Payment Channel Hubs.,No
+ieee_2021_107,CrossTalk: Speculative Data Leaks Across Cores Are Real.,No.
+ieee_2021_108,Hardware-Software Contracts for Secure Speculation.,No
+ieee_2021_109,High-Assurance Cryptography in the Spectre Era.,No
+ieee_2021_110,A Novel Dynamic Analysis Infrastructure to Instrument Untrusted Execution Flow Across User-Kernel Spaces.,No
+ieee_2021_111,DynPTA: Combining Static and Dynamic Analysis for Practical Selective Data Protection.,No
+ieee_2021_112,DICE: Automatic Emulation of DMA Input Channels for Dynamic Firmware Analysis.,No
+ieee_2021_113,Real-World Snapshots vs. Theory: Questioning the t-Probing Security Model.,No
+ieee_2021_114,CRYLOGGER: Detecting Crypto Misuses Dynamically.,No

@@ -1,0 +1,121 @@
+uuid,title,response
+ccs_2023_0,"Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security, CCS 2023, Copenhagen, Denmark, November 26-30, 2023.",No
+ccs_2023_1,"ASMesh: Anonymous and Secure Messaging in Mesh Networks Using Stronger, Anonymous Double Ratchet.",No
+ccs_2023_2,"Lattice-Based Blind Signatures: Short, Efficient, and Round-Optimal.",No
+ccs_2023_3,Aggregate Signatures with Versatile Randomization and Issuer-Hiding Multi-Authority Anonymous Credentials.,No
+ccs_2023_4,"Concurrent Security of Anonymous Credentials Light, Revisited.",No
+ccs_2023_5,"Decoding the Secrets of Machine Learning in Malware Classification: A Deep Dive into Datasets, Feature Extraction, and Model Performance.",No
+ccs_2023_6,Privacy Leakage via Speech-induced Vibrations on Room Objects through Remote Sensing based on Phased-MIMO.,No
+ccs_2023_7,Efficient Query-Based Attack against ML-Based Android Malware Detection under Zero Knowledge Setting.,Yes
+ccs_2023_8,Your Battery Is a Blast! Safeguarding Against Counterfeit Batteries with Authentication.,No
+ccs_2023_9,TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum.,No
+ccs_2023_10,Uncle Maker: (Time)Stamping Out The Competition in Ethereum.,No
+ccs_2023_11,How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance.,No
+ccs_2023_12,Demystifying DeFi MEV Activities in Flashbots Bundle.,No
+ccs_2023_13,Marketing to Children Through Online Targeted Advertising: Targeting Mechanisms and Legal Aspects.,No
+ccs_2023_14,"Pakistani Teens and Privacy - How Gender Disparities, Religion and Family Values Impact the Privacy Design Space.",No
+ccs_2023_15,Comprehension from Chaos: Towards Informed Consent for Private Computation.,No
+ccs_2023_16,Privacy in the Age of Neurotechnology: Investigating Public Attitudes towards Brain Data Collection and Use.,No
+ccs_2023_17,Password-Stealing without Hacking: Wi-Fi Enabled Practical Keystroke Eavesdropping.,Yes
+ccs_2023_18,Recovering Fingerprints from In-Display Fingerprint Sensors via Electromagnetic Side Channel.,No
+ccs_2023_19,Optical Cryptanalysis: Recovering Cryptographic Keys from Power LED Light Fluctuations.,No
+ccs_2023_20,The Danger of Minimum Exposures: Understanding Cross-App Information Leaks on iOS through Multi-Side-Channel Learning.,No
+ccs_2023_21,Silence is not Golden: Disrupting the Load Balancing of Authoritative DNS Servers.,No
+ccs_2023_22,TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers.,No
+ccs_2023_23,Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild.,No
+ccs_2023_24,Travelling the Hypervisor and SSD: A Tag-Based Approach Against Crypto Ransomware with Fine-Grained Data Recovery.,No
+ccs_2023_25,"Threshold Signatures from Inner Product Argument: Succinct, Weighted, and Multi-threshold.",No
+ccs_2023_26,Post Quantum Fuzzy Stealth Signatures and Applications.,No
+ccs_2023_27,Chipmunk: Better Synchronized Multi-Signatures from Lattices.,No
+ccs_2023_28,AIM: Symmetric Primitive for Shorter Signatures with Stronger Security.,No
+ccs_2023_29,FINER: Enhancing State-of-the-art Classifiers with Feature Attribution to Facilitate Security Analysis.,No
+ccs_2023_30,Good-looking but Lacking Faithfulness: Understanding Local Explanation Methods through Trend-based Testing.,Yes
+ccs_2023_31,FaceReader: Unobtrusively Mining Vital Signs and Vital Sign Embedded Sensitive Info via AR/VR Motion Sensors.,No
+ccs_2023_32,AntiFake: Using Adversarial Audio to Prevent Unauthorized Speech Synthesis.,Yes
+ccs_2023_33,"Themis: Fast, Strong Order-Fairness in Byzantine Consensus.",No
+ccs_2023_34,Towards Practical Sleepy BFT.,No
+ccs_2023_35,ParBFT: Faster Asynchronous BFT Consensus with a Parallel Optimistic Path.,No
+ccs_2023_36,Abraxas: Throughput-Efficient Hybrid Asynchronous Consensus.,No
+ccs_2023_37,Ou: Automating the Parallelization of Zero-Knowledge Protocols.,No
+ccs_2023_38,Black Ostrich: Web Application Scanning with String Solvers.,No
+ccs_2023_39,Comparse: Provably Secure Formats for Cryptographic Protocols.,No
+ccs_2023_40,Exploration of Power Side-Channel Vulnerabilities in Quantum Computer Controllers.,No
+ccs_2023_41,Securing NISQ Quantum Computer Reset Operations Against Higher Energy State Attacks.,No
+ccs_2023_42,Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting.,No
+ccs_2023_43,Protecting HRP UWB Ranging System Against Distance Reduction Attacks.,No
+ccs_2023_44,BLUFFS: Bluetooth Forward and Future Secrecy Attacks and Defenses.,No
+ccs_2023_45,When Free Tier Becomes Free to Enter: A Non-Intrusive Way to Identify Security Cameras with no Cloud Subscription.,No
+ccs_2023_46,Formal Analysis of Access Control Mechanism of 5G Core Network.,No
+ccs_2023_47,IoTFlow: Inferring IoT Device Behavior at Scale through Static Mobile Companion App Analysis.,No
+ccs_2023_48,Homomorphic Multiple Precision Multiplication for CKKS and Reduced Modulus Consumption.,No
+ccs_2023_49,PELTA - Shielding Multiparty-FHE against Malicious Adversaries.,No
+ccs_2023_50,Asymptotically Faster Multi-Key Homomorphic Encryption from Homomorphic Gadget Decomposition.,No
+ccs_2023_51,FPT: A Fixed-Point Accelerator for Torus Fully Homomorphic Encryption.,No
+ccs_2023_52,Stolen Risks of Models with Security Properties.,Yes
+ccs_2023_53,Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.,Yes
+ccs_2023_54,Stateful Defenses for Machine Learning Models Are Not Yet Secure Against Black-box Attacks.,Yes
+ccs_2023_55,Attack Some while Protecting Others: Selective Attack Strategies for Attacking and Protecting Multiple Concepts.,Yes
+ccs_2023_56,FIN: Practical Signature-Free Asynchronous Common Subset in Constant Time.,No
+ccs_2023_57,Analyzing the Real-World Security of the Algorand Blockchain.,No
+ccs_2023_58,Fait Accompli Committee Selection: Improving the Size-Security Tradeoff of Stake-Based Committees.,No
+ccs_2023_59,LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures.,No
+ccs_2023_60,Capacity: Cryptographically-Enforced In-Process Capabilities for Modern ARM Architectures.,No
+ccs_2023_61,Cryptographically Enforced Memory Safety.,No
+ccs_2023_62,Put Your Memory in Order: Efficient Domain-based Memory Isolation for WASM Applications.,No
+ccs_2023_63,PANIC: PAN-assisted Intra-process Memory Isolation on ARM.,No
+ccs_2023_64,Security Verification of Low-Trust Architectures.,No
+ccs_2023_65,TunneLs for Bootlegging: Fully Reverse-Engineering GPU TLBs for Challenging Isolation Guarantees of NVIDIA MIG.,No
+ccs_2023_66,FetchBench: Systematic Identification and Characterization of Proprietary Prefetchers.,No
+ccs_2023_67,Combined Private Circuits - Combined Security Refurbished.,No
+ccs_2023_68,Point Cloud Analysis for ML-Based Malicious Traffic Detection: Reducing Majorities of False Positive Alarms.,Yes
+ccs_2023_69,Learning from Limited Heterogeneous Training Data: Meta-Learning for Unsupervised Zero-Day Web Attack Detection across Web Domains.,No
+ccs_2023_70,Realistic Website Fingerprinting By Augmenting Network Traces.,Yes
+ccs_2023_71,Transformer-based Model for Multi-tab Website Fingerprinting Attack.,No
+ccs_2023_72,Efficient Registration-Based Encryption.,No
+ccs_2023_73,Efficient Set Membership Encryption and Applications.,No
+ccs_2023_74,Realizing Flexible Broadcast Encryption: How to Broadcast to a Public-Key Directory.,No
+ccs_2023_75,Post-Quantum Multi-Recipient Public Key Encryption.,No
+ccs_2023_76,Prediction Privacy in Distributed Multi-Exit Neural Networks: Vulnerabilities and Solutions.,Yes
+ccs_2023_77,Unforgeability in Stochastic Gradient Descent.,Yes
+ccs_2023_78,Devil in Disguise: Breaching Graph Neural Networks Privacy through Infiltration.,Yes
+ccs_2023_79,Evading Watermark based Detection of AI-Generated Content.,Yes
+ccs_2023_80,Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos.,No
+ccs_2023_81,Fuzz on the Beach: Fuzzing Solana Smart Contracts.,No
+ccs_2023_82,Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning.,No
+ccs_2023_83,Riggs: Decentralized Sealed-Bid Auctions.,No
+ccs_2023_84,DSFuzz: Detecting Deep State Bugs with Dependent State Exploration.,No
+ccs_2023_85,Profile-guided System Optimizations for Accelerated Greybox Fuzzing.,No
+ccs_2023_86,NestFuzz: Enhancing Fuzzing with Comprehensive Understanding of Input Processing Logic.,No
+ccs_2023_87,Lifting Network Protocol Implementation to Precise Format Specification with Security Applications.,No
+ccs_2023_88,MicPro: Microphone-based Voice Privacy Protection.,No
+ccs_2023_89,TileMask: A Passive-Reflection-based Attack against mmWave Radar Object Detection in Autonomous Driving.,Yes
+ccs_2023_90,SHERLOC: Secure and Holistic Control-Flow Violation Detection on Embedded Systems.,No
+ccs_2023_91,Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence.,No
+ccs_2023_92,CryptoBap: A Binary Analysis Platform for Cryptographic Protocols.,No
+ccs_2023_93,A Generic Methodology for the Modular Verification of Security Protocol Implementations.,No
+ccs_2023_94,Provably Unlinkable Smart Card-based Payments.,No
+ccs_2023_95,CheckMate: Automated Game-Theoretic Security Reasoning.,No
+ccs_2023_96,Recursion over Public-Coin Interactive Proof Systems; Faster Hash Verification.,No
+ccs_2023_97,Modular Sumcheck Proofs with Applications to Machine Learning and Image Processing.,No
+ccs_2023_98,Batchman and Robin: Batched and Non-batched Branching for Interactive ZK.,No
+ccs_2023_99,Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions.,No
+ccs_2023_100,Turning Privacy-preserving Mechanisms against Federated Learning.,Yes
+ccs_2023_101,martFL: Enabling Utility-Driven Data Marketplace with a Robust and Verifiable Federated Learning Architecture.,Yes
+ccs_2023_102,Unraveling the Connections between Privacy and Certified Robustness in Federated Learning Against Poisoning Attacks.,Yes
+ccs_2023_103,MESAS: Poisoning Defense for Federated Learning Resilient against Adaptive Attackers.,Yes
+ccs_2023_104,"Accio: Variable-Amount, Optimized-Unlinkable and NIZK-Free Off-Chain Payments via Hubs.",No
+ccs_2023_105,CryptoConcurrency: (Almost) Consensusless Asset Transfer with Shared Accounts.,No
+ccs_2023_106,TrustBoost: Boosting Trust among Interoperable Blockchains.,No.
+ccs_2023_107,Interchain Timestamping for Mesh Security.,No.
+ccs_2023_108,Hopper: Interpretative Fuzzing for Libraries.,No
+ccs_2023_109,Greybox Fuzzing of Distributed Systems.,No
+ccs_2023_110,SyzDirect: Directed Greybox Fuzzing for Linux Kernel.,No
+ccs_2023_111,PyRTFuzz: Detecting Bugs in Python Runtimes via Two-Level Collaborative Fuzzing.,No
+ccs_2023_112,FITS: Matching Camera Fingerprints Subject to Software Noise Pollution.,No
+ccs_2023_113,LeakyOhm: Secret Bits Extraction using Impedance Analysis.,No
+ccs_2023_114,A Systematic Evaluation of Automated Tools for Side-Channel Vulnerabilities Detection in Cryptographic Libraries.,No
+ccs_2023_115,A Thorough Evaluation of RAMBAM.,No
+ccs_2023_116,"A Novel Analysis of Utility in Privacy Pipelines, Using Kronecker Products and Quantitative Information Flow.",No
+ccs_2023_117,Tainted Secure Multi-Execution to Restrict Attacker Influence.,No
+ccs_2023_118,Assume but Verify: Deductive Verification of Leaked Information in Concurrent Applications.,No
+ccs_2023_119,Deciding Differential Privacy of Online Algorithms with Multiple Variables.,No

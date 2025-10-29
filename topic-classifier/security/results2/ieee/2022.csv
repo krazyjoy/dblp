@@ -1,0 +1,150 @@
+uuid,title,response
+ieee_2022_0,"43rd IEEE Symposium on Security and Privacy, SP 2022, San Francisco, CA, USA, May 22-26, 2022.",No
+ieee_2022_1,PATA: Fuzzing with Path Aware Taint Analysis.,No
+ieee_2022_2,JIGSAW: Efficient and Scalable Path Constraints Fuzzing.,No
+ieee_2022_3,BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning.,No
+ieee_2022_4,Automated Attack Synthesis by Extracting Finite State Machines from Protocol Specification Documents.,Yes
+ieee_2022_5,"ProVerif with Lemmas, Induction, Fast Subsumption, and Much More.",No
+ieee_2022_6,Four Attacks and a Proof for Telegram.,No
+ieee_2022_7,Noise*: A Library of Verified High-Performance Secure Channel Protocol Implementations.,No
+ieee_2022_8,A Logic and an Interactive Prover for the Computational Post-Quantum Security of Protocols.,No
+ieee_2022_9,IronMask: Versatile Verification of Masking Security.,No
+ieee_2022_10,SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds.,No
+ieee_2022_11,ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs.,No
+ieee_2022_12,Quantifying Blockchain Extractable Value: How dark is the forest?,No
+ieee_2022_13,A Formal Security Analysis of the W3C Web Payment APIs: Attacks and Verification.,No
+ieee_2022_14,Cats vs. Spectre: An Axiomatic Approach to Modeling Speculative Execution Attacks.,No
+ieee_2022_15,TASHAROK: Using Mechanism Design for Enhancing Security Resource Allocation in Interdependent Systems.,No
+ieee_2022_16,SoK: Authentication in Augmented and Virtual Reality.,No
+ieee_2022_17,Delay Wreaks Havoc on Your Smart Home: Delay-based Automation Interference Attacks.,No
+ieee_2022_18,Peekaboo: A Hub-Based Approach to Enable Transparency in Data Processing within Smart Homes.,No
+ieee_2022_19,vSGX: Virtualizing SGX Enclaves on AMD SEV.,No
+ieee_2022_20,A Systematic Look at Ciphertext Side Channels on AMD SEV-SNP.,No
+ieee_2022_21,RT-TEE: Real-time System Availability for Cyber-physical Systems using ARM TrustZone.,No
+ieee_2022_22,A Secret-Free Hypervisor: Rethinking Isolation in the Age of Speculative Vulnerabilities.,No
+ieee_2022_23,Smile: Secure Memory Introspection for Live Enclave.,No.
+ieee_2022_24,Statistical Quantification of Differential Privacy: A Local Approach.,No
+ieee_2022_25,Locally Differentially Private Sparse Vector Aggregation.,No
+ieee_2022_26,Differentially Private Histograms in the Shuffle Model from Fake Users.,No
+ieee_2022_27,Differential Privacy and Swapping: Examining De-Identification's Impact on Minority Representation and Privacy Preservation in the U.S. Census.,No
+ieee_2022_28,Are We There Yet? Timing and Floating-Point Attacks on Differential Privacy Systems.,No
+ieee_2022_29,SHADEWATCHER: Recommendation-guided Cyber Threat Analysis using System Audit Records.,No
+ieee_2022_30,SIRAJ: A Unified Framework for Aggregation of Malicious Entity Detectors.,No.
+ieee_2022_31,DEEPCASE: Semi-Supervised Contextual Analysis of Security Events.,No
+ieee_2022_32,DEPCOMM: Graph Summarization on System Audit Logs for Attack Investigation.,No
+ieee_2022_33,Measuring and Mitigating the Risk of IP Reuse on Public Clouds.,No
+ieee_2022_34,SecFloat: Accurate Floating-Point meets Secure 2-Party Computation.,No
+ieee_2022_35,Multi-Server Verifiable Computation of Low-Degree Polynomials.,No
+ieee_2022_36,Why Crypto-detectors Fail: A Systematic Evaluation of Cryptographic Misuse Detection Techniques.,No
+ieee_2022_37,"""They're not that hard to mitigate"": What Cryptographic Library Developers Think About Timing Attacks.",No
+ieee_2022_38,"Annotating, Tracking, and Protecting Cryptographic Secrets with CryptoMPK.",No
+ieee_2022_39,SoK: Practical Foundations for Software Spectre Defenses.,No
+ieee_2022_40,SpecHammer: Combining Spectre and Rowhammer for New Speculative Attacks.,No
+ieee_2022_41,Spook.js: Attacking Chrome Strict Site Isolation via Speculative Execution.,No
+ieee_2022_42,BLACKSMITH: Scalable Rowhammering in the Frequency Domain.,No
+ieee_2022_43,ProTRR: Principled yet Optimal In-DRAM Target Row Refresh.,No
+ieee_2022_44,Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions.,Yes
+ieee_2022_45,Spinning Language Models: Risks of Propaganda-As-A-Service and Countermeasures.,Yes
+ieee_2022_46,SoK: How Robust is Image Classification Deep Neural Network Watermarking?,Yes
+ieee_2022_47,Transcending TRANSCEND: Revisiting Malware Classification in the Presence of Concept Drift.,Yes
+ieee_2022_48,"Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models.",No
+ieee_2022_49,Phishing in Organizations: Findings from a Large-Scale and Long-Term Study.,No
+ieee_2022_50,27 Years and 81 Million Opportunities Later: Investigating the Use of Email Encryption for an Entire University.,No
+ieee_2022_51,Investigating Influencer VPN Ads on YouTube.,No
+ieee_2022_52,How Does Usable Security (Not) End Up in Software Products? Results From a Qualitative Interview Study.,No
+ieee_2022_53,Private Approximate Nearest Neighbor Search with Sublinear Communication.,No
+ieee_2022_54,"SPIRAL: Fast, High-Rate Single-Server PIR via FHE Composition.",No
+ieee_2022_55,SNARKBlock: Federated Anonymous Blocklisting from Hidden Common Input Aggregate Proofs.,No
+ieee_2022_56,How to Attack and Generate Honeywords.,No
+ieee_2022_57,WIGHT: Wired Ghost Touch Attack on Capacitive Touchscreens.,No
+ieee_2022_58,Time-Print: Authenticating USB Flash Drives with Novel Timing Fingerprints.,No
+ieee_2022_59,Device Fingerprinting with Peripheral Timestamps.,No
+ieee_2022_60,PCR-Auth: Solving Authentication Puzzle Challenge with Encoded Palm Contact Response.,No
+ieee_2022_61,Mitigating Information Leakage Vulnerabilities with Type-based Data Isolation.,No
+ieee_2022_62,SYMBEXCEL: Automated Analysis and Understanding of Malicious Excel 4.0 Macros.,No
+ieee_2022_63,HEAPSTER: Analyzing the Security of Dynamic Allocators for Monolithic Firmware Images.,No
+ieee_2022_64,SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications.,No
+ieee_2022_65,Property Inference from Poisoning.,Yes
+ieee_2022_66,Reconstructing Training Data with Informed Adversaries.,Yes
+ieee_2022_67,DeepSteal: Advanced Model Extractions Leveraging Efficient Weight Stealing in Memories.,Yes
+ieee_2022_68,Model Stealing Attacks Against Inductive Graph Neural Networks.,Yes
+ieee_2022_69,Noise-SDR: Arbitrary Modulation of Electromagnetic Noise from Unprivileged Software and Its Impact on Emission Security.,No
+ieee_2022_70,mmSpy: Spying Phone Calls using mmWave Radars.,No
+ieee_2022_71,Attacks on Wireless Coexistence: Exploiting Cross-Technology Performance Features for Inter-Chip Privilege Escalation.,No
+ieee_2022_72,Invisible Finger: Practical Electromagnetic Interference Attack on Touchscreen-based Electronic Devices.,No
+ieee_2022_73,Using Throughput-Centric Byzantine Broadcast to Tolerate Malicious Majority in Blockchains.,No
+ieee_2022_74,MatRiCT + : More Efficient Post-Quantum Private Blockchain Payments.,No
+ieee_2022_75,Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains.,No
+ieee_2022_76,Foundations of Dynamic BFT.,No
+ieee_2022_77,COBRA: Dynamic Proactive Secret Sharing for Confidential BFT Services.,No
+ieee_2022_78,Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks on Production Federated Learning.,Yes
+ieee_2022_79,Model Orthogonalization: Class Distance Hardening in Neural Networks for Better Security.,Yes
+ieee_2022_80,Universal 3-Dimensional Perturbations for Black-Box Attacks on Video Recognition Systems.,Yes
+ieee_2022_81,"""Adversarial Examples"" for Proof-of-Learning.",Yes
+ieee_2022_82,Transfer Attacks Revisited: A Large-Scale Empirical Study in Real Computer Vision Settings.,Yes.
+ieee_2022_83,Graphics Peeping Unit: Exploiting EM Side-Channel Information of GPUs to Eavesdrop on Your Neighbors.,No
+ieee_2022_84,Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks.,No
+ieee_2022_85,Finding and Exploiting CPU Features using MSR Templating.,No
+ieee_2022_86,Augury: Using Data Memory-Dependent Prefetchers to Leak Data at Rest.,No
+ieee_2022_87,MeshUp: Stateless Cache Side-channel Attack on CPU Mesh.,No
+ieee_2022_88,Timing-Based Browsing Privacy Vulnerabilities Via Site Isolation.,No
+ieee_2022_89,WTAGRAPH: Web Tracking and Advertising Detection using Graph Neural Networks.,No
+ieee_2022_90,Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense.,Yes
+ieee_2022_91,Wobfuscator: Obfuscating JavaScript Malware via Opportunistic Translation to WebAssembly.,Yes
+ieee_2022_92,"The State of the SameSite: Studying the Usage, Effectiveness, and Adequacy of SameSite Cookies.",No
+ieee_2022_93,IRQDebloat: Reducing Driver Attack Surface in Embedded Devices.,No
+ieee_2022_94,Finding SMM Privilege-Escalation Vulnerabilities in UEFI Firmware with Protocol-Centric Static Analysis.,No
+ieee_2022_95,Mind the Gap: Studying the Insecurity of Provably Secure Embedded Trusted Execution Architectures.,No
+ieee_2022_96,How Not to Protect Your IP - An Industry-Wide Break of IEEE 1735 Implementations.,No
+ieee_2022_97,Hardening Circuit-Design IP Against Reverse-Engineering Attacks.,No
+ieee_2022_98,Evaluating Physical-Layer BLE Location Tracking Attacks on Mobile Devices.,No
+ieee_2022_99,IRShield: A Countermeasure Against Adversarial Physical-Layer Wireless Sensing.,No
+ieee_2022_100,Anti-Tamper Radio: System-Level Tamper Detection for Computing Systems.,No
+ieee_2022_101,Practical EMV Relay Protection.,No
+ieee_2022_102,AccEar: Accelerometer Acoustic Eavesdropping with Unconstrained Vocabulary.,No
+ieee_2022_103,Towards Automated Auditing for Account and Session Management Flaws in Single Sign-On Deployments.,No
+ieee_2022_104,HARDLOG: Practical Tamper-Proof System Auditing Using a Novel Audit Device.,No
+ieee_2022_105,SWARMFLAWFINDER: Discovering and Exploiting Logic Flaws of Swarm Algorithms.,Yes
+ieee_2022_106,PGPatch: Policy-Guided Logic Bug Patching for Robotic Vehicles.,No
+ieee_2022_107,"""Flawed, but like democracy we don't have a better system"": The Experts' Insights on the Peer Review Process of Evaluating Security Papers.",No
+ieee_2022_108,SoK: Social Cybersecurity.,No
+ieee_2022_109,Committed to Trust: A Qualitative Study on Security & Trust in Open Source Software Projects.,No
+ieee_2022_110,Membership Inference Attacks From First Principles.,Yes
+ieee_2022_111,DeepCoFFEA: Improved Flow Correlation Attacks on Tor via Metric Learning and Amplification.,No
+ieee_2022_112,ShorTor: Improving Tor Network Latency via Multi-hop Overlay Routing.,No
+ieee_2022_113,Sabre: Sender-Anonymous Messaging with Fast Audits.,No
+ieee_2022_114,Security Foundations for Application-Based Covert Communication Channels.,No
+ieee_2022_115,Bad Characters: Imperceptible NLP Attacks.,Yes
+ieee_2022_116,Journey to the Center of the Cookie Ecosystem: Unraveling Actors' Roles and Relationships.,No
+ieee_2022_117,LINKTELLER: Recovering Private Edges from Graph Neural Networks via Influence Analysis.,Yes
+ieee_2022_118,Piccolo: Exposing Complex Backdoors in NLP Transformer Models.,Yes
+ieee_2022_119,BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning.,Yes
+ieee_2022_120,Repairing DoS Vulnerability of Real-World Regexes.,No
+ieee_2022_121,GREBE: Unveiling Exploitation Potential for Linux Kernel Bugs.,No
+ieee_2022_122,Goshawk: Hunting Memory Corruptions via Structure-Aware and Object-Centric Memory Operation Synopsis.,No
+ieee_2022_123,FSAFlow: Lightweight and Fast Dynamic Path Tracking and Control for Privacy Protection on Android Using Hybrid Analysis with State-Reduction Strategy.,No
+ieee_2022_124,Domains Do Change Their Spots: Quantifying Potential Abuse of Residual Trust.,No
+ieee_2022_125,Scraping Sticky Leftovers: App User Information Left on Servers After Account Deletion.,No
+ieee_2022_126,TrollMagnifier: Detecting State-Sponsored Troll Accounts on Reddit.,No
+ieee_2022_127,Analyzing Ground-Truth Data of Mobile Gambling Scams.,No
+ieee_2022_128,Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis.,No
+ieee_2022_129,FuzzUSB: Hybrid Stateful Fuzzing of USB Gadget Stacks.,No
+ieee_2022_130,Exploit the Last Straw That Breaks Android Systems.,No
+ieee_2022_131,"CirC: Compiler infrastructure for proof systems, software verification, and more.",No
+ieee_2022_132,HAMRAZ: Resilient Partitioning and Replication.,No
+ieee_2022_133,Formal Model-Driven Discovery of Bluetooth Protocol Design Vulnerabilities.,No
+ieee_2022_134,"""Desperate Times Call for Desperate Measures"": User Concerns with Mobile Loan Apps in Kenya.",No
+ieee_2022_135,SoK: The Dual Nature of Technology in Sexual Abuse.,No
+ieee_2022_136,SoK: A Framework for Unifying At-Risk User Research.,No
+ieee_2022_137,Deployment of Source Address Validation by Network Operators: A Randomized Control Trial.,No
+ieee_2022_138,"Exposed Infrastructures: Discovery, Attacks and Remediation of Insecure ICS Remote Management Devices.",No
+ieee_2022_139,Robbery on DevOps: Understanding and Mitigating Illicit Cryptomining on Continuous Integration Service Platforms.,No
+ieee_2022_140,Privacy-from-Birth: Protecting Sensed Data from Malicious Sensors with VERSA.,No
+ieee_2022_141,Publicly Accountable Robust Multi-Party Computation.,No
+ieee_2022_142,Waldo: A Private Time-Series Database from Function Secret Sharing.,No
+ieee_2022_143,Hark: A Deep Learning System for Navigating Privacy Feedback at Scale.,No
+ieee_2022_144,Sphinx: Enabling Privacy-Preserving Online Learning over the Cloud.,No
+ieee_2022_145,Spurt: Scalable Distributed Randomness Beacon with Transparent Setup.,No
+ieee_2022_146,Practical Asynchronous Distributed Key Generation.,No
+ieee_2022_147,Security Analysis of the MLS Key Derivation.,No
+ieee_2022_148,Low-Bandwidth Threshold ECDSA via Pseudorandom Correlation Generators.,No

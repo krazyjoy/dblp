@@ -1,0 +1,289 @@
+uuid,title,response
+ccs_2022_0,"Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, CCS 2022, Los Angeles, CA, USA, November 7-11, 2022.",No
+ccs_2022_1,Designing Hardware for Cryptography and Cryptography for Hardware.,No
+ccs_2022_2,"We Are the Experts, and We Are the Problem: The Security Advice Fiasco.",No
+ccs_2022_3,Sustainability is a Security Problem.,No
+ccs_2022_4,Updatable Public Key Encryption from DCR: Efficient Constructions With Stronger Security.,No
+ccs_2022_5,Helping or Hindering?: How Browser Extensions Undermine Security.,No
+ccs_2022_6,"Practical, Round-Optimal Lattice-Based Blind Signatures.",No
+ccs_2022_7,Blacktooth: Breaking through the Defense of Bluetooth in Silence.,No
+ccs_2022_8,Server-Aided Continuous Group Key Agreement.,No
+ccs_2022_9,Enforcing Fine-grained Constant-time Policies.,No
+ccs_2022_10,Post Quantum Noise.,No
+ccs_2022_11,Laconic Private Set-Intersection From Pairings.,No
+ccs_2022_12,Efficient Secure Three-Party Sorting with Applications to Data Analysis and Heavy Hitters.,No
+ccs_2022_13,Chaghri - A FHE-friendly Block Cipher.,No
+ccs_2022_14,Secure Parallel Computation on Privately Partitioned Data and Applications.,No
+ccs_2022_15,Thora: Atomic and Privacy-Preserving Multi-Channel Updates.,No
+ccs_2022_16,Sleepy Channels: Bi-directional Payment Channels without Watchtowers.,No
+ccs_2022_17,On the Adaptive Security of the Threshold BLS Signature Scheme.,No
+ccs_2022_18,Secret-Shared Joins with Multiplicity from Aggregation Trees.,No
+ccs_2022_19,META-BTS: Bootstrapping Precision Beyond the Limit.,No
+ccs_2022_20,i-TiRE: Incremental Timed-Release Encryption or How to use Timed-Release Encryption on Blockchains?,No
+ccs_2022_21,Membership Inference Attacks and Generalization: A Causal Perspective.,Yes
+ccs_2022_22,Tidy: Symbolic Verification of Timed Cryptographic Protocols.,No
+ccs_2022_23,A Wolf in Sheep's Clothing: Spreading Deadly Pathogens Under the Disguise of Popular Music.,No
+ccs_2022_24,Feta: Efficient Threshold Designated-Verifier Zero-Knowledge Proofs.,No
+ccs_2022_25,"Distributed, Private, Sparse Histograms in the Two-Server Model.",No
+ccs_2022_26,Threshold Cryptography as a Service (in the Multiserver and YOSO Models).,No
+ccs_2022_27,Privacy Limitations of Interest-based Advertising on The Web: A Post-mortem Empirical Analysis of Google's FLoC.,No
+ccs_2022_28,JIT-Picking: Differential Fuzzing of JavaScript Engines.,No
+ccs_2022_29,A Symbolic Analysis of Privacy for TLS 1.3 with Encrypted Client Hello.,No
+ccs_2022_30,Power Contracts: Provably Complete Power Leakage Models for Processors.,No
+ccs_2022_31,Themis: An On-Site Voting System with Systematic Cast-as-intended Verification and Partial Accountability.,No
+ccs_2022_32,Victory by KO: Attacking OpenPGP Using Key Overwriting.,No
+ccs_2022_33,Do Opt-Outs Really Opt Me Out?,No
+ccs_2022_34,Vizard: A Metadata-hiding Data Analytic System with End-to-End Policy Controls.,No
+ccs_2022_35,Succinct Zero-Knowledge Batch Proofs for Set Accumulators.,No
+ccs_2022_36,Widespread Underestimation of Sensitivity in Differentially Private Libraries and How to Fix It.,No
+ccs_2022_37,SFuzz: Slice-based Fuzzing for Real-Time Operating Systems.,No
+ccs_2022_38,Graph Unlearning.,No
+ccs_2022_39,MetaEmu: An Architecture Agnostic Rehosting Framework for Automotive Firmware.,No
+ccs_2022_40,PSI from Ring-OLE.,No
+ccs_2022_41,HammerScope: Observing DRAM Power Consumption Using Rowhammer.,No
+ccs_2022_42,SortingHat: Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering.,No
+ccs_2022_43,SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders.,Yes
+ccs_2022_44,The Generals' Scuttlebutt: Byzantine-Resilient Gossip Protocols.,No
+ccs_2022_45,Sharp: Short Relaxed Range Proofs.,No
+ccs_2022_46,QuerySnout: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems.,Yes
+ccs_2022_47,VRust: Automated Vulnerability Detection for Solana Smart Contracts.,No
+ccs_2022_48,Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority.,No
+ccs_2022_49,Understanding Security Issues in the NFT Ecosystem.,No
+ccs_2022_50,GearBox: Optimal-size Shard Committees by Leveraging the Safety-Liveness Dichotomy.,No
+ccs_2022_51,STAR: Secret Sharing for Private Threshold Aggregation Reporting.,No
+ccs_2022_52,CANflict: Exploiting Peripheral Conflicts for Data-Link Layer Attacks on Automotive Networks.,No
+ccs_2022_53,Two-Client Inner-Product Functional Encryption with an Application to Money-Laundering Detection.,No
+ccs_2022_54,On the (In)Security of Secure ROS2.,No
+ccs_2022_55,"FenceSitter: Black-box, Content-Agnostic, and Synchronization-Free Enrollment-Phase Attacks on Speaker Recognition Systems.",Yes
+ccs_2022_56,StrongBox: A GPU TEE on Arm Endpoints.,No
+ccs_2022_57,Understanding Real-world Threats to Deep Learning Models in Android Apps.,Yes
+ccs_2022_58,A Run a Day Won't Keep the Hacker Away: Inference Attacks on Endpoint Privacy Zones in Fitness Tracking Social Networks.,No
+ccs_2022_59,Second-Order Low-Randomness d + 1 Hardware Sharing of the AES.,No
+ccs_2022_60,Improving Line-Point Zero Knowledge: Two Multiplications for the Price of One.,No
+ccs_2022_61,Shorter Signatures Based on Tailor-Made Minimalist Symmetric-Key Crypto.,No
+ccs_2022_62,Leakage and Tamper Resilient Permutation-Based Cryptography.,No
+ccs_2022_63,Exposing the Rat in the Tunnel: Using Traffic Analysis for Tor-based Malware Detection.,No
+ccs_2022_64,Watch Out for Race Condition Attacks When Using Android External Storage.,No
+ccs_2022_65,Perception-Aware Attack: Creating Adversarial Music via Reverse-Engineering Human Perception.,Yes
+ccs_2022_66,Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications.,No
+ccs_2022_67,Poirot: Probabilistically Recommending Protections for the Android Framework.,No
+ccs_2022_68,TurboPack: Honest Majority MPC with Constant Online Communication.,No
+ccs_2022_69,Automatic Detection of Speculative Execution Combinations.,No
+ccs_2022_70,When Frodo Flips: End-to-End Key Recovery on FrodoKEM via Rowhammer.,No
+ccs_2022_71,NFGen: Automatic Non-linear Function Evaluation Code Generator for General-purpose MPC Platforms.,No
+ccs_2022_72,Shifted Inverse: A General Mechanism for Monotonic Functions under User Differential Privacy.,No
+ccs_2022_73,CINI MINIS: Domain Isolation for Fault and Combined Security.,No
+ccs_2022_74,Adversarial Correctness and Privacy for Probabilistic Data Structures.,No
+ccs_2022_75,LibAFL: A Framework to Build Modular and Reusable Fuzzers.,No
+ccs_2022_76,Efficient Zero-Knowledge Proofs on Signed Data with Applications to Verifiable Computation on Data Streams.,No
+ccs_2022_77,Minotaur: Multi-Resource Blockchain Consensus.,No
+ccs_2022_78,Squirrel: Efficient Synchronized Multi-Signatures from Lattices.,No
+ccs_2022_79,"Am I Private and If So, how Many?: Communicating Privacy Guarantees of Differential Privacy with Risk Communication Formats.",No
+ccs_2022_80,Understanding the How and the Why: Exploring Secure Development Practices through a Course Competition.,No
+ccs_2022_81,"""Is your explanation stable?"": A Robustness Evaluation Framework for Feature Attribution.",Yes
+ccs_2022_82,Secure Auctions in the Presence of Rational Adversaries.,No
+ccs_2022_83,Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency.,No
+ccs_2022_84,Succinct Zero Knowledge for Floating Point Computations.,No
+ccs_2022_85,Practical Settlement Bounds for Proof-of-Work Blockchains.,No
+ccs_2022_86,Hecate: Lifting and Shifting On-Premises Workloads to an Untrusted Cloud.,No
+ccs_2022_87,C2C: Fine-grained Configuration-driven System Call Filtering.,No
+ccs_2022_88,Foundations of Coin Mixing Services.,No
+ccs_2022_89,ATTRITION: Attacking Static Hardware Trojan Detection Techniques Using Reinforcement Learning.,No
+ccs_2022_90,Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration.,No
+ccs_2022_91,DangZero: Efficient Use-After-Free Detection via Direct Page Table Access.,No
+ccs_2022_92,Reinforced Concrete: A Fast Hash Function for Verifiable Computation.,No
+ccs_2022_93,Proof-of-Possession for KEM Certificates using Verifiable Generation.,No
+ccs_2022_94,SPECPATCH: Human-In-The-Loop Adversarial Audio Spectrogram Patch Attack on Speech Recognition.,Yes
+ccs_2022_95,Identifying a Training-Set Attack's Target Using Renormalized Influence Estimation.,Yes
+ccs_2022_96,Location Heartbleeding: The Rise of Wi-Fi Spoofing Attack Via Geolocation API.,No
+ccs_2022_97,"How to Hide MetaData in MLS-Like Secure Group Messaging: Simple, Modular, and Post-Quantum.",No
+ccs_2022_98,Behind the Scenes of RPKI.,No
+ccs_2022_99,On the Privacy Risks of Cell-Based NAS Architectures.,Yes
+ccs_2022_100,Kryvos: Publicly Tally-Hiding Verifiable E-Voting.,No
+ccs_2022_101,Selective MPC: Distributed Computation of Differentially Private Key-Value Statistics.,No
+ccs_2022_102,SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities.,No
+ccs_2022_103,Microarchitectural Leakage Templates and Their Application to Cache-Based Side Channels.,No
+ccs_2022_104,Differentially Private Triangle and 4-Cycle Counting in the Shuffle Model.,No
+ccs_2022_105,On the Success Rate of Side-Channel Attacks on Masked Implementations: Information-Theoretical Bounds and Their Practical Usage.,No
+ccs_2022_106,AI/ML for Network Security: The Emperor has no Clothes.,No
+ccs_2022_107,DISTINCT: Identity Theft using In-Browser Communications in Dual-Window Single Sign-On.,No
+ccs_2022_108,Are Attribute Inference Attacks Just Imputation?,Yes
+ccs_2022_109,Cache Refinement Type for Side-Channel Detection of Cryptographic Software.,No
+ccs_2022_110,Evocatio: Conjuring Bug Capabilities from a Single PoC.,No
+ccs_2022_111,Understanding IoT Security from a Market-Scale Perspective.,No
+ccs_2022_112,SymLM: Predicting Function Names in Stripped Binaries via Context-Sensitive Execution-Aware Code Embeddings.,No
+ccs_2022_113,P-Verifier: Understanding and Mitigating Security Risks in Cloud-based IoT Access Policies.,No
+ccs_2022_114,Private and Reliable Neural Network Inference.,No
+ccs_2022_115,A Scalable and Dynamic ACL System for In-Network Defense.,No
+ccs_2022_116,TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities.,No
+ccs_2022_117,HyperDbg: Reinventing Hardware-Assisted Debugging.,No
+ccs_2022_118,RedShift: Transparent SNARKs from List Polynomial Commitments.,No
+ccs_2022_119,"PEReDi: Privacy-Enhanced, Regulated and Distributed Central Bank Digital Currencies.",No
+ccs_2022_120,DriveFuzz: Discovering Autonomous Driving Bugs through Driving Quality-Guided Fuzzing.,Yes
+ccs_2022_121,Phishing URL Detection: A Network-based Approach Robust to Evasion.,Yes
+ccs_2022_122,NTRU-v-um: Secure Fully Homomorphic Encryption from NTRU with Small Modulus.,No
+ccs_2022_123,Low-Latency Hardware Private Circuits.,No
+ccs_2022_124,LPGNet: Link Private Graph Networks for Node Classification.,Yes
+ccs_2022_125,Leakage Inversion: Towards Quantifying Privacy in Searchable Encryption.,No
+ccs_2022_126,PentaGOD: Stepping beyond Traditional GOD with Five Parties.,No
+ccs_2022_127,"Hammurabi: A Framework for Pluggable, Logic-Based X.509 Certificate Validation Policies.",No
+ccs_2022_128,Cerberus: A Formal Approach to Secure and Efficient Enclave Memory Sharing.,No
+ccs_2022_129,Collect Responsibly But Deliver Arbitrarily?: A Study on Cross-User Privacy Leakage in Mobile Apps.,No
+ccs_2022_130,PACMem: Enforcing Spatial and Temporal Memory Safety via ARM Pointer Authentication.,No
+ccs_2022_131,Auditing Membership Leakages of Multi-Exit Networks.,Yes
+ccs_2022_132,Overo: Sharing Private Audio Recordings.,No
+ccs_2022_133,InviCloak: An End-to-End Approach to Privacy and Performance in Web Content Distribution.,No
+ccs_2022_134,DirtyCred: Escalating Privilege in Linux Kernel.,No
+ccs_2022_135,Frequency Throttling Side-Channel Attack.,No
+ccs_2022_136,Ready Raider One: Exploring the Misuse of Cloud Gaming Services.,No
+ccs_2022_137,When Evil Calls: Targeted Adversarial Voice over IP Network.,Yes
+ccs_2022_138,Order-Disorder: Imitation Adversarial Attacks for Black-box Neural Ranking Models.,Yes
+ccs_2022_139,Matproofs: Maintainable Matrix Commitment with Efficient Aggregation.,No
+ccs_2022_140,Harnessing Perceptual Adversarial Patches for Crowd Counting.,Yes
+ccs_2022_141,Acquirer: A Hybrid Approach to Detecting Algorithmic Complexity Vulnerabilities.,No
+ccs_2022_142,Membership Inference Attacks by Exploiting Loss Trajectory.,Yes
+ccs_2022_143,"Empirical Analysis of EIP-1559: Transaction Fees, Waiting Times, and Consensus Security.",No
+ccs_2022_144,StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning.,Yes
+ccs_2022_145,LoneNeuron: A Highly-Effective Feature-Domain Neural Trojan Using Invisible and Polymorphic Watermarks.,Yes
+ccs_2022_146,Detecting Missing-Permission-Check Vulnerabilities in Distributed Cloud Systems.,No
+ccs_2022_147,Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT.,No
+ccs_2022_148,TChecker: Precise Static Inter-Procedural Analysis for Detecting Taint-Style Vulnerabilities in PHP Applications.,No
+ccs_2022_149,Proving UNSAT in Zero Knowledge.,No
+ccs_2022_150,Frequency Estimation in the Shuffle Model with Almost a Single Message.,No
+ccs_2022_151,Feature Inference Attack on Shapley Values.,Yes
+ccs_2022_152,Federated Boosted Decision Trees with Differential Privacy.,Yes
+ccs_2022_153,"The Closer You Look, The More You Learn: A Grey-box Approach to Protocol State Machine Learning.",No
+ccs_2022_154,Securing Reset Operations in NISQ Quantum Computers.,No
+ccs_2022_155,Constant Latency in Sleepy Consensus.,No
+ccs_2022_156,Physical Hijacking Attacks against Object Trackers.,Yes
+ccs_2022_157,"The Multi-User Security of Triple Encryption, Revisited: Exact Security, Strengthening, and Application to TDES.",No
+ccs_2022_158,CERBERUS: Exploring Federated Prediction of Security Events.,Yes
+ccs_2022_159,Sigstore: Software Signing for Everybody.,No
+ccs_2022_160,Freely Given Consent?: Studying Consent Notice of Third-Party Tracking and Its Violations of GDPR in Android Apps.,No
+ccs_2022_161,NARRATOR: Secure and Practical State Continuity for Trusted Execution in the Cloud.,No
+ccs_2022_162,Cart-ology: Intercepting Targeted Advertising via Ad Network Identity Entanglement.,No
+ccs_2022_163,Discovering IoT Physical Channel Vulnerabilities.,No
+ccs_2022_164,Eluding Secure Aggregation in Federated Learning via Model Inconsistency.,Yes
+ccs_2022_165,Hidden in Plain Sight: Exploring Encrypted Channels in Android Apps.,No
+ccs_2022_166,Cerberus: Query-driven Scalable Vulnerability Detection in OAuth Service Provider Implementations.,No
+ccs_2022_167,TickTock: Detecting Microphone Status in Laptops Leveraging Electromagnetic Leakage of Clock Signals.,No
+ccs_2022_168,FABEO: Fast Attribute-Based Encryption with Optimal Security.,No
+ccs_2022_169,Blazing Fast PSI from Improved OKVS and Subfield VOLE.,No
+ccs_2022_170,Strengthening Order Preserving Encryption with Differential Privacy.,No
+ccs_2022_171,EIFFeL: Ensuring Integrity for Federated Learning.,Yes
+ccs_2022_172,ROAST: Robust Asynchronous Schnorr Threshold Signatures.,No
+ccs_2022_173,Fast Fully Oblivious Compaction and Shuffling.,No
+ccs_2022_174,FeIDo: Recoverable FIDO2 Tokens Using Electronic IDs.,No
+ccs_2022_175,MC2: Rigorous and Efficient Directed Greybox Fuzzing.,No
+ccs_2022_176,Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked DNN Models.,Yes
+ccs_2022_177,Gringotts: Fast and Accurate Internal Denial-of-Wallet Detection for Serverless Computing.,No
+ccs_2022_178,Finding MNEMON: Reviving Memories of Node Embeddings.,Yes
+ccs_2022_179,Why So Toxic?: Measuring and Triggering Toxic Behavior in Open-Domain Chatbots.,Yes
+ccs_2022_180,Escaping the Confines of Time: Continuous Browser Extension Fingerprinting Through Ephemeral Modifications.,No
+ccs_2022_181,pMPL: A Robust Multi-Party Learning Framework with a Privileged Party.,No
+ccs_2022_182,Bullshark: DAG BFT Protocols Made Practical.,No
+ccs_2022_183,"Batching, Aggregation, and Zero-Knowledge Proofs in Bilinear Accumulators.",No
+ccs_2022_184,Zapper: Smart Contracts with Data and Identity Privacy.,No
+ccs_2022_185,Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam.,No
+ccs_2022_186,NeVerMore: Exploiting RDMA Mistakes in NVMe-oF Storage Applications.,No
+ccs_2022_187,Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets.,Yes
+ccs_2022_188,VeRSA: Verifiable Registries with Efficient Client Audits from RSA Authenticated Dictionaries.,No
+ccs_2022_189,L-SRR: Local Differential Privacy for Location-Based Services with Staircase Randomized Response.,No
+ccs_2022_190,Practical Volume-Hiding Encrypted Multi-Maps with Optimal Overhead and Beyond.,No
+ccs_2022_191,ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes.,No
+ccs_2022_192,Don't Kick Over the Beehive: Attacks and Security Analysis on Zigbee.,No
+ccs_2022_193,Group Property Inference Attacks Against Graph Neural Networks.,Yes
+ccs_2022_194,DPIS: An Enhanced Mechanism for Differentially Private SGD with Importance Sampling.,Yes
+ccs_2022_195,AntMan: Interactive Zero-Knowledge Proofs with Sublinear Communication.,No
+ccs_2022_196,Microwalk-CI: Practical Side-Channel Analysis for JavaScript Applications.,No
+ccs_2022_197,EchoHand: High Accuracy and Presentation Attack Resistant Hand Authentication on Commodity Mobile Devices.,No
+ccs_2022_198,Platypus: A Central Bank Digital Currency with Unlinkable Transactions and Privacy-Preserving Regulation.,No.
+ccs_2022_199,Protecting Critical Inter-Domain Communication through Flyover Reservations.,No
+ccs_2022_200,Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-platform Ecosystem.,No
+ccs_2022_201,CETIS: Retrofitting Intel CET for Generic and Efficient Intra-process Memory Isolation.,No
+ccs_2022_202,zkBridge: Trustless Cross-chain Bridges Made Practical.,No
+ccs_2022_203,Automatic Detection of Fake Key Attacks in Secure Messaging.,No
+ccs_2022_204,WINK: Wireless Inference of Numerical Keystrokes via Zero-Training Spatiotemporal Analysis.,No
+ccs_2022_205,An Extensive Study of Residential Proxies in China.,No
+ccs_2022_206,Detecting and Measuring Misconfigured Manifests in Android Apps.,No
+ccs_2022_207,"Cross Miniapp Request Forgery: Root Causes, Attacks, and Vulnerability Detection.",No
+ccs_2022_208,Enhanced Membership Inference Attacks against Machine Learning Models.,Yes
+ccs_2022_209,HeatDeCam: Detecting Hidden Spy Cameras via Thermal Emissions.,No
+ccs_2022_210,Caulk: Lookup Arguments in Sublinear Time.,No
+ccs_2022_211,PalanTír: Optimizing Attack Provenance with Hardware-enhanced System Observability.,No
+ccs_2022_212,PACE: Fully Parallelizable BFT from Reproposable Byzantine Agreement.,No
+ccs_2022_213,"I'm SPARTACUS, No, I'm SPARTACUS: Proactively Protecting Users from Phishing by Intentionally Triggering Cloaking Behavior.",No
+ccs_2022_214,When Good Becomes Evil: Tracking Bluetooth Low Energy Devices via Allowlist-based Side Channel and Its Countermeasure.,No
+ccs_2022_215,VOProof: Efficient zkSNARKs from Vector Oracle Compilers.,No
+ccs_2022_216,Characterizing and Detecting Non-Consensual Photo Sharing on Social Networks.,No
+ccs_2022_217,Ibex: Privacy-preserving Ad Conversion Tracking and Bidding.,No
+ccs_2022_218,Uncovering Intent based Leak of Sensitive Data in Android Framework.,No
+ccs_2022_219,Non-Distinguishable Inconsistencies as a Deterministic Oracle for Detecting Security Bugs.,No
+ccs_2022_220,What Your Firmware Tells You Is Not How You Should Emulate It: A Specification-Guided Approach for Firmware Emulation.,No
+ccs_2022_221,Perils and Mitigation of Security Risks of Cooperation in Mobile-as-a-Gateway IoT.,No
+ccs_2022_222,Poster: Backdoor Attacks on Spiking NNs and Neuromorphic Datasets.,Yes
+ccs_2022_223,Poster: Correctness of n-parties ECDSA By the Claim of Byzantine Agreement.,No
+ccs_2022_224,Poster: Ontology Enabled Chatbot for Applying Privacy by Design in IoT Systems.,No
+ccs_2022_225,Poster: A Post-Quantum Oblivious PRF from Isogenies.,No
+ccs_2022_226,Poster: Efficient Three-Party Shuffling Using Precomputation.,No
+ccs_2022_227,Poster: Data Recovery from Ransomware Attacks via File System Forensics and Flash Translation Layer Data Extraction.,No
+ccs_2022_228,Poster: Inaudible Acoustic Noise from Silicon Capacitors for Voice-Command Injection.,No
+ccs_2022_229,Poster: An Analysis of Privacy Features in 'Expert-Approved' Kids' Apps.,No
+ccs_2022_230,Poster: A Systems Approach to GDPR Compliance-by-Design in Web Development Stacks.,No
+ccs_2022_231,Poster: Privacy-Preserving Epidemiological Modeling on Mobile Graphs.,No
+ccs_2022_232,Poster EveGAN: Using Generative Deep Learning for Cryptanalysis.,Yes
+ccs_2022_233,"Poster: A Novel Formal Threat Analyzer for Activity Monitoring-based Smart Home Heating, Ventilation, and Cooling Control System.",Yes
+ccs_2022_234,Poster: The Unintended Consequences of Algorithm Agility in DNSSEC.,No
+ccs_2022_235,Poster: MSILDiffer - A Security Patch Analysis Framework Based on Microsoft Intermediate Language for Large Software.,No
+ccs_2022_236,Poster: Vogue: Faster Computation of Private Heavy Hitters.,No
+ccs_2022_237,Poster: Coded Broadcast for Scalable Leader-Based BFT Consensus.,No
+ccs_2022_238,Poster MPClan: : Protocol Suite for Privacy-Conscious Computations.,No
+ccs_2022_239,Poster: Patient Community - A Test Bed for Privacy Threat Analysis.,No
+ccs_2022_240,Poster: Adversarial Perturbation Attacks on the State-of-the-Art Cryptojacking Detection System in IoT Networks.,Yes
+ccs_2022_241,Poster: EOSDFA: Data Flow Analysis of EOSIO Smart Contracts.,No
+ccs_2022_242,Poster: Cryptographic Inferences for Video Deep Neural Networks.,No
+ccs_2022_243,Poster: User Sessions on Tor Onion Services: Can Colluding ISPs Deanonymize Them at Scale?,No
+ccs_2022_244,Poster: Investigating QUIC's Potential Impact on Censorship Circumvention.,No
+ccs_2022_245,Poster: CFMAP: A Robust CPU Clock Fingerprint Model for Device Authentication.,No
+ccs_2022_246,Poster: Towards Complete Computation Graph Generation for Security Assessment of ROS Applications.,No
+ccs_2022_247,Poster: Effectiveness of Moving Target Defense Techniques to Disrupt Attacks in the Cloud.,No
+ccs_2022_248,Poster: Multi-Layer Threat Analysis of the Cloud.,No
+ccs_2022_249,Poster: RPKI Kill Switch.,No
+ccs_2022_250,Poster: Physics-Informed Augmentation for Contextual Anomaly Detection in Smart Grid.,No
+ccs_2022_251,Poster CTI4AI: Threat Intelligence Generation and Sharing after Red Teaming AI Models.,Yes
+ccs_2022_252,Poster - Towards Authorship Obfuscation with Language Models.,Yes
+ccs_2022_253,Poster: Adversarial Defense with Deep Learning Coverage on MagNet's Purification.,Yes
+ccs_2022_254,Poster: A WiFi Vision-based Approach to Person Re-identification.,No
+ccs_2022_255,Poster: ReMouse Dataset: Measuring Similarity of Human-Generated Trajectories as an Important Step in Dealing with Session-Replay Bots.,No
+ccs_2022_256,Poster AutoPatch: Automatic Hotpatching of Real-Time Embedded Devices.,No
+ccs_2022_257,Poster: MUSTARD - Adaptive Behavioral Analysis for Ransomware Detection.,No
+ccs_2022_258,Poster: Towards Large-Scale Measurement Study on LiDAR Spoofing Attacks against Object Detection.,Yes
+ccs_2022_259,Poster: INSIDE - Enhancing Network Intrusion Detection in Power Grids with Automated Facility Monitoring.,No
+ccs_2022_260,Poster: Insights into Global Deployment of RPKI Validation.,No
+ccs_2022_261,Poster: DNS in Routers Considered Harmful.,No
+ccs_2022_262,Poster: Privacy-preserving Genome Analysis using Verifiable Off-Chain Computation.,No
+ccs_2022_263,Poster: On the System-Level Effectiveness of Physical Object-Hiding Adversarial Attack in Autonomous Driving.,Yes
+ccs_2022_264,Poster: Enabling Cost-Effective Blockchain Applications via Workload-Adaptive Transaction Execution.,No
+ccs_2022_265,Poster: Fingerprint-Face Friction Based Earable Authentication.,No
+ccs_2022_266,Poster: Clean-label Backdoor Attack on Graph Neural Networks.,Yes
+ccs_2022_267,Poster: Unanimous-Majority - Pushing Blockchain Sharding Throughput to its Limit.,No
+ccs_2022_268,Poster: User-controlled System-level Encryption for all Applications.,No
+ccs_2022_269,Poster: Automated Discovery of Sensor Spoofing Attacks on Robotic Vehicles.,No
+ccs_2022_270,Poster: TaintGrep: A Static Analysis Tool for Detecting Vulnerabilities of Android Apps Supporting User-defined Rules.,No
+ccs_2022_271,Poster: May the Swarm Be With You: Sensor Spoofing Attacks Against Drone Swarms.,No
+ccs_2022_272,Demo: End-to-End Wireless Disruption of CCS EV Charging.,No
+ccs_2022_273,Demo - SPoKE: Secure Polling and Knowledge Exchange.,No
+ccs_2022_274,Demo - MaLFraDA: A Machine Learning Framework with Data Airlock.,No
+ccs_2022_275,Demo: VaxPass - A Scalable and Verifiable Platform for COVID-19 Records.,No
+ccs_2022_276,WAHC'22: 10th Workshop on Encrypted Computing and Applied Homomorphic Cryptography.,No
+ccs_2022_277,CPSIoTSec '22: 4th Workshop on CPS & IoT Security and Privacy.,No
+ccs_2022_278,WPES '22: 21st Workshop on Privacy in the Electronic Society.,No
+ccs_2022_279,MTD '22: 9th ACM Workshop on Moving Target Defense.,No
+ccs_2022_280,CCSW '22: The 2022 Cloud Computing Security Workshop.,No
+ccs_2022_281,ConsensusDay '22: ACM Workshop on Developments in Consensus.,No
+ccs_2022_282,ASHES 2022 - 6th Workshop on Attacks and Solutions in Hardware Security.,No
+ccs_2022_283,AISec '22: 15th ACM Workshop on Artificial Intelligence and Security.,Yes
+ccs_2022_284,Checkmate '22: Research on offensive and defensive techniques in the context of Man At The End (MATE) attacks.,No
+ccs_2022_285,SCORED '22: ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses.,No
+ccs_2022_286,AMSec'22: ACM CCS Workshop on Additive Manufacturing (3D Printing) Security.,No
+ccs_2022_287,DeFi '22: ACM CCS Workshop on Decentralized Finance and Security.,No

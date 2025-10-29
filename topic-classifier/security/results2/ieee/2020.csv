@@ -1,0 +1,106 @@
+uuid,title,response
+ieee_2020_0,"2020 IEEE Symposium on Security and Privacy, SP 2020, San Francisco, CA, USA, May 18-21, 2020.",No
+ieee_2020_1,Spectector: Principled Detection of Speculative Information Flows.,No
+ieee_2020_2,: Practical Cache Attacks from the Network.,No
+ieee_2020_3,SpecCFI: Mitigating Spectre Attacks using CFI Informed Speculation.,No
+ieee_2020_4,LVI: Hijacking Transient Execution through Microarchitectural Load Value Injection.,No
+ieee_2020_5,HydRand: Efficient Continuous Distributed Randomness.,No
+ieee_2020_6,OHIE: Blockchain Scaling Made Simple.,No
+ieee_2020_7,Sync HotStuff: Simple and Practical Synchronous State Machine Replication.,No
+ieee_2020_8,Replicated state machines without replicated execution.,No
+ieee_2020_9,"ICLab: A Global, Longitudinal Internet Censorship Measurement Platform.",No
+ieee_2020_10,High Precision Open-World Website Fingerprinting.,No
+ieee_2020_11,Breaking and (Partially) Fixing Provably Secure Onion Routing.,No
+ieee_2020_12,Are anonymity-seekers just like everybody else? An analysis of contributions to Wikipedia from Tor.,No
+ieee_2020_13,Detection of Electromagnetic Interference Attacks on Sensor Systems.,No
+ieee_2020_14,WaveSpy: Remote and Through-wall Screen Attack via mmWave Sensing.,No
+ieee_2020_15,SoK: A Minimalist Approach to Formalizing Analog Sensor Security.,No
+ieee_2020_16,Gesture Authentication for Smartphones: Evaluation of Gesture Password Selection Policies.,No
+ieee_2020_17,Is FIDO2 the Kingslayer of User Authentication? A Comparative Usability Study of FIDO2 Passwordless Authentication.,No
+ieee_2020_18,This PIN Can Be Easily Guessed: Analyzing the Security of Smartphone Unlock PINs.,No
+ieee_2020_19,The Value of Collaboration in Convex Machine Learning with Differential Privacy.,No
+ieee_2020_20,Automatically Detecting Bystanders in Photos to Reduce Privacy Risks.,No
+ieee_2020_21,CrypTFlow: Secure TensorFlow Inference.,No
+ieee_2020_22,SoK: Differential Privacy as a Causal Property.,No
+ieee_2020_23,Private resource allocators and their applications.,No
+ieee_2020_24,Towards Effective Differential Privacy Communication for Users' Data Sharing Decision and Comprehension.,No
+ieee_2020_25,A Programming Framework for Differential Privacy with Accuracy Concentration Bounds.,No
+ieee_2020_26,Security Update Labels: Establishing Economic Incentives for Security Patching of IoT Consumer Products.,No
+ieee_2020_27,Ask the Experts: What Should Be on an IoT Privacy and Security Label?,No
+ieee_2020_28,Burglars' IoT Paradise: Understanding and Mitigating Security Risks of General Messaging Protocols on IoT Clouds.,No
+ieee_2020_29,Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses.,No
+ieee_2020_30,Message Time of Arrival Codes: A Fundamental Primitive for Secure Distance Measurement.,No
+ieee_2020_31,Dragonblood: Analyzing the Dragonfly Handshake of WPA3 and EAP-pwd.,No
+ieee_2020_32,Even Black Cats Cannot Stay Hidden in the Dark: Full-band De-anonymization of Bluetooth Classic Devices.,No
+ieee_2020_33,BIAS: Bluetooth Impersonation AttackS.,No
+ieee_2020_34,xMP: Selective Memory Protection for Kernel and User Space.,No
+ieee_2020_35,MarkUs: Drop-in use-after-free prevention for low-level languages.,No
+ieee_2020_36,SEIMI: Efficient and Secure SMAP-Enabled Intra-process Memory Isolation.,No
+ieee_2020_37,Cornucopia: Temporal Safety for CHERI Heaps.,No
+ieee_2020_38,The Many Kinds of Creepware Used for Interpersonal Attacks.,No
+ieee_2020_39,How not to prove your election outcome.,No
+ieee_2020_40,A Security Analysis of the Facebook Ad Library.,No
+ieee_2020_41,Can Voters Detect Malicious Manipulation of Ballot Marking Devices?,No
+ieee_2020_42,RAMBleed: Reading Bits in Memory Without Accessing Them.,No
+ieee_2020_43,Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers.,No
+ieee_2020_44,Leveraging EM Side-Channel Information to Detect Rowhammer Attacks.,No
+ieee_2020_45,TRRespass: Exploiting the Many Sides of Target Row Refresh.,No
+ieee_2020_46,AdGraph: A Graph-Based Approach to Ad and Tracker Blocking.,No
+ieee_2020_47,Browsing Unicity: On the Limits of Anonymizing Web Tracking Data.,No
+ieee_2020_48,Do Cookie Banners Respect my Choice? : Measuring Legal Compliance of Banners from IAB Europe's Transparency and Consent Framework.,No
+ieee_2020_49,Meddling Middlemen: Empirical Analysis of the Risks of Data-Saving Mobile Browsers.,No
+ieee_2020_50,Efficient and Secure Multiparty Computation from Fixed-Key Block Ciphers.,No
+ieee_2020_51,Path Oblivious Heap: Optimal and Practical Oblivious Priority Queue.,No
+ieee_2020_52,Transparent Polynomial Delegation and Its Applications to Zero Knowledge Proof.,No
+ieee_2020_53,Towards Scalable Threshold Cryptosystems.,No
+ieee_2020_54,A Stealthier Partitioning Attack against Bitcoin Peer-to-Peer Network.,No
+ieee_2020_55,"Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability.",No
+ieee_2020_56,FlyClient: Super-Light Clients for Cryptocurrencies.,No
+ieee_2020_57,ZEXE: Enabling Decentralized Private Computation.,No
+ieee_2020_58,The Last Mile: High-Assurance and High-Speed Cryptographic Implementations.,No
+ieee_2020_59,"EverCrypt: A Fast, Verified, Cross-Platform Cryptographic Provider.",No
+ieee_2020_60,Rigorous engineering for hardware security: Formal modelling and proof in the CHERI design and implementation process.,No
+ieee_2020_61,Binsec/Rel: Efficient Relational Symbolic Execution for Constant-Time at Binary-Level.,No
+ieee_2020_62,An Analysis of Pre-installed Android Software.,No
+ieee_2020_63,Kobold: Evaluating Decentralized Access Control for Remote NSXPC Methods on iOS.,No
+ieee_2020_64,TextExerciser: Feedback-driven Text Input Exercising for Android Applications.,No
+ieee_2020_65,Ex-vivo dynamic analysis framework for Android device drivers.,No
+ieee_2020_66,Automatic Uncovering of Hidden Behaviors From Input Validation in Mobile Apps.,No
+ieee_2020_67,PMP: Cost-effective Forced Execution with Probabilistic Memory Pre-planning.,No
+ieee_2020_68,Combating Dependence Explosion in Forensic Analysis Using Alternative Tag Propagation Semantics.,No
+ieee_2020_69,TARDIS: Rolling Back The Clock On CMS-Targeting Cyber Attacks.,No
+ieee_2020_70,Tactical Provenance Analysis for Endpoint Detection and Response Systems.,No
+ieee_2020_71,Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation.,Yes
+ieee_2020_72,JIT Leaks: Inducing Timing Side Channels through Just-In-Time Compilation.,No
+ieee_2020_73,The State of the Uniform: Attacks on Encrypted Databases Beyond the Uniform Query Distribution.,No
+ieee_2020_74,Pseudorandom Black Swans: Cache Attacks on CTR_DRBG.,No
+ieee_2020_75,Flaw Label: Exploiting IPv6 Flow Label.,No
+ieee_2020_76,HopSkipJumpAttack: A Query-Efficient Decision-Based Attack.,Yes
+ieee_2020_77,Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning.,Yes
+ieee_2020_78,Privacy Risks of General-Purpose Language Models.,Yes
+ieee_2020_79,Intriguing Properties of Adversarial ML Attacks in the Problem Space.,Yes
+ieee_2020_80,Influencing Photo Sharing Decisions on Social Media: A Case of Paradoxical Findings.,No
+ieee_2020_81,SoK: Cyber Insurance - Technical Challenges and a System Security Roadmap.,No
+ieee_2020_82,A Tale of Sea and Sky On the Security of Maritime VSAT Communications.,No
+ieee_2020_83,I Know Where You Parked Last Summer : Automated Reverse Engineering and Privacy Analysis of Modern Cars.,No
+ieee_2020_84,SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-assisted TEE Systems.,No
+ieee_2020_85,OAT: Attesting Operation Integrity of Embedded Devices.,No
+ieee_2020_86,Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment.,No
+ieee_2020_87,Plundervolt: Software-based Fault Injection Attacks against Intel SGX.,No
+ieee_2020_88,SEVurity: No Security Without Integrity : Breaking Integrity-Free Memory Encryption with Minimal Assumptions.,No
+ieee_2020_89,RetroWrite: Statically Instrumenting COTS Binaries for Fuzzing and Sanitization.,No
+ieee_2020_90,Unexpected Data Dependency Creation and Chaining: A New Attack to SDN.,No
+ieee_2020_91,Neutaint: Efficient Dynamic Taint Analysis with Neural Networks.,No
+ieee_2020_92,Karonte: Detecting Insecure Multi-binary Interactions in Embedded Firmware.,No
+ieee_2020_93,SPIDER: Enabling Fast Patch Propagation In Related Software Repositories.,No
+ieee_2020_94,SAVIOR: Towards Bug-Driven Hybrid Testing.,No
+ieee_2020_95,Ijon: Exploring Deep State Spaces via Fuzzing.,No
+ieee_2020_96,Pangolin: Incremental Hybrid Fuzzing with Polyhedral Path Abstraction.,No
+ieee_2020_97,Fuzzing JavaScript Engines with Aspect-preserving Mutation.,No
+ieee_2020_98,Krace: Data Race Fuzzing for Kernel File Systems.,No
+ieee_2020_99,VerX: Safety Verification of Smart Contracts.,No
+ieee_2020_100,VERISMART: A Highly Precise Safety Verifier for Ethereum Smart Contracts.,No
+ieee_2020_101,Semantic Understanding of Smart Contracts: Executable Operational Semantics of Solidity.,No
+ieee_2020_102,Transys: Leveraging Common Security Properties Across Hardware Designs.,No
+ieee_2020_103,C3APSULe: Cross-FPGA Covert-Channel Attacks through Power Supply Unit Leakage.,No
+ieee_2020_104,ICAS: an Extensible Framework for Estimating the Susceptibility of IC Layouts to Additive Trojans.,No

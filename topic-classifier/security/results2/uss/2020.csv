@@ -1,0 +1,161 @@
+uuid,title,response
+uss_2020_0,"29th USENIX Security Symposium, USENIX Security 2020, August 12-14, 2020.",No
+uss_2020_1,Horizontal Privilege Escalation in Trusted Applications.,No
+uss_2020_2,"The 2020 Election: Remote Voting, Disinformation, and Audit.",No
+uss_2020_3,DELF: Safeguarding deletion correctness in Online Social Networks.,No
+uss_2020_4,Digital Contact Tracing.,No
+uss_2020_5,A Formal Analysis of IEEE 802.11's WPA2: Countering the Kracks Caused by Cracking the Counters.,No
+uss_2020_6,Frankenstein: Advanced Wireless Fuzzing to Exploit New Bluetooth Escalation Targets.,No
+uss_2020_7,Breaking Secure Pairing of Bluetooth Low Energy Using Downgrade Attacks.,No
+uss_2020_8,You Are What You Broadcast: Identification of Mobile and IoT Devices from (Public) WiFi.,No
+uss_2020_9,Call Me Maybe: Eavesdropping Encrypted LTE Calls With ReVoLTE.,No
+uss_2020_10,A Comprehensive Quality Evaluation of Security and Privacy Advice on the Web.,No
+uss_2020_11,"Understanding security mistakes developers make: Qualitative analysis from Build It, Break It, Fix It.",No
+uss_2020_12,Empirical Measurement of Systemic 2FA Usability.,No
+uss_2020_13,"What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions, and Ad Explanations Through Users' Own Twitter Data.",No
+uss_2020_14,The Impact of Ad-Blockers on Product Search and Purchase Behavior: A Lab Experiment.,No
+uss_2020_15,"Symbolic execution with SymCC: Don't interpret, compile!",No
+uss_2020_16,Sys: A Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code.,No
+uss_2020_17,Everything Old is New Again: Binary Security of WebAssembly.,No
+uss_2020_18,AURORA: Statistical Crash Analysis for Automated Root Cause Explanation.,No
+uss_2020_19,SmartVerif: Push the Limit of Automation Capability of Verifying Security Protocols by Dynamic Strategies.,No
+uss_2020_20,BigMAC: Fine-Grained Policy Analysis of Android Firmware.,No
+uss_2020_21,From Needs to Actions to Secure Apps? The Effect of Requirements and Developer Practices on App Security.,No
+uss_2020_22,FANS: Fuzzing Android Native System Services via Automated Interface Analysis.,No
+uss_2020_23,Chaperone: Real-time Locking and Loss Prevention for Smartphones.,No
+uss_2020_24,Towards HTTPS Everywhere on Android: We Are Not There Yet.,No
+uss_2020_25,Sunrise to Sunset: Analyzing the End-to-end Life Cycle and Effectiveness of Phishing Attacks at Scale.,No
+uss_2020_26,PhishTime: Continuous Longitudinal Measurement of the Effectiveness of Anti-phishing Blacklists.,No
+uss_2020_27,Who's Calling? Characterizing Robocalls through Audio and Metadata Analysis.,No
+uss_2020_28,See No Evil: Phishing for Permissions with False Transparency.,No
+uss_2020_29,A different cup of TI? The added value of commercial threat intelligence.,No
+uss_2020_30,HybCache: Hybrid Side-Channel-Resilient Caches for Trusted Execution Environments.,No
+uss_2020_31,CopyCat: Controlled Instruction-Level Attacks on Enclaves.,No
+uss_2020_32,An Off-Chip Attack on Hardware Enclaves via the Memory Bus.,No
+uss_2020_33,Civet: An Efficient Java Partitioning Framework for Hardware Enclaves.,No
+uss_2020_34,BesFS: A POSIX Filesystem for Enclaves with a Mechanized Safety Proof.,No
+uss_2020_35,EPIC: Every Packet Is Checked in the Data Plane of a Path-Aware Internet.,No
+uss_2020_36,ShadowMove: A Stealthy Lateral Movement Strategy.,No
+uss_2020_37,Poison Over Troubled Forwarders: A Cache Poisoning Attack Targeting DNS Forwarding Devices.,No
+uss_2020_38,Programmable In-Network Security for Context-aware BYOD Policies.,No
+uss_2020_39,A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email.,No
+uss_2020_40,NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities.,No
+uss_2020_41,Shim Shimmeny: Evaluating the Security and Privacy Contributions of Link Shimming in the Modern Web.,No
+uss_2020_42,Cached and Confused: Web Cache Deception in the Wild.,No
+uss_2020_43,A Tale of Two Headers: A Formal Analysis of Inconsistent Click-Jacking Protection on the Web.,No
+uss_2020_44,Retrofitting Fine Grain Isolation in the Firefox Renderer.,No
+uss_2020_45,Zero-delay Lightweight Defenses against Website Fingerprinting.,No
+uss_2020_46,Achieving Keyless CDNs with Conclaves.,No
+uss_2020_47,"SENG, the SGX-Enforcing Network Gateway: Authorizing Communication from Shielded Clients.",No
+uss_2020_48,APEX: A Verified Architecture for Proofs of Execution on Remote Devices under Full Software Compromise.,No
+uss_2020_49,PARTEMU: Enabling Dynamic Analysis of Real-World TrustZone Software Using Emulation.,No
+uss_2020_50,PHMon: A Programmable Hardware Monitor and Its Security Use Cases.,No
+uss_2020_51,TeeRex: Discovery and Exploitation of Memory Corruption Vulnerabilities in SGX Enclaves.,No
+uss_2020_52,Stealthy Tracking of Autonomous Vehicles with Cache Side Channels.,No
+uss_2020_53,Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures.,Yes
+uss_2020_54,SAVIOR: Securing Autonomous Vehicles with Robust Physical Invariants.,No
+uss_2020_55,From Control Model to Program: Investigating Robotic Aerial Vehicle Accidents with MAYDAY.,No
+uss_2020_56,Drift with Devil: Security of Multi-Sensor Fusion based Localization in High-Level Autonomous Driving under GPS Spoofing.,Yes
+uss_2020_57,Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT.,No
+uss_2020_58,PCKV: Locally Differentially Private Correlated Key-Value Data Collection with Optimized Utility.,No
+uss_2020_59,Actions Speak Louder than Words: Entity-Sensitive Privacy Policy and Data Flow Analysis with PoliCheck.,No
+uss_2020_60,Walking Onions: Scaling Anonymity Networks while Protecting Users.,No
+uss_2020_61,Differentially-Private Control-Flow Node Coverage for Software Usage Analysis.,No
+uss_2020_62,Visor: Privacy-Preserving Video Analytics as a Cloud Service.,No
+uss_2020_63,Datalog Disassembly.,No
+uss_2020_64,KOOBE: Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities.,No
+uss_2020_65,Automatic Techniques to Systematically Discover New Heap Exploitation Primitives.,No
+uss_2020_66,The Industrial Age of Hacking.,No
+uss_2020_67,BScout: Direct Whole Patch Presence Test for Java Executables.,No
+uss_2020_68,MVP: Detecting Vulnerabilities using Patch-Enhanced Vulnerability Signatures.,No
+uss_2020_69,Shattered Chain of Trust: Understanding Security Risks in Cross-Cloud IoT Access Delegation.,No
+uss_2020_70,HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation.,No
+uss_2020_71,Silhouette: Efficient Protected Shadow Stacks for Embedded Systems.,No
+uss_2020_72,P2IM: Scalable and Hardware-independent Firmware Testing via Automatic Peripheral Interface Modeling.,No
+uss_2020_73,COUNTERFOIL: Verifying Provenance of Integrated Circuits using Intrinsic Package Fingerprints and Inexpensive Cameras.,No
+uss_2020_74,Hall Spoofing: A Non-Invasive DoS Attack on Grid-Tied Solar Inverter.,No
+uss_2020_75,Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning.,No
+uss_2020_76,Exploring Connections Between Active Learning and Model Extraction.,Yes
+uss_2020_77,Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries.,Yes
+uss_2020_78,High Accuracy and High Fidelity Extraction of Neural Networks.,Yes
+uss_2020_79,Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning.,Yes
+uss_2020_80,TextShield: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation.,Yes
+uss_2020_81,"Data Recovery from ""Scrubbed"" NAND Flash Storage: Need for Analog Sanitization.",No
+uss_2020_82,PKU Pitfalls: Attacks on PKU-based Memory Isolation Systems.,No
+uss_2020_83,Medusa: Microarchitectural Data Leakage via Automated Attack Synthesis.,No
+uss_2020_84,V0LTpwn: Attacking x86 Processor Integrity from Software.,No
+uss_2020_85,DeepHammer: Depleting the Intelligence of Deep Neural Networks through Targeted Chain of Bit Flips.,Yes
+uss_2020_86,SpecFuzz: Bringing Spectre-type vulnerabilities to the surface.,No
+uss_2020_87,Security Analysis of Unified Payments Interface and Payment Apps in India.,No
+uss_2020_88,Cardpliance: PCI DSS Compliance of Android Applications.,No
+uss_2020_89,"The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections.",No
+uss_2020_90,VoteAgain: A scalable coercion-resistant voting system.,No
+uss_2020_91,Boxer: Preventing fraud by scanning credit cards.,No
+uss_2020_92,Fawkes: Protecting Privacy against Unauthorized Deep Learning Models.,No
+uss_2020_93,Stolen Memories: Leveraging Model Memorization for Calibrated White-Box Membership Inference.,Yes
+uss_2020_94,Local Model Poisoning Attacks to Byzantine-Robust Federated Learning.,Yes
+uss_2020_95,Justinian's GAAvernor: Robust Distributed Learning with Gradient Aggregation Agent.,Yes
+uss_2020_96,Interpretable Deep Learning under Fire.,Yes
+uss_2020_97,Donky: Domain Keys - Efficient In-Process Isolation for RISC-V and x86.,No
+uss_2020_98,(Mostly) Exitless VM Protection from Untrusted Hypervisor through Disaggregated Nested Virtualization.,No
+uss_2020_99,"DECAF: Automatic, Adaptive De-bloating and Hardening of COTS Firmware.",No
+uss_2020_100,McTiny: Fast High-Confidence Post-Quantum Key Erasure for Tiny Network Servers.,No
+uss_2020_101,Temporal System Call Specialization for Attack Surface Reduction.,No
+uss_2020_102,Big Numbers - Big Troubles: Systematically Analyzing Nonce Leakage in (EC)DSA Implementations.,No
+uss_2020_103,Estonian Electronic Identity Card: Security Flaws in Key Management.,No
+uss_2020_104,The Unpatchable Silicon: A Full Break of the Bitstream Encryption of Xilinx 7-Series FPGAs.,No
+uss_2020_105,Automating the Development of Chosen Ciphertext Attacks.,No
+uss_2020_106,SHA-1 is a Shambles: First Chosen-Prefix Collision on SHA-1 and Application to the PGP Web of Trust.,No
+uss_2020_107,"A Spectral Analysis of Noise: A Comprehensive, Automated, Formal Analysis of Diffie-Hellman Protocols.",No
+uss_2020_108,An Observational Investigation of Reverse Engineers' Processes.,No
+uss_2020_109,The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums.,No
+uss_2020_110,DatashareNetwork: A Decentralized Privacy-Preserving Search Engine for Investigative Journalists.,No
+uss_2020_111,"""I am uncomfortable sharing what I can't see"": Privacy Concerns of the Visually Impaired with Camera Based Assistive Applications.",No
+uss_2020_112,'I have too much respect for my elders': Understanding South African Mobile Users' Perceptions of Privacy and Current Behaviors on Facebook and WhatsApp.,No
+uss_2020_113,RELOAD+REFRESH: Abusing Cache Replacement Policies to Perform Stealthy Cache Attacks.,No
+uss_2020_114,Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote Connections.,No
+uss_2020_115,Cache Telepathy: Leveraging Shared Resource Attacks to Learn DNN Architectures.,Yes
+uss_2020_116,Certified Side Channels.,No
+uss_2020_117,NetWarden: Mitigating Network Covert Channels while Preserving Performance.,No
+uss_2020_118,TPM-FAIL: TPM meets Timing and Lattice Attacks.,No
+uss_2020_119,Scaling Verifiable Computation Using Efficient Set Accumulators.,No
+uss_2020_120,Pixel: Multi-signatures for Consensus.,No
+uss_2020_121,SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search.,No
+uss_2020_122,MIRAGE: Succinct Arguments for Randomized Algorithms with Applications to Universal zk-SNARKs.,No
+uss_2020_123,Secure Multi-party Computation of Differentially Private Median.,No
+uss_2020_124,"That Was Then, This Is Now: A Security Evaluation of Password Generation, Storage, and Autofill in Browser-Based Password Managers.",No
+uss_2020_125,Composition Kills: A Case Study of Email Sender Authentication.,No
+uss_2020_126,Detecting Stuffing of a User's Credentials at Her Own Accounts.,No
+uss_2020_127,Liveness is Not Enough: Enhancing Fingerprint Authentication with Behavioral Biometrics to Defeat Puppet Attacks.,No
+uss_2020_128,Human Distinguishable Visual Key Fingerprints.,No
+uss_2020_129,FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzing through Deep Learning.,No
+uss_2020_130,FuzzGen: Automatic Fuzzer Generation.,No
+uss_2020_131,ParmeSan: Sanitizer-guided Greybox Fuzzing.,No
+uss_2020_132,EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as a Variant of the Adversarial Multi-Armed Bandit.,No
+uss_2020_133,MUZZ: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs.,No
+uss_2020_134,On Training Robust PDF Malware Classifiers.,Yes
+uss_2020_135,Measuring and Modeling the Label Dynamics of Online Anti-Malware Engines.,No
+uss_2020_136,FIRMSCOPE: Automatic Uncovering of Privilege-Escalation Vulnerabilities in Pre-Installed Apps in Android Firmware.,No
+uss_2020_137,Automatic Hot Patch Generation for Android Kernels.,No
+uss_2020_138,"iOS, Your OS, Everybody's OS: Vetting and Analyzing Network Services of iOS Applications.",No
+uss_2020_139,SEAL: Attack Mitigation for Encrypted Databases via Adjustable Leakage.,No
+uss_2020_140,Pancake: Frequency Smoothing for Encrypted Data Stores.,No
+uss_2020_141,Droplet: Decentralized Authorization and Access Control for Encrypted Data Streams.,No
+uss_2020_142,Secure parallel computation on national scale volumes of data.,No
+uss_2020_143,Delphi: A Cryptographic Inference Service for Neural Networks.,No
+uss_2020_144,Analysis of DTLS Implementations Using Protocol State Fuzzing.,No
+uss_2020_145,Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine Checkpoints.,No
+uss_2020_146,USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation.,No
+uss_2020_147,GREYONE: Data Flow Sensitive Fuzzing.,No
+uss_2020_148,Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection.,No
+uss_2020_149,Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer.,No
+uss_2020_150,Light Commands: Laser-Based Audio Injection Attacks on Voice-Controllable Systems.,No
+uss_2020_151,SkillExplorer: Understanding the Behavior of Skills in Large Scale.,No
+uss_2020_152,Devil's Whisper: A General Approach for Physical Adversarial Attacks against Commercial Black-box Speech Recognition Devices.,Yes
+uss_2020_153,Void: A fast and light voice liveness detection system.,Yes
+uss_2020_154,Preech: A System for Privacy-Preserving Speech Transcription.,No
+uss_2020_155,BlockSci: Design and applications of a blockchain analysis platform.,No
+uss_2020_156,Remote Side-Channel Attacks on Anonymous Transactions.,No
+uss_2020_157,ETHBMC: A Bounded Model Checker for Smart Contracts.,No
+uss_2020_158,TXSPECTOR: Uncovering Attacks in Ethereum from Transactions.,No
+uss_2020_159,An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem.,No

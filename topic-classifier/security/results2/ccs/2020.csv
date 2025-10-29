@@ -1,0 +1,150 @@
+uuid,title,response
+ccs_2020_0,"CCS '20: 2020 ACM SIGSAC Conference on Computer and Communications Security, Virtual Event, USA, November 9-13, 2020.",No
+ccs_2020_1,"Machine Learning and Security: The Good, The Bad, and The Ugly.",Yes
+ccs_2020_2,Bypassing Tor Exit Blocking with Exit Bridge Onion Services.,No
+ccs_2020_3,CLAPS: Client-Location-Aware Path Selection in Tor.,No
+ccs_2020_4,Poking a Hole in the Wall: Efficient Censorship-Resistant Internet Communications by Parasitizing on WebRTC.,No
+ccs_2020_5,"Censored Planet: An Internet-wide, Longitudinal Censorship Observatory.",No
+ccs_2020_6,Gotta Catch'Em All: Using Honeypots to Catch Adversarial Attacks on Neural Networks.,Yes
+ccs_2020_7,A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models.,Yes
+ccs_2020_8,DeepDyve: Dynamic Verification for Deep Neural Networks.,Yes
+ccs_2020_9,Composite Backdoor Attack for Deep Neural Network by Mixing Existing Benign Features.,Yes
+ccs_2020_10,Devil is Virtual: Reversing Virtual Inheritance in C++ Binaries.,No
+ccs_2020_11,PatchScope: Memory Object Centric Patch Diffing.,No
+ccs_2020_12,FirmXRay: Detecting Bluetooth Link Layer Vulnerabilities From Bare-Metal Firmware.,No
+ccs_2020_13,Privaros: A Framework for Privacy-Compliant Delivery Drones.,No
+ccs_2020_14,"A Performant, Misuse-Resistant API for Primality Testing.",No
+ccs_2020_15,ProMACs: Progressive and Resynchronizing MACs for Continuous Efficient Authentication of Message Streams.,No
+ccs_2020_16,LadderLeak: Breaking ECDSA with Less than One Bit of Nonce Leakage.,No
+ccs_2020_17,Security of Streaming Encryption in Google's Tink Library.,No
+ccs_2020_18,Cyber-Physical Inconsistency Vulnerability Identification for Safety Checks in Robotic Vehicles.,No
+ccs_2020_19,HoneyPLC: A Next-Generation Honeypot for Industrial Control Systems.,No
+ccs_2020_20,Phantom of the ADAS: Securing Advanced Driver-Assistance Systems from Split-Second Phantom Attacks.,Yes
+ccs_2020_21,T2Pair: Secure and Usable Pairing for Heterogeneous IoT Devices.,No
+ccs_2020_22,CrypTFlow2: Practical 2-Party Secure Inference.,No
+ccs_2020_23,GAN-Leaks: A Taxonomy of Membership Inference Attacks against Generative Models.,Yes
+ccs_2020_24,Analyzing Information Leakage of Updates to Natural Language Models.,Yes
+ccs_2020_25,Information Leakage in Embedding Models.,Yes
+ccs_2020_26,PPE Circuits: Formal Definition to Software Automation.,No
+ccs_2020_27,Threshold Password-Hardened Encryption Services.,No
+ccs_2020_28,Minimal Symmetric PAKE and 1-out-of-N OT from Programmable-Once Public Functions.,No
+ccs_2020_29,Full Database Reconstruction in Two Dimensions.,No
+ccs_2020_30,Slimium: Debloating the Chromium Browser with Feature Subsetting.,No
+ccs_2020_31,You've Changed: Detecting Malicious Browser Extensions through their Update Deltas.,No
+ccs_2020_32,PMForce: Systematically Analyzing postMessage Handlers at Scale.,No
+ccs_2020_33,Fill in the Blanks: Empirical Analysis of the Privacy Threats of Browser Form Autofill.,No
+ccs_2020_34,Lies in the Air: Characterizing Fake-base-station Spam Ecosystem in China.,No
+ccs_2020_35,VAHunt: Warding Off New Repackaged Android Malware in App-Virtualization's Clothing.,No
+ccs_2020_36,"Deploying Android Security Updates: an Extensive Study Involving Manufacturers, Carriers, and End Users.",No
+ccs_2020_37,Demystifying Resource Management Risks in Emerging Mobile App-in-App Ecosystems.,No
+ccs_2020_38,ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts.,No
+ccs_2020_39,BDoS: Blockchain Denial-of-Service.,No
+ccs_2020_40,eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts.,No
+ccs_2020_41,WI is Almost Enough: Contingent Payment All Over Again.,No
+ccs_2020_42,Private Summation in the Multi-Message Shuffle Model.,No
+ccs_2020_43,R2DP: A Universal and Automated Approach to Optimizing the Randomization Mechanisms of Differential Privacy for Utility Metrics with No Known Optimal Distributions.,No
+ccs_2020_44,Estimating g-Leakage via Machine Learning.,Yes
+ccs_2020_45,Implementing the Exponential Mechanism with Base-2 Differential Privacy.,No
+ccs_2020_46,Examining Mirai's Battle over the Internet of Things.,No
+ccs_2020_47,Enhancing State-of-the-art Classifiers with API Semantics to Detect Evolved Android Malware.,Yes
+ccs_2020_48,Towards Attribution in Mobile Markets: Identifying Developer Account Polymorphism.,No
+ccs_2020_49,Mnemosyne: An Effective and Efficient Postmortem Watering Hole Attack Investigation System.,No
+ccs_2020_50,Dumbo: Faster Asynchronous BFT Protocols.,No
+ccs_2020_51,Tight Consistency Bounds for Bitcoin.,No
+ccs_2020_52,On the Optimality of Optimistic Responsiveness.,No
+ccs_2020_53,Everything is a Race and Nakamoto Always Wins.,No
+ccs_2020_54,Security Analysis and Implementation of Relay-Resistant Contactless Payments.,No
+ccs_2020_55,HACLxN: Verified Generic SIMD Crypto (for all your favourite platforms).,No
+ccs_2020_56,CheckDP: An Automated and Integrated Approach for Proving Differential Privacy or Finding Precise Counterexamples.,No
+ccs_2020_57,Asynchronous Remote Key Generation: An Analysis of Yubico's Proposal for W3C WebAuthn.,No
+ccs_2020_58,SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback.,No
+ccs_2020_59,FREEDOM: Engineering a State-of-the-Art DOM Fuzzer.,No
+ccs_2020_60,BlackMirror: Preventing Wallhacks in 3D Online FPS Games.,No
+ccs_2020_61,Cache-in-the-Middle (CITM) Attacks: Manipulating Sensitive Data in Isolated Execution Environments.,No
+ccs_2020_62,Deterministic Wallets in a Quantum World.,No
+ccs_2020_63,SNI-in-the-head: Protecting MPC-in-the-head Protocols against Side-channel Analysis.,No
+ccs_2020_64,Practical Lattice-Based Zero-Knowledge Proofs for Integer Relations.,No
+ccs_2020_65,QuantumHammer: A Practical Hybrid Attack on the LUOV Signature Scheme.,No
+ccs_2020_66,TEMPEST Comeback: A Realistic Audio Eavesdropping Threat on Mixed-signal SoCs.,No
+ccs_2020_67,When the Differences in Frequency Domain are Compensated: Understanding and Defeating Modulated Replay Attacks on Automatic Speech Recognition.,Yes
+ccs_2020_68,"AdvPulse: Universal, Synchronization-free, and Targeted Audio Adversarial Attacks via Subsecond Perturbations.",Yes
+ccs_2020_69,Harnessing the Ambient Radio Frequency Noise for Wearable Device Pairing.,No
+ccs_2020_70,PDiff: Semantic-based Patch Presence Testing for Downstream Kernels.,No
+ccs_2020_71,A Systematic Study of Elastic Objects in Kernel Exploitation.,No
+ccs_2020_72,iDEA: Static Analysis on the Security of Apple Kernel Drivers.,No
+ccs_2020_73,Exaggerated Error Handling Hurts! An In-Depth Study and Context-Aware Detection.,No
+ccs_2020_74,"LEAF: A Faster Secure Search Algorithm via Localization, Extraction, and Reconstruction.",No
+ccs_2020_75,"Blinder - Scalable, Robust Anonymous Committed Broadcast.",No
+ccs_2020_76,Secure Single-Server Aggregation with (Poly)Logarithmic Overhead.,No
+ccs_2020_77,Fast Database Joins and PSI for Secret Shared Data.,No
+ccs_2020_78,The Boon and Bane of Cross-Signing: Shedding Light on a Common Practice in Public Key Infrastructures.,No
+ccs_2020_79,Zombie Awakening: Stealthy Hijacking of Active Domains through DNS Hosting Referral.,No
+ccs_2020_80,Off-Path TCP Exploits of the Mixed IPID Assignment.,No
+ccs_2020_81,DNS Cache Poisoning Attack Reloaded: Revolutions with Side Channels.,No
+ccs_2020_82,Game-Set-MATCH: Using Mobile Devices for Seamless External-Facing Biometric Matching.,No
+ccs_2020_83,Usage Patterns of Privacy-Enhancing Technologies.,No
+ccs_2020_84,Text Captcha Is Dead? A Large Scale Deployment and Empirical Study.,Yes
+ccs_2020_85,"Practical Recommendations for Stronger, More Usable Passwords Combining Minimum-strength, Minimum-length, and Blocklist Requirements.",No
+ccs_2020_86,Oracle Simulation: A Technique for Protocol Composition with Long Term Shared Secrets.,No
+ccs_2020_87,The Signal Private Group System and Anonymous Credentials Supporting Efficient Verifiable Encryption.,No
+ccs_2020_88,Post-Quantum TLS Without Handshake Signatures.,No
+ccs_2020_89,Clone Detection in Secure Messaging: Improving Post-Compromise Security in Practice.,No
+ccs_2020_90,A Forensically Sound Method of Identifying Downloaders and Uploaders in Freenet.,No
+ccs_2020_91,A Qualitative Study of Dependency Management and Its Security Implications.,No
+ccs_2020_92,Forensic Analysis in Access Control: Foundations and a Case-Study from Practice.,No
+ccs_2020_93,Logging to the Danger Zone: Race Condition Attacks and Defenses on System Audit Frameworks.,No
+ccs_2020_94,MP-SPDZ: A Versatile Framework for Multi-Party Computation.,No
+ccs_2020_95,Is the Classical GMW Paradigm Practical? The Case of Non-Interactive Actively Secure 2PC.,No
+ccs_2020_96,Ferret: Fast Extension for Correlated OT with Small Communication.,No
+ccs_2020_97,More Efficient MPC from Improved Triple Generation and Authenticated Garbling.,No
+ccs_2020_98,Mitigation of Attacks on Email End-to-End Encryption.,No
+ccs_2020_99,Impersonation-as-a-Service: Characterizing the Emerging Criminal Infrastructure for User Impersonation at Scale.,No
+ccs_2020_100,VisualPhishNet: Zero-Day Phishing Website Detection by Visual Similarity.,Yes
+ccs_2020_101,Dangerous Skills Got Certified: Measuring the Trustworthiness of Skill Certification in Voice Personal Assistant Platforms.,No
+ccs_2020_102,MuSig-DN: Schnorr Multi-Signatures with Verifiably Deterministic Nonces.,No
+ccs_2020_103,Verifiable Timed Signatures Made Practical.,No
+ccs_2020_104,"Asynchronous Distributed Key Generation for Computationally-Secure Randomness, Consensus, and Threshold Signatures.",No
+ccs_2020_105,"UC Non-Interactive, Proactive, Threshold ECDSA with Identifiable Aborts.",No
+ccs_2020_106,A Generic Technique for Automatically Finding Defense-Aware Code Reuse Attacks.,No
+ccs_2020_107,Methodologies for Quantifying (Re-)randomization Security and Timing under JIT-ROP.,No
+ccs_2020_108,Finding Cracks in Shields: On the Security of Control Flow Integrity Mechanisms.,No
+ccs_2020_109,RTFM! Automatic Assumption Discovery and Verification Derivation from Library Document for API Misuse Detection.,No
+ccs_2020_110,InSpectre: Breaking and Fixing Microarchitectural Vulnerabilities by Formal Analysis.,No
+ccs_2020_111,Speculative Probing: Hacking Blind in the Spectre Era.,No
+ccs_2020_112,Déjà Vu: Side-Channel Analysis of Mozilla's NSS.,No
+ccs_2020_113,TRUSTORE: Side-Channel Resistant Storage for SGX using Intel Hybrid CPU-FPGA.,No
+ccs_2020_114,DECO: Liberating Web Data Using Decentralized Oracles for TLS.,No
+ccs_2020_115,Talking with Familiar Strangers: An Empirical Study on HTTPS Context Confusion Attacks.,No
+ccs_2020_116,The Cookie Hunter: Automated Black-box Auditing for Web Authentication and Authorization Flaws.,No
+ccs_2020_117,TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting.,No
+ccs_2020_118,Lift-and-Shift: Obtaining Simulation Extractable Subversion and Updatable SNARKs Generically.,No
+ccs_2020_119,Pointproofs: Aggregating Proofs for Multiple Vector Commitments.,No
+ccs_2020_120,Ligero++: A New Optimized Sublinear IOP.,No
+ccs_2020_121,Zero Knowledge Proofs for Decision Tree Predictions and Accuracy.,No
+ccs_2020_122,A 2.1 KHz Zero-Knowledge Processor with BubbleRAM.,No
+ccs_2020_123,Realistic Threats and Realistic Users: Lessons from the Election.,No
+ccs_2020_124,PhishBench 2.0: A Versatile and Extendable Benchmarking Framework for Phishing.,Yes
+ccs_2020_125,Benchmarking Label Dynamics of VirusTotal Engines.,No
+ccs_2020_126,VRLifeTime - An IDE Tool to Avoid Concurrency and Memory Bugs in Rust.,No.
+ccs_2020_127,LPET - Mining MS-Windows Software Privilege Escalation Vulnerabilities by Monitoring Interactive Behavior.,No
+ccs_2020_128,Towards Using Source Code Repositories to Identify Software Supply Chain Attacks.,No
+ccs_2020_129,Cybersecurity Research and Training for Power Distribution Grids - A Blueprint.,No
+ccs_2020_130,Continuous and Multiregional Monitoring of Malicious Hosts.,No
+ccs_2020_131,Facilitating Protocol-independent Industrial Intrusion Detection Systems.,No
+ccs_2020_132,Bento: Bringing Network Function Virtualization to Tor.,No
+ccs_2020_133,RIPT - An Efficient Multi-Core Record-Replay System.,No
+ccs_2020_134,Impact of Energy Consumption Attacks on LoRaWAN-Enabled Devices in Industrial Context.,No
+ccs_2020_135,A Multi-phased Multi-faceted IoT Honeypot Ecosystem.,No
+ccs_2020_136,Voice-Indistinguishability - Protecting Voiceprint with Differential Privacy under an Untrusted Server.,No
+ccs_2020_137,rProfiler - Assessing Insider Influence on Enterprise Assets.,No
+ccs_2020_138,CCSW'20: 2020 Cloud Computing Security Workshop.,No
+ccs_2020_139,CPSIOTSEC'20: 2020 Joint Workshop on CPS&IoT Security and Privacy.,No
+ccs_2020_140,MTD'20: 7th ACM Workshop on Moving Target Defense.,No
+ccs_2020_141,PPMLP 2020: Workshop on Privacy-Preserving Machine Learning In Practice.,No
+ccs_2020_142,19th Workshop on Privacy in the Electronic Society (WPES 2020).,No
+ccs_2020_143,AISec'20: 13th Workshop on Artificial Intelligence and Security.,Yes
+ccs_2020_144,ASHES 2020: 4th Workshop on Attacks and Solutions in Hardware Security.,No
+ccs_2020_145,2nd Workshop on Cyber-Security Arms Race (CYSARM 2020).,No
+ccs_2020_146,FEAST'20: Fifth Workshop on Forming an Ecosystem Around Software Transformation.,No
+ccs_2020_147,PLAS'20: 15th Workshop on Programming Languages and Analysis for Security.,No
+ccs_2020_148,TPDP'20: 6th Workshop on Theory and Practice of Differential Privacy.,No

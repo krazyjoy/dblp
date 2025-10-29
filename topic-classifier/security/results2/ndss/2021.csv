@@ -1,0 +1,89 @@
+uuid,title,response
+ndss_2021_0,"28th Annual Network and Distributed System Security Symposium, NDSS 2021, virtually, February 21-25, 2021.",No
+ndss_2021_1,Flexsealing BGP Against Route Leaks: Peerlock Active Measurement and Analysis.,No
+ndss_2021_2,A Devil of a Time: How Vulnerable is NTP to Malicious Timeservers?,No
+ndss_2021_3,OblivSketch: Oblivious Network Measurement as a Cloud Service.,No
+ndss_2021_4,ROV++: Improved Deployable Defense against BGP Hijacking.,No
+ndss_2021_5,Trust the Crowd: Wireless Witnessing to Detect Attacks on ADS-B-Based Air-Traffic Surveillance.,No
+ndss_2021_6,Towards Measuring Supply Chain Attacks on Package Managers for Interpreted Languages.,No
+ndss_2021_7,Processing Dangerous Paths - On Security and Privacy of the Portable Document Format.,No
+ndss_2021_8,"XDA: Accurate, Robust Disassembly with Transfer Learning.",No
+ndss_2021_9,Shadow Attacks: Hiding and Replacing Content in Signed PDFs.,No
+ndss_2021_10,KUBO: Precise and Scalable Detection of User-triggerable Undefined Behavior Bugs in OS Kernel.,No
+ndss_2021_11,Awakening the Web's Sleeper Agents: Misusing Service Workers for Privacy Leakage.,No
+ndss_2021_12,All the Numbers are US: Large-scale Abuse of Contact Discovery in Mobile Messengers.,No
+ndss_2021_13,Improving Signal's Sealed Sender.,No
+ndss_2021_14,Tales of Favicons and Caches: Persistent Tracking in Modern Browsers.,No
+ndss_2021_15,Reining in the Web's Inconsistencies with Site Policy.,No
+ndss_2021_16,From WHOIS to WHOWAS: A Large-Scale Measurement Study of Domain Registration Privacy under the GDPR.,No
+ndss_2021_17,Understanding the Growth and Security Considerations of ECS.,No
+ndss_2021_18,Mondrian: Comprehensive Inter-domain Network Zoning Architecture.,No
+ndss_2021_19,Bringing Balance to the Force: Dynamic Analysis of the Android Application Framework.,No
+ndss_2021_20,SymQEMU: Compilation-based symbolic execution for binaries.,No
+ndss_2021_21,TASE: Reducing Latency of Symbolic Execution with Transactional Memory.,No
+ndss_2021_22,Refining Indirect Call Targets at the Binary Level.,No
+ndss_2021_23,Obfuscated Access and Search Patterns in Searchable Encryption.,No
+ndss_2021_24,More than a Fair Share: Network Data Remanence Attacks against Secret Sharing-based Schemes.,No
+ndss_2021_25,Forward and Backward Private Conjunctive Searchable Symmetric Encryption.,No
+ndss_2021_26,Practical Non-Interactive Searchable Encryption with Forward and Backward Privacy.,No
+ndss_2021_27,Zoom on the Keystrokes: Exploiting Video Calls for Keystroke Inference Attacks.,No
+ndss_2021_28,Deceptive Deletions for Protecting Withdrawn Posts on Social Media Platforms.,No
+ndss_2021_29,Who's Hosting the Block Party? Studying Third-Party Blockage of CSP and SRI.,No
+ndss_2021_30,To Err.Is Human: Characterizing the Threat of Unintended URLs in Social Media.,No
+ndss_2021_31,SerialDetector: Principled and Practical Exploration of Object Injection Vulnerabilities for the Web.,No
+ndss_2021_32,The Abuser Inside Apps: Finding the Culprit Committing Mobile Ad Fraud.,No
+ndss_2021_33,Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks.,No
+ndss_2021_34,Understanding Worldwide Private Information Collection on Android.,No
+ndss_2021_35,On the Insecurity of SMS One-Time Password Messages against Local Attackers in Modern Mobile Devices.,No
+ndss_2021_36,Preventing and Detecting State Inference Attacks on Android.,No
+ndss_2021_37,As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service.,No
+ndss_2021_38,RandRunner: Distributed Randomness from Trapdoor VDFs with Strong Uniqueness.,No
+ndss_2021_39,LaKSA: A Probabilistic Proof-of-Stake Protocol.,No
+ndss_2021_40,SquirRL: Automating Attack Analysis on Blockchain Incentive Mechanisms with Deep Reinforcement Learning.,Yes
+ndss_2021_41,Bitcontracts: Supporting Smart Contracts in Legacy Blockchains.,No
+ndss_2021_42,QPEP: An Actionable Approach to Secure and Performant Broadband From Geostationary Orbit.,No
+ndss_2021_43,A Formal Analysis of the FIDO UAF Protocol.,No
+ndss_2021_44,PHOENIX: Device-Centric Cellular Network Protocol Monitoring using Runtime Verification.,No
+ndss_2021_45,The Bluetooth CYBORG: Analysis of the Full Human-Machine Passkey Entry AKE Protocol.,No
+ndss_2021_46,NetPlier: Probabilistic Network Protocol Reverse Engineering from Message Traces.,No
+ndss_2021_47,Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel.,No
+ndss_2021_48,Rosita: Towards Automatic Elimination of Power-Analysis Leakage in Ciphers.,No
+ndss_2021_49,Hunting the Haunter - Efficient Relational Symbolic Execution for Spectre with Haunted RelSE.,No
+ndss_2021_50,SpecTaint: Speculative Taint Analysis for Discovering Spectre Gadgets.,No
+ndss_2021_51,Understanding and Detecting International Revenue Share Fraud.,No
+ndss_2021_52,Differential Training: A Generic Framework to Reduce Label Noises for Android Malware Detection.,Yes
+ndss_2021_53,MINOS: A Lightweight Real-Time Cryptojacking Detection System.,No
+ndss_2021_54,Does Every Second Count? Time-based Evolution of Malware Behavior in Sandboxes.,No
+ndss_2021_55,"Hey Alexa, is this Skill Safe?: Taking a Closer Look at the Alexa Skill Ecosystem.",No
+ndss_2021_56,IoTSafe: Enforcing Safety and Security Policy with Real IoT Physical Interaction Discovery.,No
+ndss_2021_57,PFirewall: Semantics-Aware Customizable Data Flow Control for Smart Home Privacy Protection.,No
+ndss_2021_58,EarArray: Defending against DolphinAttack via Acoustic Attenuation.,No
+ndss_2021_59,POP and PUSH: Demystifying and Defending against (Mach) Port-oriented Programming.,No
+ndss_2021_60,"Доверя'й, но проверя'й: SFI safety for native-compiled Wasm.",No
+ndss_2021_61,Detecting Kernel Memory Leaks in Specialized Modules with Ownership Reasoning.,No
+ndss_2021_62,Let's Stride Blindfolded in a Forest: Sublinear Multi-Client Decision Trees Evaluation.,No
+ndss_2021_63,Practical Blind Membership Inference Attack via Differential Comparisons.,Yes
+ndss_2021_64,GALA: Greedy ComputAtion for Linear Algebra in Privacy-Preserved Neural Networks.,No
+ndss_2021_65,FARE: Enabling Fine-grained Attack Categorization under Low-quality Labeled Data.,Yes
+ndss_2021_66,PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles.,No
+ndss_2021_67,Favocado: Fuzzing the Binding Code of JavaScript Engines Using Semantically Correct Test Cases.,No
+ndss_2021_68,WINNIE : Fuzzing Windows Applications with Harness Synthesis and Fast Cloning.,No
+ndss_2021_69,Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing.,No
+ndss_2021_70,Evading Voltage-Based Intrusion Detection on Automotive CAN.,No
+ndss_2021_71,HERA: Hotpatching of Embedded Real-time Applications.,No
+ndss_2021_72,From Library Portability to Para-rehosting: Natively Executing Microcontroller Software on Commodity Hardware.,No
+ndss_2021_73,BaseSpec: Comparative Analysis of Baseband Software and Cellular Specifications for L3 Protocols.,No
+ndss_2021_74,POSEIDON: Privacy-Preserving Federated Neural Network Learning.,Yes
+ndss_2021_75,FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping.,Yes
+ndss_2021_76,Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning.,Yes
+ndss_2021_77,Data Poisoning Attacks to Deep Learning Based Recommender Systems.,No
+ndss_2021_78,C^2SR: Cybercrime Scene Reconstruction for Post-mortem Forensic Analysis.,No
+ndss_2021_79,ALchemist: Fusing Application and Audit Logs for Precise Attack Provenance without Instrumentation.,No
+ndss_2021_80,WATSON: Abstracting Behaviors from Audit Logs via Aggregation of Contextual Semantics.,No
+ndss_2021_81,DOVE: A Data-Oblivious Virtual Environment.,No
+ndss_2021_82,CHANCEL: Efficient Multi-client Isolation Under Adversarial Programs.,No
+ndss_2021_83,Emilia: Catching Iago in Legacy Code.,No
+ndss_2021_84,CV-Inspector: Towards Automating Detection of Adblock Circumvention.,No
+ndss_2021_85,FlowLens: Enabling Efficient Flow Classification for ML-based Network Security Applications.,No
+ndss_2021_86,PrivacyFlash Pro: Automating Privacy Policy Generation for Mobile Apps.,No
+ndss_2021_87,Towards Understanding and Detecting Cyberbullying in Real-world Images.,No

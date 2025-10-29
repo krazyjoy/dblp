@@ -1,0 +1,263 @@
+uuid,title,response
+ieee_2024_0,"IEEE Symposium on Security and Privacy, SP 2024, San Francisco, CA, USA, May 19-23, 2024.",No
+ieee_2024_1,On SMS Phishing Tactics and Infrastructure.,No
+ieee_2024_2,Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams.,No
+ieee_2024_3,From Chatbots to Phishbots?: Phishing Scam Generation in Commercial Large Language Models.,Yes
+ieee_2024_4,A Representative Study on Human Detection of Artificially Generated Media Across Countries.,No
+ieee_2024_5,AVA: Inconspicuous Attribute Variation-based Adversarial Attack bypassing DeepFake Detection.,Yes
+ieee_2024_6,An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape.,Yes
+ieee_2024_7,DP-Auditorium: A Large-Scale Library for Auditing Differential Privacy.,No
+ieee_2024_8,Time-Aware Projections: Truly Node-Private Graph Statistics under Continual Observation.,No
+ieee_2024_9,Synq: Public Policy Analytics Over Encrypted Data.,No
+ieee_2024_10,The Great Request Robbery: An Empirical Study of Client-side Request Hijacking Vulnerabilities on the Web.,No
+ieee_2024_11,Break the Wall from Bottom: Automated Discovery of Protocol-Level Evasion Vulnerabilities in Web Application Firewalls.,No
+ieee_2024_12,"Parse Me, Baby, One More Time: Bypassing HTML Sanitizer via Parsing Differentials.",No
+ieee_2024_13,Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis.,No
+ieee_2024_14,Where URLs Become Weapons: Automated Discovery of SSRF Vulnerabilities in Web Applications.,No
+ieee_2024_15,SINBAD: Saliency-informed detection of breakage caused by ad blocking.,No
+ieee_2024_16,C-Frame: Characterizing and measuring in-the-wild CAPTCHA attacks.,No
+ieee_2024_17,Jasmine: Scale up JavaScript Static Security Analysis with Computation-based Semantic Explanation.,No
+ieee_2024_18,A Tale of Two Industroyers: It was the Season of Darkness.,No
+ieee_2024_19,AquaSonic: Acoustic Manipulation of Underwater Data Center Operations and Resource Management.,No
+ieee_2024_20,"""Watching over the shoulder of a professional"": Why Hackers Make Mistakes and How They Fix Them.",No
+ieee_2024_21,A Picture is Worth 500 Labels: A Case Study of Demographic Disparities in Local Machine Learning Models for Instagram and TikTok.,No
+ieee_2024_22,MAWSEO: Adversarial Wiki Search Poisoning for Illicit Online Promotion.,Yes
+ieee_2024_23,Poisoning Web-Scale Training Datasets is Practical.,Yes
+ieee_2024_24,Don't Shoot the Messenger: Localization Prevention of Satellite Internet Users.,No
+ieee_2024_25,The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations.,No
+ieee_2024_26,SoK: Collusion-resistant Multi-party Private Set Intersections in the Semi-honest Model.,No
+ieee_2024_27,GAuV: A Graph-Based Automated Verification Framework for Perfect Semi-Honest Security of Multiparty Computation Protocols.,No
+ieee_2024_28,Don't Eject the Impostor: Fast Three-Party Computation With a Known Cheater.,No
+ieee_2024_29,Scalable Mixed-Mode MPC.,No
+ieee_2024_30,Asterisk: Super-fast MPC with a Friend.,No
+ieee_2024_31,Efficient Actively Secure DPF and RAM-based 2PC with One-Bit Leakage.,No
+ieee_2024_32,MPC-in-the-Head Framework without Repetition and its Applications to the Lattice-based Cryptography.,No
+ieee_2024_33,Orca: FSS-based Secure Training and Inference with GPUs.,No
+ieee_2024_34,"Security, Privacy, and Data-sharing Trade-offs When Moving to the United States: Insights from a Qualitative Study.",No
+ieee_2024_35,SoK: Safer Digital-Safety Research Involving At-Risk Users.,No
+ieee_2024_36,Janus: Safe Biometric Deduplication for Humanitarian Aid Distribution.,No
+ieee_2024_37,SoK: Technical Implementation and Human Impact of Internet Privacy Regulations.,No
+ieee_2024_38,Digital Security - A Question of Perspective A Large-Scale Telephone Survey with Four At-Risk User Groups.,No
+ieee_2024_39,No Easy Way Out: the Effectiveness of Deplatforming an Extremist Forum to Suppress Hate and Harassment.,No
+ieee_2024_40,Withdrawing is believing? Detecting Inconsistencies between Withdrawal Choices and Third-party Data Collections in Mobile Apps.,No
+ieee_2024_41,The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania.,No
+ieee_2024_42,You Only Prompt Once: On the Capabilities of Prompt Learning on Large Language Models to Tackle Toxic Content.,No
+ieee_2024_43,Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models.,No
+ieee_2024_44,Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models.,Yes
+ieee_2024_45,On Large Language Models' Resilience to Coercive Interrogation.,Yes
+ieee_2024_46,PromptCARE: Prompt Copyright Protection by Watermark Injection and Verification.,No
+ieee_2024_47,"LLMs Cannot Reliably Identify and Reason About Security Vulnerabilities (Yet?): A Comprehensive Evaluation, Framework, and Benchmarks.",Yes
+ieee_2024_48,LLMIF: Augmented Large Language Model for Fuzzing IoT Devices.,No
+ieee_2024_49,SneakyPrompt: Jailbreaking Text-to-image Generative Models.,Yes
+ieee_2024_50,Eureka: A General Framework for Black-box Differential Privacy Estimators.,No
+ieee_2024_51,Casual Users and Rational Choices within Differential Privacy.,No
+ieee_2024_52,Lower Bounds for Rényi Differential Privacy in a Black-Box Setting.,No
+ieee_2024_53,Bounded and Unbiased Composite Differential Privacy.,No
+ieee_2024_54,Cohere: Managing Differential Privacy in Large Scale Systems.,No
+ieee_2024_55,DPI: Ensuring Strict Differential Privacy for Infinite Data Streaming.,No
+ieee_2024_56,Budget Recycling Differential Privacy.,No
+ieee_2024_57,Measure-Observe-Remeasure: An Interactive Paradigm for Differentially-Private Exploratory Analysis.,No
+ieee_2024_58,Everyone for Themselves? A Qualitative Study about Individual Security Setups of Open Source Software Contributors.,No
+ieee_2024_59,Measuring the Effects of Stack Overflow Code Snippet Evolution on Open-Source Software Security.,No
+ieee_2024_60,Shedding Light on CVSS Scoring Inconsistencies: A User-Centric Study on Evaluating Widespread Security Vulnerabilities.,No
+ieee_2024_61,TrojanPuzzle: Covertly Poisoning Code-Suggestion Models.,Yes
+ieee_2024_62,Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers' Coding Practices with Insecure Suggestions from Poisoned AI Models.,Yes
+ieee_2024_63,"Signing in Four Public Software Package Registries: Quantity, Quality, and Influencing Factors.",No
+ieee_2024_64,"More Haste, Less Speed: Cache Related Security Threats in Continuous Integration Services.",No
+ieee_2024_65,Patchy Performance? Uncovering the Vulnerability Management Practices of IoT-Centric Vendors.,No
+ieee_2024_66,Need for Speed: Taming Backdoor Attacks with Speed and Precision.,Yes
+ieee_2024_67,Multi-Instance Adversarial Attack on GNN-Based Malicious Domain Detection.,Yes
+ieee_2024_68,Dropout Attacks.,Yes
+ieee_2024_69,BounceAttack: A Query-Efficient Decision-based Adversarial Attack by Bouncing into the Wild.,Yes
+ieee_2024_70,Loki: Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation.,Yes
+ieee_2024_71,Test-Time Poisoning Attacks Against Test-Time Adaptation Models.,Yes
+ieee_2024_72,Attacking Byzantine Robust Aggregation in High Dimensions.,Yes
+ieee_2024_73,"CaFA: Cost-aware, Feasible Attacks With Database Constraints Against Neural Tabular Classifiers.",Yes
+ieee_2024_74,Universal Neural-Cracking-Machines: Self-Configurable Password Models from Auxiliary Data.,No
+ieee_2024_75,PassREfinder: Credential Stuffing Risk Prediction by Representing Password Reuse between Websites on a Graph.,No
+ieee_2024_76,Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services.,No
+ieee_2024_77,A Security Analysis of Honey Vaults.,No
+ieee_2024_78,Combing for Credentials: Active Pattern Extraction from Smart Reply.,Yes
+ieee_2024_79,ARMOR: A Formally Verified Implementation of X.509 Certificate Chain Validation.,No
+ieee_2024_80,DY Fuzzing: Formal Dolev-Yao Models Meet Cryptographic Protocol Fuzz Testing.,No
+ieee_2024_81,To Auth or Not To Auth? A Comparative Analysis of the Pre- and Post-Login Security Landscape.,No
+ieee_2024_82,Targeted and Troublesome: Tracking and Advertising on Children's Websites.,No
+ieee_2024_83,"Children, Parents, and Misinformation on Social Media.",No
+ieee_2024_84,Understanding Parents' Perceptions and Practices Toward Children's Security and Privacy in Virtual Reality.,No
+ieee_2024_85,The Times They Are A-Changin': Characterizing Post-Publication Changes to Online News.,No
+ieee_2024_86,The Inventory is Dark and Full of Misinformation: Understanding Ad Inventory Pooling in the Ad-Tech Supply Chain.,No
+ieee_2024_87,Specious Sites: Tracking the Spread and Sway of Spurious News Stories at Scale.,No
+ieee_2024_88,ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms using Linguistic Features.,Yes
+ieee_2024_89,FlowMur: A Stealthy and Practical Audio Backdoor Attack with Limited Knowledge.,Yes
+ieee_2024_90,Understanding and Benchmarking the Commonality of Adversarial Examples.,Yes
+ieee_2024_91,Scores Tell Everything about Bob: Non-adaptive Face Reconstruction on Face Recognition Systems.,Yes
+ieee_2024_92,OdScan: Backdoor Scanning for Object Detection Models.,Yes
+ieee_2024_93,Transferable Multimodal Attack on Vision-Language Pre-training Models.,Yes
+ieee_2024_94,Certifying Zero-Knowledge Circuits with Refinement Types.,No
+ieee_2024_95,Ligetron: Lightweight Scalable End-to-End Zero-Knowledge Proofs Post-Quantum ZK-SNARKs on a Browser.,No
+ieee_2024_96,Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs.,No
+ieee_2024_97,Scalable Verification of Zero-Knowledge Protocols.,No
+ieee_2024_98,Efficient Zero-Knowledge Arguments For Paillier Cryptosystem.,No
+ieee_2024_99,SwiftRange: A Short and Efficient Zero-Knowledge Range Argument For Confidential Transactions and More.,No
+ieee_2024_100,Titan : Efficient Multi-target Directed Greybox Fuzzing.,No
+ieee_2024_101,Benzene: A Practical Root Cause Analysis System with an Under-Constrained State Mutation.,No
+ieee_2024_102,Predecessor-aware Directed Greybox Fuzzing.,No
+ieee_2024_103,AFGen: Whole-Function Fuzzing for Applications and Libraries.,No
+ieee_2024_104,Labrador: Response Guided Directed Fuzzing for Black-box IoT Devices.,No
+ieee_2024_105,Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay.,No
+ieee_2024_106,Everything is Good for Something: Counterexample-Guided Directed Fuzzing via Likely Invariant Inference.,No
+ieee_2024_107,SoK: Prudent Evaluation Practices for Fuzzing.,No
+ieee_2024_108,MM-BD: Post-Training Detection of Backdoor Attacks with Arbitrary Backdoor Pattern Types Using a Maximum Margin Statistic.,Yes
+ieee_2024_109,BadVFL: Backdoor Attacks in Vertical Federated Learning.,Yes
+ieee_2024_110,Distribution Preserving Backdoor Attack in Self-supervised Learning.,Yes
+ieee_2024_111,Robust Backdoor Detection for Deep Learning via Topological Evolution Dynamics.,Yes
+ieee_2024_112,DeepVenom: Persistent DNN Backdoors Exploiting Transient Weight Perturbations in Memories.,Yes
+ieee_2024_113,Baffle: Hiding Backdoors in Offline Reinforcement Learning Datasets.,Yes
+ieee_2024_114,Exploring the Orthogonality and Linearity of Backdoor Attacks.,Yes
+ieee_2024_115,BELT: Old-School Backdoor Attacks can Evade the State-of-the-Art Defense with Backdoor Exclusivity Lifting.,Yes
+ieee_2024_116,Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers.,No
+ieee_2024_117,Larger-scale Nakamoto-style Blockchains Don't Necessarily Offer Better Security.,No
+ieee_2024_118,Nurgle: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation.,No
+ieee_2024_119,Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts.,No
+ieee_2024_120,SmartInv: Multimodal Learning for Smart Contract Invariant Inference.,No
+ieee_2024_121,Pulling Off The Mask: Forensic Analysis of the Deceptive Creator Wallets Behind Smart Contract Fraud.,No
+ieee_2024_122,Towards Smart Contract Fuzzing on GPUs.,No
+ieee_2024_123,Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts.,No
+ieee_2024_124,Who Left the Door Open? Investigating the Causes of Exposed IoT Devices in an Academic Network.,No
+ieee_2024_125,SyzTrust: State-aware Fuzzing on Trusted OS Designed for IoT Devices.,No
+ieee_2024_126,A Systematic Study of Physical Sensor Attack Hardness.,No
+ieee_2024_127,Revisiting Automotive Attack Surfaces: a Practitioners' Perspective.,No
+ieee_2024_128,From Virtual Touch to Tesla Command: Unlocking Unauthenticated Control Chains From Smart Glasses for Vehicle Takeover.,No
+ieee_2024_129,MQTTactic: Security Analysis and Verification for Logic Flaws in MQTT Implementations.,No
+ieee_2024_130,Wear's my Data? Understanding the Cross-Device Runtime Permission Model in Wearables.,No
+ieee_2024_131,Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device's Power LED Captured by Standard Video Cameras.,No
+ieee_2024_132,SoK: Explainable Machine Learning in Adversarial Environments.,Yes
+ieee_2024_133,GrOVe: Ownership Verification of Graph Neural Networks using Embeddings.,Yes
+ieee_2024_134,Revisiting Black-box Ownership Verification for Graph Neural Networks.,Yes
+ieee_2024_135,CORELOCKER: Neuron-level Usage Control.,No
+ieee_2024_136,MEA-Defender: A Robust Watermark against Model Extraction Attack.,Yes
+ieee_2024_137,Securing Graph Neural Networks in MLaaS: A Comprehensive Realization of Query-based Integrity Verification.,Yes
+ieee_2024_138,Sophon: Non-Fine-Tunable Learning to Restrain Task Transferability For Pre-trained Models.,Yes
+ieee_2024_139,FLShield: A Validation Based Federated Learning Framework to Defend Against Poisoning Attacks.,Yes
+ieee_2024_140,"Secure Messaging with Strong Compromise Resilience, Temporal Privacy, and Immediate Decryption.",No
+ieee_2024_141,Private Hierarchical Governance for Encrypted Messaging.,No
+ieee_2024_142,Enforcing End-to-end Security for Remote Conference Applications.,No
+ieee_2024_143,Injection Attacks Against End-to-End Encrypted Applications.,No
+ieee_2024_144,Device-Oriented Group Messaging: A Formal Cryptographic Analysis of Matrix' Core.,No
+ieee_2024_145,Multi-Stage Group Key Distribution and PAKEs: Securing Zoom Groups against Malicious Servers without New Security Elements.,No
+ieee_2024_146,"Holepunch: Fast, Secure File Deletion with Crash Consistency.",No
+ieee_2024_147,INVISILINE: Invisible Plausibly-Deniable Storage.,No
+ieee_2024_148,Guessing on Dominant Paths: Understanding the Limitation of Wireless Authentication Using Channel State Information.,No
+ieee_2024_149,MetaFly: Wireless Backhaul Interception via Aerial Wavefront Manipulation.,No
+ieee_2024_150,NFCEraser: A Security Threat of NFC Message Modification Caused by Quartz Crystal Oscillator.,No
+ieee_2024_151,Secure Ranging with IEEE 802.15.4z HRP UWB.,No
+ieee_2024_152,MIMOCrypt: Multi-User Privacy-Preserving Wi-Fi Sensing via MIMO Encryption.,No
+ieee_2024_153,Surveilling the Masses with Wi-Fi-Based Positioning Systems.,No
+ieee_2024_154,SoK: The Long Journey of Exploiting and Defending the Legacy of King Harald Bluetooth.,No
+ieee_2024_155,Practical Obfuscation of BLE Physical-Layer Fingerprints on Mobile Devices.,No
+ieee_2024_156,It's Simplex! Disaggregating Measures to Improve Certified Robustness.,Yes
+ieee_2024_157,Sabre: Cutting through Adversarial Noise with Adaptive Spectral Filtering and Input Reconstruction.,Yes
+ieee_2024_158,Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks.,Yes
+ieee_2024_159,FCert: Certifiably Robust Few-Shot Classification in the Era of Foundation Models.,Yes
+ieee_2024_160,Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks.,Yes
+ieee_2024_161,LACMUS: Latent Concept Masking for General Robustness Enhancement of DNNs.,Yes
+ieee_2024_162,SoK: Unintended Interactions among Machine Learning Defenses and Risks.,Yes
+ieee_2024_163,Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples.,Yes
+ieee_2024_164,hinTS: Threshold Signatures with Silent Setup.,No
+ieee_2024_165,Threshold ECDSA in Three Rounds.,No
+ieee_2024_166,"Private Analytics via Streaming, Sketching, and Silently Verifiable Proofs.",No
+ieee_2024_167,"Hyena: Balancing Packing, Reuse, and Rotations for Encrypted Inference.",No
+ieee_2024_168,Make Revocation Cheaper: Hardware-Based Revocable Attribute-Based Encryption.,No
+ieee_2024_169,SoK: Efficient Design and Implementation of Polynomial Hash Functions over Prime Fields.,No
+ieee_2024_170,Springproofs: Efficient Inner Product Arguments for Vectors of Arbitrary Length.,No
+ieee_2024_171,CryptoVampire: Automated Reasoning for the Complete Symbolic Attacker Cryptographic Model.,No
+ieee_2024_172,Nebula: A Privacy-First Platform for Data Backhaul.,No
+ieee_2024_173,Pudding: Private User Discovery in Anonymity Networks.,No
+ieee_2024_174,Attacking and Improving the Tor Directory Protocol.,No
+ieee_2024_175,Real-Time Website Fingerprinting Defense via Traffic Cluster Anonymization.,No
+ieee_2024_176,Learn What You Want to Unlearn: Unlearning Inversion Attacks against Machine Unlearning.,Yes
+ieee_2024_177,Few-shot Unlearning.,No
+ieee_2024_178,DeepShuffle: A Lightweight Defense Framework against Adversarial Fault Injection Attacks on Deep Neural Networks in Multi-Tenant Cloud-FPGA.,Yes
+ieee_2024_179,DeepTheft: Stealing DNN Model Architectures through Power Side Channel.,Yes
+ieee_2024_180,No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML.,Yes
+ieee_2024_181,One for All and All for One: GNN-based Control-Flow Attestation for Embedded Devices.,No
+ieee_2024_182,Why Does Little Robustness Help? A Further Step Towards Understanding Adversarial Transferability.,Yes
+ieee_2024_183,Backdooring Multimodal Learning.,Yes
+ieee_2024_184,Understanding the Privacy Practices of Political Campaigns: A Perspective from the 2020 US Election Websites.,No
+ieee_2024_185,Thwarting Last-Minute Voter Coercion.,No
+ieee_2024_186,Can we cast a ballot as intended and be receipt free?,No
+ieee_2024_187,Investigating Voter Perceptions of Printed Physical Audit Trails for Online Voting.,No
+ieee_2024_188,"E-Vote Your Conscience: Perceptions of Coercion and Vote Buying, and the Usability of Fake Credentials in Online Voting.",No
+ieee_2024_189,NetShuffle: Circumventing Censorship with Shuffle Proxies at the Edge.,No
+ieee_2024_190,R-CAID: Embedding Root Cause Analysis within Provenance-based Intrusion Detection.,Yes
+ieee_2024_191,Kairos: Practical Intrusion Detection and Investigation using Whole-system Provenance.,No
+ieee_2024_192,Flash: A Comprehensive Approach to Intrusion Detection via Provenance Graph Representation Learning.,No
+ieee_2024_193,"eAudit: A Fast, Scalable and Deployable Audit Data Collection System.",No
+ieee_2024_194,Understanding and Bridging the Gap Between Unsupervised Network Representation Learning and Security Analytics.,No
+ieee_2024_195,DrSec: Flexible Distributed Representations for Efficient Endpoint Security.,No
+ieee_2024_196,Do You Play It by the Books? A Study on Incident Response Playbooks and Influencing Factors.,No
+ieee_2024_197,Jbeil: Temporal Graph-Based Inductive Learning to Infer Lateral Movement in Evolving Enterprise Networks.,No
+ieee_2024_198,Efficient and Generic Microarchitectural Hash-Function Recovery.,No
+ieee_2024_199,BUSted!!! Microarchitectural Side-Channel Attacks on the MCU Bus Interconnect.,No
+ieee_2024_200,Architectural Mimicry: Innovative Instructions to Efficiently Address Control-Flow Leakage in Data-Oblivious Programs.,No
+ieee_2024_201,GPU.zip: On the Side-Channel Implications of Hardware-Based Graphical Data Compression.,No
+ieee_2024_202,ConjunCT: Learning Inductive Invariants to Prove Unbounded Instruction Safety Against Microarchitectural Timing Attacks.,No
+ieee_2024_203,Prune+PlumTree - Finding Eviction Sets at Scale.,No
+ieee_2024_204,Leaky Address Masking: Exploiting Unmasked Spectre Gadgets with Noncanonical Address Translation.,No
+ieee_2024_205,Rethinking IC Layout Vulnerability: Simulation-Based Hardware Trojan Threat Assessment with High Fidelity.,No
+ieee_2024_206,Routing Attacks on Cryptocurrency Mining Pools.,No
+ieee_2024_207,Sweep-UC: Swapping Coins Privately.,No
+ieee_2024_208,SoK: Security and Privacy of Blockchain Interoperability.,No
+ieee_2024_209,Non-Atomic Arbitrage in Decentralized Finance.,No
+ieee_2024_210,Optimal Flexible Consensus and its Application to Ethereum.,No
+ieee_2024_211,"PriDe CT: Towards Public Consensus, Private Transactions, and Forward Secrecy in Decentralized Payments.",No
+ieee_2024_212,POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance.,No
+ieee_2024_213,"Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution.",No
+ieee_2024_214,Efficient Detection of Java Deserialization Gadget Chains via Bottom-up Gadget Search and Dataflow-aided Payload Construction.,No
+ieee_2024_215,"""False negative - that one is going to kill you"": Understanding Industry Perspectives of Static Analysis based Security Testing.",No
+ieee_2024_216,AirTaint: Making Dynamic Taint Analysis Faster and Easier.,No
+ieee_2024_217,Undefined-oriented Programming: Detecting and Chaining Prototype Pollution Gadgets in Node.js Template Engines for Malicious Consequences.,No
+ieee_2024_218,APP-Miner: Detecting API Misuses via Automatically Mining API Path Patterns.,No
+ieee_2024_219,ERASan: Efficient Rust Address Sanitizer.,No
+ieee_2024_220,"""Len or index or count, anything but v1"": Predicting Variable Names in Decompilation Output with Transfer Learning.",No
+ieee_2024_221,SrcMarker: Dual-Channel Source Code Watermarking via Scalable Code Transformations.,No
+ieee_2024_222,UnTrustZone: Systematic Accelerated Aging to Expose On-chip Secrets.,No
+ieee_2024_223,On (the Lack of) Code Confidentiality in Trusted Execution Environments.,No
+ieee_2024_224,SoK: SGX.Fail: How Stuff Gets eXposed.,No
+ieee_2024_225,Pandora: Principled Symbolic Validation of Intel SGX Enclave Runtimes.,No
+ieee_2024_226,Obelix: Mitigating Side-Channels Through Dynamic Obfuscation.,No
+ieee_2024_227,Serberus: Protecting Cryptographic Code from Spectres at Compile-Time.,No
+ieee_2024_228,WeSee: Using Malicious #VC Interrupts to Break AMD SEV-SNP.,No
+ieee_2024_229,Sticky Tags: Efficient and Deterministic Spatial Memory Error Mitigation using Persistent Memory Tags.,No
+ieee_2024_230,Bulkor: Enabling Bulk Loading for Path ORAM.,No
+ieee_2024_231,Distributed & Scalable Oblivious Sorting and Shuffling.,No
+ieee_2024_232,"Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation.",No
+ieee_2024_233,PIRANA: Faster Multi-query PIR via Constant-weight Codes.,No
+ieee_2024_234,"Communication-efficient, Fault Tolerant PIR over Erasure Coded Storage.",No
+ieee_2024_235,More is Merrier: Relax the Non-Collusion Assumption in Multi-Server PIR.,No
+ieee_2024_236,Group Oblivious Message Retrieval.,No
+ieee_2024_237,PolySphinx: Extending the Sphinx Mix Format With Better Multicast Support.,No
+ieee_2024_238,Where Are the Red Lines? Towards Ethical Server-Side Scans in Security and Privacy Research.,No
+ieee_2024_239,Cerberus: Enabling Efficient and Effective In-Network Monitoring on Programmable Switches.,No
+ieee_2024_240,Pryde: A Modular Generalizable Workflow for Uncovering Evasion Attacks Against Stateful Firewall Deployments.,No
+ieee_2024_241,TuDoor Attack: Systematically Exploring and Exploiting Logic Vulnerabilities in DNS Response Pre-processing with Malformed Packets.,No
+ieee_2024_242,DNSBomb: A New Practical-and-Powerful Pulsing DoS Attack Exploiting DNS Queries-and-Responses.,No
+ieee_2024_243,TCP Spoofing: Reliable Payload Transmission Past the Spoofed TCP Handshake.,No
+ieee_2024_244,Practical Attacks Against DNS Reputation Systems.,Yes
+ieee_2024_245,Leveraging Prefix Structure to Detect Volumetric DDoS Attack Signatures with Programmable Switches.,No
+ieee_2024_246,Automated Synthesis of Effect Graph Policies for Microservice-Aware Stateful System Call Specialization.,No
+ieee_2024_247,SoK: A Comprehensive Analysis and Evaluation of Docker Container Attack and Defense Mechanisms.,No
+ieee_2024_248,Tabbed Out: Subverting the Android Custom Tab Security Model.,No
+ieee_2024_249,P4Control: Line-Rate Cross-Host Attack Prevention via In-Network Information Flow Control Enabled by Programmable Switches and eBPF.,No
+ieee_2024_250,To Boldly Go Where No Fuzzer Has Gone Before: Finding Bugs in Linux' Wireless Stacks through VirtIO Devices.,No
+ieee_2024_251,Saturn: Host-Gadget Synergistic USB Driver Fuzzing.,No
+ieee_2024_252,SyzGen++: Dependency Inference for Augmenting Kernel Driver Fuzzing.,No
+ieee_2024_253,Side-Channel-Assisted Reverse-Engineering of Encrypted DNN Hardware Accelerator IP and Attack Surface Exploration.,Yes
+ieee_2024_254,SoK: Privacy-Preserving Data Synthesis.,No
+ieee_2024_255,Preserving Node-level Privacy in Graph Neural Networks.,No
+ieee_2024_256,From Principle to Practice: Vertical Data Minimization for Machine Learning.,No
+ieee_2024_257,"BOLT: Privacy-Preserving, Accurate and Efficient Inference for Transformers.",No
+ieee_2024_258,SHERPA: Explainable Robust Algorithms for Privacy-Preserved Federated Learning in Future Networks to Defend Against Data Poisoning Attacks.,Yes
+ieee_2024_259,Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack.,Yes
+ieee_2024_260,From Individual Computation to Allied Optimization: Remodeling Privacy-Preserving Neural Inference with Function Input Tuning.,No
+ieee_2024_261,Protecting Label Distribution in Cross-Silo Federated Learning.,No

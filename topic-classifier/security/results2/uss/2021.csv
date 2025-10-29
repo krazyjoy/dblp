@@ -1,0 +1,249 @@
+uuid,title,response
+uss_2021_0,"30th USENIX Security Symposium, USENIX Security 2021, August 11-13, 2021.",No
+uss_2021_1,"Susan Landau, Tufts University.",No
+uss_2021_2,"Effect of Mood, Location, Trust, and Presence of Others on Video-Based Social Authentication.",No
+uss_2021_3,'Passwords Keep Me Safe' - Understanding What Children Think about Passwords.,No
+uss_2021_4,On the Usability of Authenticity Checks for Hardware Security Tokens.,No
+uss_2021_5,Inexpensive Brainwave Authentication: New Techniques and Insights on User Acceptance.,No
+uss_2021_6,Why Older Adults (Don't) Use Password Managers.,No
+uss_2021_7,"""It's Stored, Hopefully, on an Encrypted Server"": Mitigating Users' Misconceptions About FIDO2 Biometric WebAuthn.",No
+uss_2021_8,Driving 2FA Adoption at Scale: Optimizing Two-Factor Authentication Notification Design Patterns.,No
+uss_2021_9,Hiding the Access Pattern is Not Enough: Exploiting Search Pattern Leakage in Searchable Encryption.,No
+uss_2021_10,A Highly Accurate Query-Recovery Attack against Searchable Encryption using Non-Indexed Documents.,No
+uss_2021_11,Fragment and Forge: Breaking Wi-Fi Through Frame Aggregation and Fragmentation.,No
+uss_2021_12,Card Brand Mixup Attack: Bypassing the PIN in non-Visa Cards by Using Them for Visa Transactions.,No
+uss_2021_13,Partitioning Oracle Attacks.,No
+uss_2021_14,Raccoon Attack: Finding and Exploiting Most-Significant-Bit-Oracles in TLS-DH(E).,No
+uss_2021_15,A Side Journey To Titan.,No
+uss_2021_16,PASAN: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications.,No
+uss_2021_17,On the Design and Misuse of Microcoded (Embedded) Processors - A Cautionary Note.,No
+uss_2021_18,M2MON: Building an MMIO-based Security Reference Monitor for Unmanned Vehicles.,No
+uss_2021_19,Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems.,No
+uss_2021_20,Jetset: Targeted Firmware Rehosting for Embedded Systems.,No
+uss_2021_21,LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks.,No
+uss_2021_22,PACStack: an Authenticated Call Stack.,No
+uss_2021_23,"""It's stressful having all these phones"": Investigating Sex Workers' Safety Goals, Risks, and Practices Online.",No
+uss_2021_24,"""Now I'm a bit angry: "" Individuals' Awareness, Perception, and Responses to Data Breaches that Affected Them.",No
+uss_2021_25,"""It's the Company, the Government, You and I"": User Perceptions of Responsibility for Smart Home Privacy and Security.",No
+uss_2021_26,The Role of Computer Security Customer Support in Helping Survivors of Intimate Partner Violence.,No
+uss_2021_27,Evaluating In-Workflow Messages for Improving Mental Models of End-to-End Encryption.,No
+uss_2021_28,PriSEC: A Privacy Settings Enforcement Controller.,No
+uss_2021_29,Are Privacy Dashboards Good for End Users? Evaluating User Perceptions and Reactions to Google's My Activity.,No.
+uss_2021_30,Mystique: Efficient Conversions for Zero-Knowledge Proofs with Applications to Machine Learning.,No
+uss_2021_31,Poseidon: A New Hash Function for Zero-Knowledge Proof Systems.,No
+uss_2021_32,Dynamic proofs of retrievability with low server storage.,No
+uss_2021_33,Where's Crypto?: Automated Identification and Classification of Proprietary Cryptographic Primitives in Binary Code.,No
+uss_2021_34,Towards Formal Verification of State Continuity for Enclave Programs.,No
+uss_2021_35,Protecting Cryptography Against Compelled Self-Incrimination.,No
+uss_2021_36,CSProp: Ciphertext and Signature Propagation Low-Overhead Public-Key Cryptosystem for IoT Environments.,No
+uss_2021_37,Automatic Extraction of Secrets from the Transistor Jungle using Laser-Assisted Side-Channel Attacks.,No
+uss_2021_38,Lord of the Ring(s): Side Channel Attacks on the CPU On-Chip Ring Interconnect Are Practical.,No
+uss_2021_39,Frontal Attack: Leaking Control-Flow in SGX via the CPU Frontend.,No
+uss_2021_40,Charger-Surfing: Exploiting a Power Line Side-Channel for Smartphone Information Leakage.,No
+uss_2021_41,VoltPillager: Hardware-based fault injection attacks against Intel SGX Enclaves using the SVID voltage scaling interface.,No
+uss_2021_42,CIPHERLEAKS: Breaking Constant-time Cryptography on AMD SEV via the Ciphertext Side Channel.,No
+uss_2021_43,Cross-VM and Cross-Processor Covert Channels Exploiting Processor Idle Power Management.,No
+uss_2021_44,Can Systems Explain Permissions Better? Understanding Users' Misperceptions under Smartphone Runtime Permission Model.,No
+uss_2021_45,"""Shhh...be quiet!"" Reducing the Unwanted Interruptions of Notification Permission Prompts on Chrome.",No
+uss_2021_46,Explanation Beats Context: The Effect of Timing & Rationales on Users' Runtime Permission Decisions.,No.
+uss_2021_47,"A Large Scale Study of User Behavior, Expectations and Engagement with Android Permissions.",No
+uss_2021_48,Reducing Bias in Modeling Real-world Password Strength via Deep Learning and Dynamic Dictionaries.,No
+uss_2021_49,Using Amnesia to Detect Credential Database Breaches.,No
+uss_2021_50,Incrementally Updateable Honey Password Vaults.,No
+uss_2021_51,Private Blocklist Lookups with Checklist.,No
+uss_2021_52,Identifying Harmful Media in End-to-End Encrypted Communication: Efficient Private Membership Computation.,No
+uss_2021_53,Fuzzy Labeled Private Set Intersection with Applications to Private Real-Time Biometric Search.,No
+uss_2021_54,PrivSyn: Differentially Private Data Synthesis.,No
+uss_2021_55,Data Poisoning Attacks to Local Differential Privacy Protocols.,No
+uss_2021_56,"How to Make Private Distributed Cardinality Estimation Practical, and Get Differential Privacy for Free.",No
+uss_2021_57,Locally Differentially Private Analysis of Graph Statistics.,No
+uss_2021_58,SMASH: Synchronized Many-sided Rowhammer Attacks from JavaScript.,No
+uss_2021_59,Database Reconstruction from Noisy Volumes: A Cache Side-Channel Attack on SQLite.,No
+uss_2021_60,PTAuth: Temporal Memory Safety via Robust Points-to Authentication.,No
+uss_2021_61,Does logic locking work with EDA tools?,No
+uss_2021_62,CURE: A Security Architecture with CUstomizable and Resilient Enclaves.,No
+uss_2021_63,DICE*: A Formally Verified Implementation of DICE Measured Boot.,No
+uss_2021_64,PEARL: Plausibly Deniable Flash Translation Layer using WOM coding.,No
+uss_2021_65,Examining the Efficacy of Decoy-based and Psychological Cyber Deception.,No
+uss_2021_66,"Helping Users Automatically Find and Manage Sensitive, Expendable Files in Cloud Storage.",No
+uss_2021_67,Adapting Security Warnings to Counter Online Disinformation.,No
+uss_2021_68,"""Why wouldn't someone think of democracy as a target?"": Security practices & challenges of people involved with U.S. political campaigns.",No
+uss_2021_69,Security Obstacles and Motivations for Small Businesses from a CISO's Perspective.,No
+uss_2021_70,Strategies and Perceived Risks of Sending Sensitive Documents.,No
+uss_2021_71,A Large-Scale Interview Study on Information Security in and Attacks against Small and Medium-sized Enterprises.,No
+uss_2021_72,On the Routing-Aware Peering against Network-Eclipse Attacks in Bitcoin.,No
+uss_2021_73,EOSAFE: Security Analysis of EOSIO Smart Contracts.,No
+uss_2021_74,EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts.,No
+uss_2021_75,Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications.,No
+uss_2021_76,Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited.,No
+uss_2021_77,Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain.,No
+uss_2021_78,SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution.,No
+uss_2021_79,MIRAGE: Mitigating Conflict-Based Cache Attacks with a Practical Fully-Associative Design.,No
+uss_2021_80,DOLMA: Securing Speculation with the Principle of Transient Non-Observability.,No
+uss_2021_81,Osiris: Automated Discovery of Microarchitectural Side Channels.,No
+uss_2021_82,Swivel: Hardening WebAssembly against Spectre.,No
+uss_2021_83,Rage Against the Machine Clear: A Systematic Analysis of Machine Clears and Their Implications for Transient Execution Attacks.,No
+uss_2021_84,Coco: Co-Design and Co-Verification of Masked Software Implementations on CPUs.,No
+uss_2021_85,Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.,Yes
+uss_2021_86,Blind Backdoors in Deep Learning Models.,Yes
+uss_2021_87,Graph Backdoor.,Yes
+uss_2021_88,Demon in the Variant: Statistical Analysis of DNNs for Robust Backdoor Contamination Detection.,Yes
+uss_2021_89,You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion.,No
+uss_2021_90,Poisoning the Unlabeled Dataset of Semi-Supervised Learning.,No
+uss_2021_91,Double-Cross Attacks: Subverting Active Learning Systems.,No
+uss_2021_92,Fine Grained Dataflow Tracking with Proximal Gradients.,No
+uss_2021_93,Static Detection of Unsafe DMA Accesses in Device Drivers.,No
+uss_2021_94,MAZE: Towards Automated Heap Feng Shui.,No
+uss_2021_95,SelectiveTaint: Efficient Data Flow Tracking With Static Binary Rewriting.,No
+uss_2021_96,Breaking Through Binaries: Compiler-quality Instrumentation for Better Binary-only Fuzzing.,No
+uss_2021_97,MBA-Blast: Unveiling and Simplifying Mixed Boolean-Arithmetic Obfuscation.,No
+uss_2021_98,VScape: Assessing and Escaping Virtual Call Protections.,No
+uss_2021_99,Pretty Good Phone Privacy.,No
+uss_2021_100,KeyForge: Non-Attributable Email from Forward-Forgeable Signatures.,No
+uss_2021_101,Express: Lowering the Cost of Metadata-hiding Communication with Cryptographic Privacy.,No
+uss_2021_102,Kalεido: Real-Time Privacy Control for Eye-Tracking Systems.,No
+uss_2021_103,Communication-Computation Trade-offs in PIR.,No.
+uss_2021_104,"I Always Feel Like Somebody's Sensing Me! A Framework to Detect, Identify, and Localize Clandestine Wireless Sensors.",No
+uss_2021_105,The Complexities of Healing in Secure Group Messaging: Why Cross-Group Effects Matter.,No
+uss_2021_106,SLAP: Improving Physical Adversarial Examples with Short-Lived Adversarial Perturbations.,Yes
+uss_2021_107,Adversarial Policy Training against Deep Reinforcement Learning.,Yes
+uss_2021_108,DRMI: A Dataset Reduction Technology based on Mutual Information for Black-box Attacks.,Yes
+uss_2021_109,Deep-Dup: An Adversarial Weight Duplication Attack Framework to Crush Deep Neural Network in Multi-Tenant FPGA.,Yes
+uss_2021_110,Entangled Watermarks as a Defense against Model Extraction.,Yes
+uss_2021_111,Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps.,Yes
+uss_2021_112,Hermes Attack: Steal DNN Models with Lossless Inference Accuracy.,No
+uss_2021_113,ARCUS: Symbolic Root Cause Analysis of Exploits in Production Systems.,No
+uss_2021_114,Automatic Firmware Emulation through Invalidity-guided Knowledge Inference.,No
+uss_2021_115,Finding Bugs Using Your Own Code: Detecting Functionally-similar yet Inconsistent Code.,No
+uss_2021_116,Understanding and Detecting Disordered Error Handling with Precise Function Pairing.,No
+uss_2021_117,Precise and Scalable Detection of Use-after-Compacting-Garbage-Collection Bugs.,No
+uss_2021_118,Reducing Test Cases with Attention Mechanism of Neural Networks.,No
+uss_2021_119,FlowDist: Multi-Staged Refinement-Based Dynamic Information Flow Analysis for Distributed Software Systems.,No
+uss_2021_120,Privacy and Integrity Preserving Computations with CRISP.,No
+uss_2021_121,Senate: A Maliciously-Secure MPC Platform for Collaborative Analytics.,No
+uss_2021_122,GForce: GPU-Friendly Oblivious and Rapid Neural Network Inference.,No
+uss_2021_123,ABY2.0: Improved Mixed-Protocol Secure Two-Party Computation.,No
+uss_2021_124,Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security.,No
+uss_2021_125,Muse: Secure Inference Resilient to Malicious Clients.,No
+uss_2021_126,ObliCheck: Efficient Verification of Oblivious Algorithms with Unobservable State.,No
+uss_2021_127,PatchGuard: A Provably Robust Defense against Adversarial Patches via Small Receptive Fields and Masking.,Yes
+uss_2021_128,T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification.,Yes
+uss_2021_129,WaveGuard: Understanding and Mitigating Audio Adversarial Examples.,Yes
+uss_2021_130,Cost-Aware Robust Tree Ensembles for Security Applications.,Yes
+uss_2021_131,Dompteur: Taming Audio Adversarial Examples.,Yes
+uss_2021_132,CADE: Detecting and Explaining Concept Drift Samples for Security Applications.,Yes
+uss_2021_133,SIGL: Securing Software Installations Through Deep Graph Learning.,Yes
+uss_2021_134,ExpRace: Exploiting Kernel Races through Raising Interrupts.,No
+uss_2021_135,Undo Workarounds for Kernel Bugs.,No
+uss_2021_136,An Analysis of Speculative Type Confusion Vulnerabilities in the Wild.,No
+uss_2021_137,Blinder: Partition-Oblivious Hierarchical Scheduling.,No
+uss_2021_138,SHARD: Fine-Grained Kernel Specialization with Context-Aware Hardening.,No
+uss_2021_139,Preventing Use-After-Free Attacks with Fast Forward Allocation.,No
+uss_2021_140,Detecting Kernel Refcount Bugs with Two-Dimensional Consistency Checking.,No
+uss_2021_141,"Effective Notification Campaigns on the Web: A Matter of Trust, Framing, and Support.",No
+uss_2021_142,Fingerprinting in Style: Detecting Browser Extensions via Injected Style Sheets.,No
+uss_2021_143,JAW: Studying Client-side CSRF with Hybrid Property Graphs and Declarative Traversals.,No
+uss_2021_144,AdCube: WebVR Ad Fraud and Practical Confinement of Third-Party Ads.,No
+uss_2021_145,CACTI: Captcha Avoidance via Client-side TEE Integration.,No
+uss_2021_146,PolyScope: Multi-Policy Access Control Analysis to Compute Authorized Attack Operations in Android Systems.,No
+uss_2021_147,Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types.,No
+uss_2021_148,Systematic Evaluation of Privacy Risks of Machine Learning Models.,Yes
+uss_2021_149,Extracting Training Data from Large Language Models.,Yes
+uss_2021_150,SWIFT: Super-fast and Robust Privacy-Preserving Machine Learning.,No
+uss_2021_151,Stealing Links from Graph Neural Networks.,Yes
+uss_2021_152,Leakage of Dataset Properties in Multi-Party Machine Learning.,Yes
+uss_2021_153,Defeating DNN-Based Traffic Analysis Systems in Real-Time With Blind Adversarial Perturbations.,Yes
+uss_2021_154,Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning.,No
+uss_2021_155,SyzVegas: Beating Kernel Fuzzing Odds with Reinforcement Learning.,No
+uss_2021_156,Android SmartTVs Vulnerability Discovery via Log-Guided Fuzzing.,No
+uss_2021_157,UNIFUZZ: A Holistic and Pragmatic Metrics-Driven Platform for Evaluating Fuzzers.,No
+uss_2021_158,Token-Level Fuzzing.,No
+uss_2021_159,APICraft: Fuzz Driver Generation for Closed-source SDK Libraries.,No
+uss_2021_160,The Use of Likely Invariants as Feedback for Fuzzers.,No
+uss_2021_161,ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications.,No
+uss_2021_162,"Prime+Probe 1, JavaScript 0: Overcoming Browser-based Side-Channel Defenses.",No
+uss_2021_163,Saphire: Sandboxing PHP Applications with Tailored System Call Allowlists.,No.
+uss_2021_164,SandTrap: Securing JavaScript-driven Trigger-Action Platforms.,No
+uss_2021_165,Can I Take Your Subdomain? Exploring Same-Site Attacks in the Modern Web.,No
+uss_2021_166,U Can't Debug This: Detecting JavaScript Anti-Debugging Techniques in the Wild.,No
+uss_2021_167,Abusing Hidden Properties to Attack the Node.js Ecosystem.,No
+uss_2021_168,mID: Tracing Screen Photos via Moiré Patterns.,No
+uss_2021_169,SEAL: Storage-efficient Causality Analysis on Enterprise Logs with Query-friendly Compression.,No
+uss_2021_170,ATLAS: A Sequence-based Learning Approach for Attack Investigation.,No
+uss_2021_171,ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning.,No
+uss_2021_172,V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities.,No
+uss_2021_173,Minerva- An Efficient Risk-Limiting Ballot Polling Audit.,No
+uss_2021_174,Security Analysis of the Democracy Live Online Voting System.,No
+uss_2021_175,Hopper: Modeling and Detecting Lateral Movement.,No
+uss_2021_176,LZR: Identifying Unexpected Internet Services.,No
+uss_2021_177,Blind In/On-Path Attacks and Applications to VPNs.,No
+uss_2021_178,The Hijackers Guide To The Galaxy: Off-Path Taking Over Internet Resources.,No
+uss_2021_179,Injection Attacks Reloaded: Tunnelling Malicious Payloads over DNS.,No
+uss_2021_180,Causal Analysis for Software-Defined Networking Attacks.,No
+uss_2021_181,Weak Links in Authentication Chains: A Large-scale Analysis of Email Sender Spoofing Attacks.,No
+uss_2021_182,Automated Discovery of Denial-of-Service Vulnerabilities in Connected Vehicle Protocols.,No
+uss_2021_183,Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations.,Yes
+uss_2021_184,Acoustics to the Rescue: Physical Key Inference Attack Revisited.,No
+uss_2021_185,Messy States of Wiring: Vulnerabilities in Emerging Personal Payment Systems.,No
+uss_2021_186,Research on the Security of Visual Reasoning CAPTCHA.,Yes
+uss_2021_187,Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack.,Yes
+uss_2021_188,Domain Shadowing: Leveraging Content Delivery Networks for Robust Blocking-Resistant Communications.,No
+uss_2021_189,Weaponizing Middleboxes for TCP Reflected Amplification.,No
+uss_2021_190,Collective Information Security in Large-Scale Urban Protests: the Case of Hong Kong.,No
+uss_2021_191,How Great is the Great Firewall? Measuring China's DNS Censorship.,No
+uss_2021_192,Balboa: Bobbing and Weaving around Network Censorship.,No
+uss_2021_193,Once is Never Enough: Foundations for Sound Statistical Inference in Tor Network Experimentation.,No
+uss_2021_194,Rollercoaster: An Efficient Group-Multicast Scheme for Mix Networks.,No
+uss_2021_195,Obfuscation-Resilient Executable Payload Extraction From Packed Malware.,No
+uss_2021_196,DeepReflect: Discovering Malicious Functionality through Binary Reconstruction.,No
+uss_2021_197,When Malware Changed Its Mind: An Empirical Study of Variable Program Behaviors in the Real World.,Yes
+uss_2021_198,The Circle Of Life: A Large-Scale Study of The IoT Malware Lifecycle.,No
+uss_2021_199,Forecasting Malware Capabilities From Cyber Attack Memory Images.,No
+uss_2021_200,YARIX: Scalable YARA-based Malware Intelligence.,No
+uss_2021_201,Constraint-guided Directed Greybox Fuzzing.,No
+uss_2021_202,PrivateDrop: Practical Privacy-Preserving Authentication for Apple AirDrop.,No
+uss_2021_203,Privacy-Preserving and Standard-Compatible AKA Protocol for 5G.,No
+uss_2021_204,SEApp: Bringing Mandatory Access Control to Android Apps.,No
+uss_2021_205,A11y and Privacy don't have to be mutually exclusive: Constraining Accessibility Service Misuse on Android.,No
+uss_2021_206,An Investigation of the Android Kernel Patch Ecosystem.,No
+uss_2021_207,"Share First, Ask Later (or Never?) Studying Violations of GDPR's Explicit Consent in Android Apps.",No
+uss_2021_208,DEFInit: An Analysis of Exposed Android Init Routines.,No
+uss_2021_209,Scalable Detection of Promotional Website Defacements in Black Hat SEO Campaigns.,No
+uss_2021_210,Compromised or Attacker-Owned: A Large Scale Classification and Study of Hosting Domains of Malicious URLs.,No
+uss_2021_211,Assessing Browser-level Defense against IDN-based Phishing.,No.
+uss_2021_212,Catching Phishers By Their Bait: Investigating the Dutch Phishing Landscape through Phishing Kit Detection.,No
+uss_2021_213,PhishPrint: Evading Phishing Detection Crawlers by Prior Profiling.,Yes
+uss_2021_214,Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages.,No
+uss_2021_215,Is Real-time Phishing Eliminated with FIDO? Social Engineering Downgrade Attacks against FIDO Protocols.,No
+uss_2021_216,Jaqen: A High-Performance Switch-Native Approach for Detecting and Mitigating Volumetric DDoS Attacks with Programmable Switches.,No
+uss_2021_217,ReDoSHunter: A Combined Static and Dynamic Approach for Regular Expression DoS Detection.,No
+uss_2021_218,"Ripple: A Programmable, Decentralized Link-Flooding Defense Against Adaptive Adversaries.",No
+uss_2021_219,Accurately Measuring Global Risk of Amplification Attacks using AmpMap.,No
+uss_2021_220,A Stealthy Location Identification Attack Exploiting Carrier Aggregation in Cellular Networks.,No
+uss_2021_221,"Disrupting Continuity of Apple's Wireless Ecosystem Security: New Tracking, DoS, and MitM Attacks on iOS and macOS Through Bluetooth Low Energy, AWDL, and Wi-Fi.",No
+uss_2021_222,Stars Can Tell: A Robust Method to Defend against GPS Spoofing Attacks using Off-the-shelf Chipset.,No
+uss_2021_223,Formally Verified Memory Protection for a Commodity Multiprocessor Hypervisor.,No
+uss_2021_224,Automatic Policy Generation for Inter-Service Access Control of Microservices.,No
+uss_2021_225,CLARION: Sound and Clear Provenance Tracking for Microservice Deployments.,No
+uss_2021_226,Virtual Secure Platform: A Five-Stage Pipeline Processor over TFHE.,No
+uss_2021_227,Searching Encrypted Data with Size-Locked Indexes.,No
+uss_2021_228,Blitz: Secure Multi-Hop Payments Without Two-Phase Commits.,No
+uss_2021_229,Reducing HSM Reliance in Payments through Proxy Re-Encryption.,No
+uss_2021_230,Risky Business? Investigating the Security Practices of Vendors on an Online Anonymous Market using Ground-Truth Data.,No
+uss_2021_231,Deep Entity Classification: Abusive Account Detection for Online Social Networks.,Yes
+uss_2021_232,SocialHEISTing: Understanding Stolen Facebook Accounts.,No
+uss_2021_233,Understanding Malicious Cross-library Data Harvesting on Android.,No
+uss_2021_234,Swiped: Analyzing Ground-truth Data of a Marketplace for Stolen Debit and Credit Cards.,No
+uss_2021_235,Having Your Cake and Eating It: An Analysis of Concession-Abuse-as-a-Service.,No
+uss_2021_236,Capture: Centralized Library Management for Heterogeneous IoT Devices.,No
+uss_2021_237,MPInspector: A Systematic and Automatic Approach for Evaluating the Security of IoT Messaging Protocols.,No
+uss_2021_238,HAWatcher: Semantics-Aware Anomaly Detection for Appified Smart Homes.,No
+uss_2021_239,Exposing New Vulnerabilities of Error Handling Mechanism in CAN.,No
+uss_2021_240,CANARY - a reactive defense mechanism for Controller Area Networks based on Active RelaYs.,No
+uss_2021_241,ReDMArk: Bypassing RDMA Security Mechanisms.,No
+uss_2021_242,ALPACA: Application Layer Protocol Confusion - Analyzing and Mitigating Cracks in TLS Authentication.,No
+uss_2021_243,Experiences Deploying Multi-Vantage-Point Domain Validation at Let's Encrypt.,No
+uss_2021_244,SiamHAN: IPv6 Address Correlation Attacks on TLS Encrypted Traffic via Siamese Heterogeneous Graph Attention Network.,No
+uss_2021_245,Why Eve and Mallory Still Love Android: Revisiting TLS (In)Security in Android Applications.,No
+uss_2021_246,Why TLS is better without STARTTLS: A Security Analysis of STARTTLS in the Email Context.,No
+uss_2021_247,What's in a Name? Exploring CA Certificate Control.,No

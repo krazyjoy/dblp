@@ -1,0 +1,424 @@
+uuid,title,response
+uss_2023_0,"32nd USENIX Security Symposium, USENIX Security 2023, Anaheim, CA, USA, August 9-11, 2023.",No
+uss_2023_1,PhyAuth: Physical-Layer Message Authentication for ZigBee Networks.,No
+uss_2023_2,Time for Change: How Clocks Break UWB Secure Ranging.,No
+uss_2023_3,Formal Analysis and Patching of BLE-SC Pairing.,No
+uss_2023_4,Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues.,No
+uss_2023_5,Abuse Vectors: A Framework for Conceptualizing IoT-Enabled Interpersonal Abuse.,No
+uss_2023_6,The Digital-Safety Risks of Financial Technologies for Survivors of Intimate Partner Violence.,No
+uss_2023_7,"""It's the Equivalent of Feeling Like You're in Jail"": Lessons from Firsthand and Secondhand Accounts of IoT-Enabled Intimate Partner Abuse.",No
+uss_2023_8,Sneaky Spy Devices and Defective Detectors: The Ecosystem of Intimate Partner Surveillance with Covert Devices.,No
+uss_2023_9,Towards a General Video-based Keystroke Inference Attack.,No
+uss_2023_10,Going through the motions: AR/VR keylogging from user head motions.,No
+uss_2023_11,Auditory Eyesight: Demystifying μs-Precision Keystroke Tracking Attacks on Unconstrained Keyboard Inputs.,No
+uss_2023_12,Watch your Watch: Inferring Personality Traits from Wearable Activity Trackers.,No
+uss_2023_13,Squint Hard Enough: Attacking Perceptual Hashing with Adversarial Machine Learning.,Yes
+uss_2023_14,How to Cover up Anomalous Accesses to Electronic Health Records.,Yes
+uss_2023_15,KENKU: Towards Efficient and Stealthy Black-box Adversarial Attacks against ASR Systems.,Yes
+uss_2023_16,Tubes Among Us: Analog Attack on Automatic Speaker Identification.,Yes
+uss_2023_17,Efficient Unbalanced Private Set Intersection Cardinality and User-friendly Privacy-preserving Contact Tracing.,No
+uss_2023_18,"Near-Optimal Oblivious Key-Value Stores for Efficient PSI, PSU and Volume-Hiding Multi-Maps.",No
+uss_2023_19,Distance-Aware Private Set Intersection.,No
+uss_2023_20,Linear Private Set Union from Multi-Query Reverse Private Membership Test.,No
+uss_2023_21,Auditing Frameworks Need Resource Isolation: A Systematic Study on the Super Producer Threat to System Auditing and Its Mitigation.,No
+uss_2023_22,AIRTAG: Towards Automated Attack Investigation by Unsupervised Learning with Log Texts.,No
+uss_2023_23,Rethinking System Audit Architectures for High Event Coverage and Synchronous Log Availability.,No
+uss_2023_24,Improving Logging to Reduce Permission Over-Granting Mistakes.,No
+uss_2023_25,Diving into Robocall Content with SnorCall.,No
+uss_2023_26,UCBlocker: Unwanted Call Blocking Using Anonymous Authentication.,No
+uss_2023_27,Combating Robocalls with Phone Virtual Assistant Mediated Interaction.,No
+uss_2023_28,"BotScreen: Trust Everybody, but Cut the Aimbots Yourself.",No
+uss_2023_29,"""If I could do this, I feel anyone could: "" The Design and Evaluation of a Secondary Authentication Factor Manager.",No
+uss_2023_30,Exploring Privacy and Incentives Considerations in Adoption of COVID-19 Contact Tracing Apps.,No
+uss_2023_31,Exploring Tenants' Preferences of Privacy Negotiation in Airbnb.,No
+uss_2023_32,"Know Your Cybercriminal: Evaluating Attacker Preferences by Measuring Profile Sales on an Active, Leading Criminal Market for User Impersonation at Scale.",No
+uss_2023_33,HorusEye: A Realtime IoT Malicious Traffic Detection Framework using Programmable Switches.,No
+uss_2023_34,An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting.,No
+uss_2023_35,Subverting Website Fingerprinting Defenses with Robust Traffic Representation.,No
+uss_2023_36,Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation.,No
+uss_2023_37,Towards Targeted Obfuscation of Adversarial Unsafe Images using Reconstruction and Counterfactual Super Region Attribution Explainability.,Yes
+uss_2023_38,TPatch: A Triggered Physical Adversarial Patch.,Yes
+uss_2023_39,CAPatch: Physical Adversarial Patch against Image Captioning Systems.,Yes
+uss_2023_40,Hard-label Black-box Universal Adversarial Patch Attack.,Yes
+uss_2023_41,Anatomy of a High-Profile Data Breach: Dissecting the Aftermath of a Crypto-Wallet Case.,No
+uss_2023_42,Glimpse: On-Demand PoW Light Client with Constant-Size Storage for DeFi.,No
+uss_2023_43,Mixed Signals: Analyzing Ground-Truth Data on the Users and Economics of a Bitcoin Mixing Service.,No
+uss_2023_44,Is Your Wallet Snitching On You? An Analysis on the Privacy Implications of Web3.,No
+uss_2023_45,Capstone: A Capability-based Foundation for Trustless Secure Memory Access.,No
+uss_2023_46,FloatZone: Accelerating Memory Error Detection using the Floating Point Unit.,No
+uss_2023_47,PUMM: Preventing Use-After-Free Using Execution Unit Partitioning.,No
+uss_2023_48,MTSan: A Feasible and Practical Memory Sanitizer for Fuzzing COTS Binaries.,No
+uss_2023_49,"Hidden Reality: Caution, Your Hand Gesture Inputs in the Immersive Virtual World are Visible to All!",No
+uss_2023_50,LocIn: Inferring Semantic Location from Spatial Maps in Mixed Reality.,No
+uss_2023_51,"Unique Identification of 50, 000+ Virtual Reality Users from Head & Hand Motion Data.",No
+uss_2023_52,Exploring User Reactions and Mental Models Towards Perceptual Manipulation Attacks in Mixed Reality.,Yes
+uss_2023_53,Erebus: Access Control for Augmented Reality Systems.,No
+uss_2023_54,No Single Silver Bullet: Measuring the Accuracy of Password Strength Meters.,No
+uss_2023_55,Password Guessing Using Random Forest.,No
+uss_2023_56,Pass2Edit: A Multi-Step Generative Model for Guessing Edited Passwords.,No
+uss_2023_57,Improving Real-world Password Guessing Attacks via Bi-directional Transformers.,No
+uss_2023_58,Araña: Discovering and Characterizing Password Guessing Attacks in Practice.,No
+uss_2023_59,PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs.,No
+uss_2023_60,Calpric: Inclusive and Fine-grain Labeling of Privacy Policies with Crowdsourcing and Active Learning.,No
+uss_2023_61,POLICYCOMP: Counterpart Comparison of Privacy Policies Uncovers Overbroad Personal Data Collection Practices.,No
+uss_2023_62,Lalaine: Measuring and Characterizing Non-Compliance of Apple Privacy Labels.,No
+uss_2023_63,Automated Cookie Notice Analysis and Enforcement.,No
+uss_2023_64,Continuous Learning for Android Malware Detection.,No
+uss_2023_65,Humans vs. Machines in Malware Classification.,Yes
+uss_2023_66,Adversarial Training for Raw-Binary Malware Classifiers.,Yes
+uss_2023_67,Black-box Adversarial Example Attack towards FCG Based Android Malware Detection under Incomplete Feature Information.,Yes
+uss_2023_68,Evading Provenance-Based ML Detectors with Adversarial System Actions.,Yes
+uss_2023_69,TreeSync: Authenticated Group Management for Messaging Layer Security.,No
+uss_2023_70,Formal Analysis of Session-Handling in Secure Messaging: Lifting Security from Sessions to Conversations.,No
+uss_2023_71,Cryptographic Administration for Secure Group Messaging.,No
+uss_2023_72,Wink: Deniable Secure Messaging.,No
+uss_2023_73,Three Lessons From Threema: Analysis of a Secure Messenger.,No
+uss_2023_74,MorFuzz: Fuzzing Processor via Runtime Instruction Morphing enhanced Synchronizable Co-simulation.,No
+uss_2023_75,µFUZZ: Redesign of Parallel Fuzzing using Microservice Architecture.,No
+uss_2023_76,FISHFUZZ: Catch Deeper Bugs by Throwing Larger Nets.,No
+uss_2023_77,HyPFuzz: Formal-Assisted Processor Fuzzing.,No
+uss_2023_78,PolyFuzz: Holistic Greybox Fuzzing of Multi-Language Systems.,No
+uss_2023_79,VIPER: Spotting Syscall-Guard Variables for Data-Only Attacks.,No
+uss_2023_80,AURC: Detecting Errors in Program Code and Documentation.,No
+uss_2023_81,Not All Data are Created Equal: Data and Pointer Prioritization for Scalable Protection Against Data-Oriented Attacks.,No
+uss_2023_82,SAFER: Efficient and Error-Tolerant Binary Instrumentation.,No
+uss_2023_83,Reassembly is Hard: A Reflection on Challenges and Strategies.,No
+uss_2023_84,Measuring Up to (Reasonable) Consumer Expectations: Providing an Empirical Basis for Holding IoT Manufacturers Legally Responsible.,No
+uss_2023_85,Are Consumers Willing to Pay for Security and Privacy of IoT Devices?,No
+uss_2023_86,Examining Consumer Reviews to Understand Security and Privacy Issues in the Market of Smart Home Devices.,No
+uss_2023_87,"Internet Service Providers' and Individuals' Attitudes, Barriers, and Incentives to Secure IoT.",No
+uss_2023_88,Detecting and Handling IoT Interaction Threats in Multi-Platform Multi-Control-Channel Smart Homes.,No
+uss_2023_89,Private Proof-of-Stake Blockchains using Differentially-Private Stake Distortion.,No
+uss_2023_90,"PrivateFL: Accurate, Differentially Private Federated Learning via Personalized Data Transformation.",No
+uss_2023_91,What Are the Chances? Explaining the Epsilon Parameter in Differential Privacy.,No
+uss_2023_92,Tight Auditing of Differentially Private Machine Learning.,No
+uss_2023_93,PrivTrace: Differentially Private Trajectory Synthesis by Adaptive Markov Models.,No
+uss_2023_94,Meta-Sift: How to Sift Out a Clean Subset in the Presence of Data Poisoning?,Yes
+uss_2023_95,Towards A Proactive ML Approach for Detecting Backdoor Poison Samples.,Yes
+uss_2023_96,PORE: Provably Robust Recommender Systems against Data Poisoning Attacks.,Yes
+uss_2023_97,Every Vote Counts: Ranking-Based Training of Federated Learning to Resist Poisoning Attacks.,Yes
+uss_2023_98,Fine-grained Poisoning Attack to Local Differential Privacy Protocols for Mean and Variance Estimation.,Yes
+uss_2023_99,Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract.,No
+uss_2023_100,Smart Learning to Find Dumb Contracts.,No
+uss_2023_101,Confusum Contractum: Confused Deputy Vulnerabilities in Ethereum Smart Contracts.,No
+uss_2023_102,Panda: Security Analysis of Algorand Smart Contracts.,No
+uss_2023_103,Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains.,No
+uss_2023_104,Fuzztruction: Using Fault Injection-based Fuzzing to Leverage Implicit Domain Knowledge.,No
+uss_2023_105,FuzzJIT: Oracle-Enhanced Fuzzing for JavaScript Engine JIT Compiler.,No
+uss_2023_106,GLeeFuzz: Fuzzing WebGL Through Error Message Guided Mutation.,No
+uss_2023_107,autofz: Automated Fuzzer Composition at Runtime.,No
+uss_2023_108,CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing.,No
+uss_2023_109,SCARF - A Low-Latency Block Cipher for Secure Cache-Randomization.,No
+uss_2023_110,The Gates of Time: Improving Cache Attacks with Transient Execution.,No
+uss_2023_111,Synchronization Storage Channels (S2C): Timer-less Cache Side-Channel Attacks on the Apple M1 via Hardware Synchronization Instructions.,No
+uss_2023_112,ClepsydraCache - Preventing Cache Attacks with Time-Based Evictions.,No
+uss_2023_113,CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in Production Software.,No
+uss_2023_114,InfinityGauntlet: Expose Smartphone Fingerprint Authentication to Brute-force Attack.,No
+uss_2023_115,A Study of Multi-Factor and Risk-Based Authentication Availability.,No
+uss_2023_116,A Large-Scale Measurement of Website Login Policies.,No
+uss_2023_117,Security and Privacy Failures in Popular 2FA Apps.,No
+uss_2023_118,"Multi-Factor Key Derivation Function (MFKDF) for Fast, Flexible, Secure, & Practical Key Management.",No
+uss_2023_119,"Log: It's Big, It's Heavy, It's Filled with Personal Data! Measuring the Logging of Sensitive Information in the Android Ecosystem.",No
+uss_2023_120,CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot.,No
+uss_2023_121,Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings.,No
+uss_2023_122,The Writing on the Wall and 3D Digital Twins: Personal Information in (not so) Private Real Estate.,No
+uss_2023_123,Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models.,Yes
+uss_2023_124,Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants.,No
+uss_2023_125,Two-in-One: A Model Hijacking Attack Against Text Generation Models.,Yes
+uss_2023_126,PTW: Pivotal Tuning Watermarking for Pre-Trained Image Generators.,Yes
+uss_2023_127,Lessons Lost: Incident Response in the Age of Cyber Insurance and Breach Attorneys.,No
+uss_2023_128,Bug Hunters' Perspectives on the Challenges and Benefits of the Bug Bounty Ecosystem.,No
+uss_2023_129,Work-From-Home and COVID-19: Trajectories of Endpoint Security Management in a Security Operations Center.,No
+uss_2023_130,"""Employees Who Don't Accept the Time Security Takes Are Not Aware Enough"": The CISO View of Human-Centred Security.",No
+uss_2023_131,Aegis: Mitigating Targeted Bit-flip Attacks against Deep Neural Networks.,Yes
+uss_2023_132,Rethinking White-Box Watermarks on Deep Learning Models under Neural Structural Obfuscation.,No
+uss_2023_133,PELICAN: Exploiting Backdoors of Naturally Trained Deep Learning Models In Binary Code Analysis.,Yes
+uss_2023_134,IvySyn: Automated Vulnerability Discovery in Deep Learning Frameworks.,Yes
+uss_2023_135,"Hey Kimya, Is My Smart Speaker Spying on Me? Taking Control of Sensor Privacy Through Isolation and Amnesia.",No
+uss_2023_136,Spying through Your Voice Assistants: Realistic Voice Command Fingerprinting.,No
+uss_2023_137,QFA2SR: Query-Free Adversarial Transfer Attacks to Speaker Recognition Systems.,Yes
+uss_2023_138,Learning Normality is Enough: A Software-based Mitigation against Inaudible Voice Attacks.,Yes
+uss_2023_139,Powering for Privacy: Improving User Trust in Smart Speaker Microphones with Intentional Powering and Perceptible Assurance.,No
+uss_2023_140,"To Cloud or not to Cloud: A Qualitative Study on Self-Hosters' Motivation, Operation, and Security Mindset.",No
+uss_2023_141,"""I wouldn't want my unsafe code to run my pacemaker"": An Interview Study on the Use, Comprehension, and Perceived Risks of Unsafe Rust.",No
+uss_2023_142,Pushed by Accident: A Mixed-Methods Study on Strategies of Handling Secret Information in Source Code Repositories.,No
+uss_2023_143,A Mixed-Methods Study of Security Practices of Smart Contract Developers.,No
+uss_2023_144,The Role of Professional Product Reviewers in Evaluating Security and Privacy.,No
+uss_2023_145,Network Responses to Russia's Invasion of Ukraine in 2022: A Cautionary Tale for Internet Freedom.,No
+uss_2023_146,A Study of China's Censorship and Its Evasion Through the Lens of Online Gaming.,No
+uss_2023_147,DeResistor: Toward Detection-Resistant Probing for Evasion of Internet Censorship.,No
+uss_2023_148,Timeless Timing Attacks and Preload Defenses in Tor's DNS Cache.,No
+uss_2023_149,How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic.,No
+uss_2023_150,A Data-free Backdoor Injection Approach in Neural Networks.,Yes
+uss_2023_151,Sparsity Brings Vulnerabilities: Exploring New Metrics in Backdoor Attacks.,Yes
+uss_2023_152,Aliasing Backdoor Attacks on Pre-trained Models.,Yes
+uss_2023_153,ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms.,Yes
+uss_2023_154,VILLAIN: Backdoor Attacks Against Vertical Split Learning.,Yes
+uss_2023_155,ARI: Attestation of Real-time Mission Execution Integrity.,No
+uss_2023_156,Design of Access Control Mechanisms in Systems-on-Chip with Formal Integrity Guarantees.,No
+uss_2023_157,HashTag: Hash-based Integrity Protection for Tagged Architectures.,No
+uss_2023_158,XCheck: Verifying Integrity of 3D Printed Patient-Specific Devices via Computing Tomography.,No
+uss_2023_159,Demystifying Pointer Authentication on Apple M1.,No
+uss_2023_160,DDRace: Finding Concurrency UAF Vulnerabilities in Linux Drivers with Directed Fuzzing.,No
+uss_2023_161,Automata-Guided Control-Flow-Sensitive Fuzz Driver Generation.,No
+uss_2023_162,Hoedur: Embedded Firmware Fuzzing using Multi-Stream Inputs.,No
+uss_2023_163,Forming Faster Firmware Fuzzers.,No
+uss_2023_164,ReUSB: Replay-Guided USB Driver Fuzzing.,No
+uss_2023_165,"Exorcising ""Wraith"": Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks.",Yes
+uss_2023_166,Discovering Adversarial Driving Maneuvers against Autonomous Vehicles.,Yes
+uss_2023_167,Understand Users' Privacy Perception and Decision of V2X Communication in Connected Autonomous Vehicles.,No
+uss_2023_168,You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks.,Yes
+uss_2023_169,PatchVerif: Discovering Faulty Patches in Robotic Vehicles.,No
+uss_2023_170,Fast IDentity Online with Anonymous Credentials (FIDO-AC).,No
+uss_2023_171,How to Bind Anonymous Credentials to Humans.,No
+uss_2023_172,Inducing Authentication Failures to Bypass Credit Card PINs.,No
+uss_2023_173,An Empirical Study & Evaluation of Modern CAPTCHAs.,No
+uss_2023_174,Account Verification on Social Media: User Perceptions and Paid Enrollment.,No
+uss_2023_175,User Awareness and Behaviors Concerning Encrypted DNS Settings in Web Browsers.,No
+uss_2023_176,Two Sides of the Shield: Understanding Protective DNS adoption factors.,No
+uss_2023_177,The Maginot Line: Attacking the Boundary of DNS Caching Protection.,No
+uss_2023_178,Fourteen Years in the Life: A Root Server's Perspective on DNS Resolver Security.,No
+uss_2023_179,NRDelegationAttack: Complexity DDoS attack on DNS Recursive Resolvers.,No
+uss_2023_180,Inductive Graph Unlearning.,No
+uss_2023_181,GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation.,No
+uss_2023_182,PrivGraph: Differentially Private Graph Data Publication by Exploiting Community Information.,No
+uss_2023_183,On the Security Risks of Knowledge Graph Reasoning.,Yes
+uss_2023_184,The Case for Learned Provenance Graph Storage Systems.,No
+uss_2023_185,A Large Scale Study of the Ethereum Arbitrage Ecosystem.,No
+uss_2023_186,ACon 2 : Adaptive Conformal Consensus for Provable Blockchain Oracles.,No
+uss_2023_187,Snapping Snap Sync: Practical Attacks on Go Ethereum Synchronising Nodes.,No
+uss_2023_188,"Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB).",No
+uss_2023_189,Automated Inference on Financial Security of Ethereum Smart Contracts.,No
+uss_2023_190,LibScan: Towards More Precise Third-Party Library Identification for Android Applications.,No
+uss_2023_191,Union under Duress: Understanding Hazards of Duplicate Resource Mismediation in Android Software Supply Chain.,No
+uss_2023_192,UVSCAN: Detecting Third-Party Component Usage Violations in IoT Firmware.,No
+uss_2023_193,Beyond Typosquatting: An In-depth Look at Package Confusion.,No
+uss_2023_194,SandDriller: A Fully-Automated Approach for Testing Language-Based JavaScript Sandboxes.,No
+uss_2023_195,Instructions Unclear: Undefined Behaviour in Cellular Network Specifications.,No
+uss_2023_196,MobileAtlas: Geographically Decoupled Measurements in Cellular Networks for Security and Privacy Research.,No
+uss_2023_197,Eavesdropping Mobile App Activity via Radio-Frequency Energy Harvesting.,No
+uss_2023_198,Sherlock on Specs: Building LTE Conformance Tests through Automated Reasoning.,No
+uss_2023_199,BASECOMP: A Comparative Analysis for Integrity Protection in Cellular Baseband Software.,No
+uss_2023_200,Investigating Verification Behavior and Perceptions of Visual Digital Certificates.,No
+uss_2023_201,"""My Privacy for their Security"": Employees' Privacy Perspectives and Expectations when using Enterprise Security Software.",No
+uss_2023_202,"Account Security Interfaces: Important, Unintuitive, and Untrustworthy.",No
+uss_2023_203,"Defining ""Broken"": User Experiences and Remediation Tactics When Ad-Blocking or Tracking-Protection Tools Break a Website's User Experience.",No
+uss_2023_204,Cryptographic Deniability: A Multi-perspective Study of User Perceptions and Expectations.,No
+uss_2023_205,Silent Bugs Matter: A Study of Compiler-Introduced Security Bugs.,No
+uss_2023_206,A Bug's Life: Analyzing the Lifecycle and Mitigation Process of Content Security Policy Bugs.,No
+uss_2023_207,Remote Code Execution from SSTI in the Sandbox: Automatically Detecting and Exploiting Template Escape Bugs.,No
+uss_2023_208,Detecting API Post-Handling Bugs Using Code and Description in Patches.,No
+uss_2023_209,Place Your Locks Well: Understanding and Detecting Lock Misuse Bugs.,No
+uss_2023_210,The Space of Adversarial Strategies.,Yes
+uss_2023_211,"""Security is not my field, I'm a stats guy"": A Qualitative Root Cause Analysis of Barriers to Adversarial Machine Learning Defenses in Industry.",Yes
+uss_2023_212,X-Adv: Physical Adversarial Object Attacks against X-ray Prohibited Item Detection.,Yes
+uss_2023_213,SMACK: Semantically Meaningful Adversarial Audio Attack.,Yes
+uss_2023_214,URET: Universal Robustness Evaluation Toolkit (for Evasion).,Yes
+uss_2023_215,Authenticated private information retrieval.,No
+uss_2023_216,Don't be Dense: Efficient Keyword PIR for Sparse Databases.,No
+uss_2023_217,GigaDORAM: Breaking the Billion Address Barrier.,No
+uss_2023_218,One Server for the Price of Two: Simple and Fast Single-Server Private Information Retrieval.,No
+uss_2023_219,Duoram: A Bandwidth-Efficient Distributed ORAM for 2- and 3-Party Computation.,No
+uss_2023_220,A Peek into the Metaverse: Detecting 3D Model Clones in Mobile Games.,No
+uss_2023_221,PATROL: Provable Defense against Adversarial Policy in Two-player Games.,Yes
+uss_2023_222,The Blockchain Imitation Game.,No
+uss_2023_223,It's all in your head(set): Side-channel attacks on AR/VR systems.,No
+uss_2023_224,Egg Hunt in Tesla Infotainment: A First Look at Reverse Engineering of Qt Binaries.,No
+uss_2023_225,Reusable Enclaves for Confidential Serverless Computing.,No
+uss_2023_226,EnigMap: External-Memory Oblivious Map for Secure Enclaves.,No
+uss_2023_227,AEX-Notify: Thwarting Precise Single-Stepping Attacks through Interrupt Awareness for Intel SGX Enclaves.,No
+uss_2023_228,Controlled Data Races in Enclaves: Attacks and Detection.,No
+uss_2023_229,Guarding Serverless Applications with Kalium.,No
+uss_2023_230,"""To Do This Properly, You Need More Resources"": The Hidden Costs of Introducing Simulated Phishing Campaigns.",No
+uss_2023_231,You've Got Report: Measurement and Security Implications of DMARC Reporting.,No
+uss_2023_232,Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection.,No
+uss_2023_233,Rods with Laser Beams: Understanding Browser Fingerprinting on Phishing Pages.,No
+uss_2023_234,Content-Type: multipart/oracle - Tapping into Format Oracles in Email End-to-End Encryption.,No
+uss_2023_235,PET: Prevent Discovered Errors from Being Triggered in the Linux Kernel.,No
+uss_2023_236,A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel.,No
+uss_2023_237,AlphaEXP: An Expert System for Identifying Security-Sensitive Kernel Objects.,No
+uss_2023_238,Mitigating Security Risks in Linux with KLAUS: A Method for Evaluating Patch Correctness.,No
+uss_2023_239,Detecting Union Type Confusion in Component Object Model.,No
+uss_2023_240,Network Detection of Interactive SSH Impostors Using Deep Learning.,No
+uss_2023_241,ARGUS: Context-Based Detection of Stealthy IoT Infiltration Attacks.,No
+uss_2023_242,Generative Intrusion Detection and Prevention on Data Stream.,No
+uss_2023_243,xNIDS: Explaining Deep Learning-based Network Intrusion Detection Systems for Active Intrusion Responses.,No
+uss_2023_244,PROGRAPHER: An Anomaly Detection System based on Provenance Graph Embedding.,No
+uss_2023_245,Dubhe: Succinct Zero-Knowledge Proofs for Standard AES and related Applications.,No
+uss_2023_246,Curve Trees: Practical and Transparent Zero-Knowledge Accumulators.,No
+uss_2023_247,BalanceProofs: Maintainable Vector Commitments with Fast Aggregation.,No.
+uss_2023_248,zkSaaS: Zero-Knowledge SNARKs as a Service.,No
+uss_2023_249,VeriZexe: Decentralized Private Computation with Universal Setup.,No
+uss_2023_250,Intender: Fuzzing Intent-Based Networking with Intent-State Transition Guidance.,No
+uss_2023_251,Bleem: Packet Sequence Oriented Fuzzing for Protocol Implementations.,No
+uss_2023_252,Automated Exploitable Heap Layout Generation for Heap Overflows Through Manipulation Distance-Guided Fuzzing.,No
+uss_2023_253,MINER: A Hybrid Data-Driven Approach for REST API Fuzzing.,No
+uss_2023_254,Systematic Assessment of Fuzzers using Mutation Analysis.,No
+uss_2023_255,HOMESPY: The Invisible Sniffer of Infrared Remote Control of Smart TVs.,No
+uss_2023_256,Remote Attacks on Speech Recognition Systems Using Sound from Power Supply.,Yes
+uss_2023_257,Near-Ultrasound Inaudible Trojan (Nuit): Exploiting Your Speaker to Attack Your Microphone.,No
+uss_2023_258,Medusa Attack: Exploring Security Hazards of In-App QR Code Scanning.,No
+uss_2023_259,"Othered, Silenced and Scapegoated: Understanding the Situated Security of Marginalised Populations in Lebanon.",No
+uss_2023_260,Examining Power Dynamics and User Privacy in Smart Technology Use Among Jordanian Households.,No
+uss_2023_261,"""If sighted people know, I should be able to know: "" Privacy Perceptions of Bystanders with Visual Impairments around Camera-based Technology.",No
+uss_2023_262,A Research Framework and Initial Study of Browser Security for the Visually Impaired.,No
+uss_2023_263,ELASM: Error-Latency-Aware Scale Management for Fully Homomorphic Encryption.,No
+uss_2023_264,HECO: Fully Homomorphic Encryption Compiler.,No
+uss_2023_265,A Verified Confidential Computing as a Service Framework for Privacy Preservation.,No
+uss_2023_266,CSHER: A System for Compact Storage with HE-Retrieval.,No
+uss_2023_267,Precise and Generalized Robustness Certification for Neural Networks.,Yes
+uss_2023_268,DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing.,Yes
+uss_2023_269,ACORN: Input Validation for Secure Aggregation.,No
+uss_2023_270,HOLMES: Efficient Distribution Testing for Secure Collaborative Learning.,No
+uss_2023_271,"Keep Your Friends Close, but Your Routeservers Closer: Insights into RPKI Validation in the Internet.",No
+uss_2023_272,Exploring the Unknown DTLS Universe: Analysis of the DTLS Server Ecosystem on the Internet.,No
+uss_2023_273,We Really Need to Talk About Session Tickets: A Large-Scale Analysis of Cryptographic Dangers with TLS Session Tickets.,No
+uss_2023_274,Extended Hell(o): A Comprehensive Large-Scale Study on Email Confidentiality and Integrity Mechanisms in the Wild.,No
+uss_2023_275,"No Linux, No Problem: Fast and Correct Windows Binary Fuzzing via Target-embedded Snapshotting.",No
+uss_2023_276,DAFL: Directed Grey-box Fuzzing guided by Data Dependency.,No
+uss_2023_277,DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid SQL Query Generation.,No
+uss_2023_278,AIFORE: Smart Fuzzing Based on Automatic Input Format Reverse Engineering.,No
+uss_2023_279,BoKASAN: Binary-only Kernel Address Sanitizer for Effective Kernel Fuzzing.,No
+uss_2023_280,ACTOR: Action-Guided Kernel Fuzzing.,No
+uss_2023_281,FirmSolo: Enabling dynamic analysis of binary Linux-based IoT kernel modules.,No
+uss_2023_282,KextFuzz: Fuzzing macOS Kernel EXTensions on Apple Silicon via Exploiting Mitigations.,No
+uss_2023_283,Uncontained: Uncovering Container Confusion in the Linux Kernel.,No
+uss_2023_284,"""I'm going to trust this until it burns me"" Parents' Privacy Concerns and Delegation of Trust in K-8 Educational Technology.",No
+uss_2023_285,Educators' Perspectives of Using (or Not Using) Online Exam Proctoring.,No
+uss_2023_286,No more Reviewer #2: Subverting Automatic Paper-Reviewer Assignment using Adversarial Learning.,Yes
+uss_2023_287,A Two-Decade Retrospective Analysis of a University's Vulnerability to Attacks Exploiting Reused Passwords.,No
+uss_2023_288,Ethical Frameworks and Computer Security Trolley Problems: Foundations for Conversations.,No
+uss_2023_289,Catch You and I Can: Revealing Source Voiceprint Against Voice Conversion.,Yes
+uss_2023_290,"V-Cloak: Intelligibility-, Naturalness- & Timbre-Preserving Real-Time Voice Anonymization.",No
+uss_2023_291,Assessing Anonymity Techniques Employed in German Court Decisions: A De-Anonymization Experiment.,No
+uss_2023_292,Person Re-identification in 3D Space: A WiFi Vision-based Approach.,No
+uss_2023_293,In the Quest to Protect Users from Side-Channel Attacks - A User-Centred Design Space to Mitigate Thermal Attacks on Public Payment Terminals.,No
+uss_2023_294,Extracting Training Data from Diffusion Models.,Yes
+uss_2023_295,PCAT: Functionality and Data Stealing from Split Learning by Pseudo-Client Attack.,Yes
+uss_2023_296,A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots.,Yes
+uss_2023_297,Beyond The Gates: An Empirical Analysis of HTTP-Managed Password Stealers and Operators.,No
+uss_2023_298,LightThief: Your Optical Communication Information is Stolen behind the Wall.,No
+uss_2023_299,WaterBear: Practical Asynchronous BFT Matching Security Guarantees of Partially Synchronous BFT.,No
+uss_2023_300,Practical Asynchronous High-threshold Distributed Key Generation and Distributed Polynomial Sampling.,No
+uss_2023_301,Efficient 3PC for Binary Circuits with Application to Maliciously-Secure DNN Inference.,No
+uss_2023_302,TVA: A multi-party computation system for secure and expressive time series analytics.,No
+uss_2023_303,Long Live The Honey Badger: Robust Asynchronous DPSS and its Applications.,No
+uss_2023_304,Powering Privacy: On the Energy Demand and Feasibility of Anonymity Networks on Smartphones.,No
+uss_2023_305,Eye-Shield: Real-Time Protection of Mobile Device Screen Information from Shoulder Surfing.,No
+uss_2023_306,The OK Is Not Enough: A Large Scale Study of Consent Dialogs in Smartphone Applications.,No
+uss_2023_307,Notice the Imposter! A Study on User Tag Spoofing Attack in Mobile Apps.,No
+uss_2023_308,Lost in Conversion: Exploit Data Structure Conversion with Attribute Loss to Break Android Systems.,No
+uss_2023_309,Silent Spring: Prototype Pollution Leads to Remote Code Execution in Node.js.,No
+uss_2023_310,Cookie Crumbles: Breaking and Fixing Web Session Integrity.,No
+uss_2023_311,Minimalist: Semi-automated Debloating of PHP Web Applications through Static Analysis.,No
+uss_2023_312,AnimateDead: Debloating Web Applications Using Concolic Execution.,No
+uss_2023_313,NAUTILUS: Automated RESTful API Vulnerability Detection.,No
+uss_2023_314,"""Un-Equal Online Safety?"" A Gender Analysis of Security and Privacy Protection Advice and Behaviour Patterns.",No
+uss_2023_315,"""Millions of people are watching you"": Understanding the Digital-Safety Needs and Practices of Creators.",No
+uss_2023_316,How Library IT Staff Navigate Privacy and Security Challenges and Responsibilities.,No
+uss_2023_317,Problematic Advertising and its Disparate Exposure on Facebook.,No
+uss_2023_318,One Size Does not Fit All: Quantifying the Risk of Malicious App Encounters for Different Android User Profiles.,No
+uss_2023_319,How Effective is Multiple-Vantage-Point Domain Control Validation?,No
+uss_2023_320,Bypassing Tunnels: Leaking VPN Client Traffic by Abusing Routing Tables.,No
+uss_2023_321,Back to School: On the (In)Security of Academic VPNs.,No
+uss_2023_322,FABRID: Flexible Attestation-Based Routing for Inter-Domain Networks.,No
+uss_2023_323,"""All of them claim to be the best"": Multi-perspective study of VPN users and VPN providers.",No
+uss_2023_324,Greenhouse: Single-Service Rehosting of Linux-Based Firmware Binaries in User-Space Emulation.,No
+uss_2023_325,FuncTeller: How Well Does eFPGA Hide Functionality?,No
+uss_2023_326,ACFA: Secure Runtime Auditing & Guaranteed Device Healing via Active Control Flow Attestation.,No
+uss_2023_327,Fuzz The Power: Dual-role State Guided Black-box Fuzzing for USB Power Delivery.,No
+uss_2023_328,The Impostor Among US(B): Off-Path Injection Attacks on USB Communications.,No
+uss_2023_329,"A comprehensive, formal and automated analysis of the EDHOC protocol.",No
+uss_2023_330,Hash Gone Bad: Automated discovery of protocol attacks that exploit hash function weaknesses.,No
+uss_2023_331,How fast do you heal? A taxonomy for post-compromise security in secure-channel establishment.,No
+uss_2023_332,Automated Analysis of Protocols that use Authenticated Encryption: How Subtle AEAD Differences can impact Protocol Security.,No
+uss_2023_333,High Recovery with Fewer Injections: Practical Binary Volumetric Injection Attacks against Dynamic Searchable Encryption.,No
+uss_2023_334,Cross Container Attacks: The Bewildered eBPF on Clouds.,No.
+uss_2023_335,DScope: A Cloud-Native Internet Telescope.,No
+uss_2023_336,Credit Karma: Understanding Security Implications of Exposed Cloud Services through Automated Capability Inference.,No
+uss_2023_337,Detecting Multi-Step IAM Attacks in AWS Environments via Model Checking.,No
+uss_2023_338,Remote Direct Memory Introspection.,No
+uss_2023_339,Auditing Framework APIs via Inferred App-side Security Specifications.,No
+uss_2023_340,WHIP: Improving Static Vulnerability Detection in Web Application by Forcing tools to Collaborate.,No
+uss_2023_341,SQIRL: Grey-Box Detection of SQL Injection Vulnerabilities Using Reinforcement Learning.,No.
+uss_2023_342,Hiding in Plain Sight: An Empirical Study of Web Application Abuse in Malware.,No
+uss_2023_343,Bilingual Problems: Studying the Security Risks Incurred by Native Extensions in Scripting Languages.,No
+uss_2023_344,Did the Shark Eat the Watchdog in the NTP Pool? Deceiving the NTP Pool's Monitoring System.,No
+uss_2023_345,Device Tracking via Linux's New TCP Source Port Selection Algorithm.,No
+uss_2023_346,Temporal CDN-Convex Lens: A CDN-Assisted Practical Pulsing DDoS Attack.,No
+uss_2023_347,An Efficient Design of Intelligent Network Data Plane.,No
+uss_2023_348,Glowing in the Dark: Uncovering IPv6 Address Discovery and Scanning Strategies in the Wild.,No.
+uss_2023_349,Oops..! I Glitched It Again! How to Multi-Glitch the Glitching-Protections on ARM TrustZone-M.,No
+uss_2023_350,SHELTER: Extending Arm CCA with Isolation in User Space.,No
+uss_2023_351,"Hot Pixels: Frequency, Power, and Temperature Attacks on GPUs and Arm SoCs.",No
+uss_2023_352,SpectrEM: Exploiting Electromagnetic Emanations During Transient Execution.,No
+uss_2023_353,ARMore: Pushing Love Back Into Binaries.,No
+uss_2023_354,Secure Floating-Point Training.,No
+uss_2023_355,NeuroPots: Realtime Proactive Defense against Bit-Flip Attacks in Neural Networks.,Yes
+uss_2023_356,FedVal: Different good or different bad in federated learning.,Yes
+uss_2023_357,Gradient Obfuscation Gives a False Sense of Security in Federated Learning.,Yes
+uss_2023_358,FreeEagle: Detecting Complex Neural Trojans in Data-Free Cases.,Yes
+uss_2023_359,Prime Match: A Privacy-Preserving Inventory Matching System.,No
+uss_2023_360,Squirrel: A Scalable Secure Two-Party Computation Framework for Training Gradient Boosting Decision Tree.,No
+uss_2023_361,Eos: Efficient Private Delegation of zkSNARK Provers.,No
+uss_2023_362,Machine-checking Multi-Round Proofs of Shuffle: Terelius-Wikstrom and Bayer-Groth.,No
+uss_2023_363,TAP: Transparent and Privacy-Preserving Data Services.,No
+uss_2023_364,Trojan Source: Invisible Vulnerabilities.,No
+uss_2023_365,Cheesecloth: Zero-Knowledge Proofs of Real World Vulnerabilities.,No
+uss_2023_366,V1SCAN: Discovering 1-day Vulnerabilities in Reused C/C++ Open-source Software Components Using Code Classification Techniques.,No
+uss_2023_367,VulChecker: Graph-based Vulnerability Localization in Source Code.,No
+uss_2023_368,DISTDET: A Cost-Effective Distributed Cyber Threat Detection System.,No
+uss_2023_369,Automated Security Analysis of Exposure Notification Systems.,No
+uss_2023_370,Formal Analysis of SPDM: Security Protocol and Data Model version 1.2.,No
+uss_2023_371,One Size Does Not Fit All: Uncovering and Exploiting Cross Platform Discrepant APIs in WeChat.,No
+uss_2023_372,The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders.,No
+uss_2023_373,Are You Spying on Me? Large-Scale Analysis on IoT Data Exposure through Companion Apps.,No
+uss_2023_374,Strategies and Vulnerabilities of Participants in Venezuelan Influence Operations.,No
+uss_2023_375,TRIDENT: Towards Detecting and Mitigating Web-based Social Engineering Attacks.,No
+uss_2023_376,Fact-Saboteurs: A Taxonomy of Evidence Manipulation Attacks against Fact-Verification Systems.,Yes
+uss_2023_377,"Reversing, Breaking, and Fixing the French Legislative Election E-Voting Protocol.",No
+uss_2023_378,PROVIDENCE: a Flexible Round-by-Round Risk-Limiting Audit.,No
+uss_2023_379,NVLeak: Off-Chip Side-Channel Attacks via Non-Volatile Memory Systems.,No
+uss_2023_380,Cipherfix: Mitigating Ciphertext Side-Channel Attacks in Software.,No
+uss_2023_381,Side-Channel Attacks on Optane Persistent Memory.,No
+uss_2023_382,Pspray: Timing Side-Channel based Linux Kernel Heap Exploitation Technique.,No
+uss_2023_383,CipherH: Automated Detection of Ciphertext Side-channel Vulnerabilities in Cryptographic Implementations.,No
+uss_2023_384,ICSPatch: Automated Vulnerability Localization and Non-Intrusive Hotpatching in Industrial Control Systems using Data Dependence Graphs.,No
+uss_2023_385,Access Denied: Assessing Physical Risks to Internet Access Networks.,No
+uss_2023_386,ZBCAN: A Zero-Byte CAN Defense System.,No
+uss_2023_387,RIDAS: Real-time identification of attack sources on controller area networks.,No
+uss_2023_388,That Person Moves Like A Car: Misclassification Attack Detection for Autonomous Systems Using Spatiotemporal Consistency.,Yes
+uss_2023_389,TRust: A Compilation Framework for In-process Isolation to Protect Safe Rust against Untrusted Code.,No
+uss_2023_390,Jinn: Hijacking Safe Programs with Trojans.,No
+uss_2023_391,ARGUS: A Framework for Staged Static Taint Analysis of GitHub Workflows and Actions.,No
+uss_2023_392,McFIL: Model Counting Functionality-Inherent Leakage.,No
+uss_2023_393,Extracting Protocol Format as State Machine via Controlled Static Loop Analysis.,No
+uss_2023_394,Isolated and Exhausted: Attacking Operating Systems via Site Isolation in the Browser.,No
+uss_2023_395,Extending a Hand to Attackers: Browser Privilege Escalation Attacks via Extensions.,No
+uss_2023_396,RøB: Ransomware over Modern Web Browsers.,No
+uss_2023_397,Pool-Party: Exploiting Browser Resource Pools for Web Tracking.,No
+uss_2023_398,Checking Passwords on Leaky Computers: A Side Channel Analysis of Chrome's Password Leak Detect Protocol.,No
+uss_2023_399,Ultimate SLH: Taking Speculative Load Hardening to the Next Level.,No
+uss_2023_400,Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions.,No
+uss_2023_401,ProSpeCT: Provably Secure Speculation for the Constant-Time Policy.,No
+uss_2023_402,Title Redacted Due to Vulnerability Embargo.,No
+uss_2023_403,FACE-AUDITOR: Data Auditing in Facial Recognition Systems.,Yes
+uss_2023_404,UnGANable: Defending Against GAN-based Face Manipulation.,Yes
+uss_2023_405,Fairness Properties of Face Recognition and Obfuscation Systems.,Yes
+uss_2023_406,GlitchHiker: Uncovering Vulnerabilities of Image Signal Transmission with IEMI.,Yes
+uss_2023_407,(M)WAIT for It: Bridging the Gap between Microarchitectural and Architectural Side Channels.,No
+uss_2023_408,Collide+Power: Leaking Inaccessible Data with Software-based Power Side Channels.,No
+uss_2023_409,Inception: Exposing New Attack Surfaces with Training in Transient Execution.,No
+uss_2023_410,BunnyHop: Exploiting the Instruction Prefetcher.,No
+uss_2023_411,Can a Deep Learning Model for One Architecture Be Used for Others? Retargeted-Architecture Binary Code Analysis.,No
+uss_2023_412,Decompiling x86 Deep Neural Network Executables.,No
+uss_2023_413,AIRS: Explanation for Deep Reinforcement Learning based Security Applications.,No
+uss_2023_414,Differential Testing of Cross Deep Learning Framework APIs: Revealing Inconsistencies and Vulnerabilities.,No
+uss_2023_415,Every Signature is Broken: On the Insecurity of Microsoft Office's OOXML Signatures.,No
+uss_2023_416,Downgrading DNSSEC: How to Exploit Crypto Agility for Hijacking Signed Zones.,No
+uss_2023_417,Security Analysis of MongoDB Queryable Encryption.,No
+uss_2023_418,All cops are broadcasting: TETRA under scrutiny.,No
+uss_2023_419,On the Feasibility of Malware Unpacking via Hardware-assisted Loop Profiling.,No
+uss_2023_420,Multiview: Finding Blind Spots in Access-Deny Issues Diagnosis.,No
+uss_2023_421,Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding.,No
+uss_2023_422,AutoFR: Automated Filter Rule Generation for Adblocking.,No

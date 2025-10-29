@@ -1,0 +1,101 @@
+uuid,title,authors,response
+ccs_2021_49,SmashEx: Smashing SGX Enclaves Using Exceptions.,Jinhua Cui; Jason Zhijingcheng Yu; Shweta Shinde; Prateek Saxena; Zhiping Cai,No
+ccs_2021_56,When Machine Unlearning Jeopardizes Privacy.,Min Chen; Zhikun Zhang; Tianhao Wang; Michael Backes; Mathias Humbert; Yang Zhang,Yes
+ccs_2021_113,I Can See the Light: Attacks on Autonomous Vehicles Using Invisible Lights.,Wei Wang; Yao Yao; Xin Liu; Xiang Li; Pei Hao; Ting Zhu,Yes
+ccs_2021_160,MANIAC: A Man-Machine Collaborative System for Classifying Malware Author Groups.,Eujeanne Kim; Sung-Jun Park; Seokwoo Choi; Dong-Kyu Chae; Sang-Wook Kim,No
+ccs_2021_181,Amortized Threshold Symmetric-key Encryption.,Mihai Christodorescu; Sivanarayana Gaddam; Pratyay Mukherjee; Rohit Sinha,No
+ccs_2021_205,Feature-Indistinguishable Attack to Circumvent Trapdoor-Enabled Defense.,Chaoxiang He; Bin Benjamin Zhu; Xiaojing Ma; Hai Jin; Shengshan Hu,Yes
+ccs_2021_216,C3PO: Large-Scale Study Of Covert Monitoring of C&C Servers via Over-Permissioned Protocol Infiltration.,Jonathan Fuller; Ranjita Pai Kasturi; Amit Kumar Sikder; Haichuan Xu; Berat Arik; Vivek Verma; Ehsan Asdar; Brendan Saltaformaggio,No
+ccs_2022_40,PSI from Ring-OLE.,Wutichai Chongchitmate; Yuval Ishai; Steve Lu; Rafail Ostrovsky,No
+ccs_2022_95,Identifying a Training-Set Attack's Target Using Renormalized Influence Estimation.,Zayd Hammoudeh; Daniel Lowd,Yes
+ccs_2022_124,LPGNet: Link Private Graph Networks for Node Classification.,Aashish Kolluri; Teodora Baluta; Bryan Hooi; Prateek Saxena,Yes
+ccs_2022_262,Poster: Privacy-preserving Genome Analysis using Verifiable Off-Chain Computation.,Leon Visscher; Mohammed Alghazwi; Dimka Karastoyanova; Fatih Turkmen,No
+ccs_2023_55,Attack Some while Protecting Others: Selective Attack Strategies for Attacking and Protecting Multiple Concepts.,Vibha Belavadi; Yan Zhou; Murat Kantarcioglu; Bhavani Thuraisingham,Yes
+ccs_2023_102,Unraveling the Connections between Privacy and Certified Robustness in Federated Learning Against Poisoning Attacks.,Chulin Xie; Yunhui Long; Pin-Yu Chen; Qinbin Li; Sanmi Koyejo; Bo Li,Yes
+ccs_2023_110,SyzDirect: Directed Greybox Fuzzing for Linux Kernel.,Xin Tan; Yuan Zhang; Jiadong Lu; Xin Xiong; Zhuang Liu; Min Yang,No
+ccs_2024_47,Optimization-based Prompt Injection Attack to LLM-as-a-Judge.,Jiawen Shi; Zenghui Yuan; Yinuo Liu; Yue Huang; Pan Zhou; Lichao Sun; Neil Zhenqiang Gong,Yes
+ccs_2024_62,Dual Polynomial Commitment Schemes and Applications to Commit-and-Prove SNARKs.,Chaya Ganesh; Vineet Nair; Ashish Sharma,No
+ccs_2024_87,Membership Inference Attacks against Vision Transformers: Mosaic MixUp Training to the Defense.,Qiankun Zhang; Di Yuan; Boyu Zhang; Bin Yuan; Bingqian Du,Yes
+ccs_2024_135,Distributed PIR: Scaling Private Messaging via the Users' Machines.,Elkana Tovey; Jonathan Weiss; Yossi Gilad,No
+ccs_2024_180,Scalable and Adaptively Secure Any-Trust Distributed Key Generation and All-hands Checkpointing.,Hanwen Feng; Tiancheng Mai; Qiang Tang,No
+ccs_2024_198,Unveiling the Vulnerability of Private Fine-Tuning in Split-Based Frameworks for Large Language Models: A Bidirectionally Enhanced Attack.,Guanzhong Chen; Zhenghan Qin; Mingxin Yang; Yajie Zhou; Tao Fan; Tianyu Du; Zenglin Xu,Yes
+ccs_2024_207,Helium: Scalable MPC among Lightweight Participants and under Churn.,Christian Mouchet; Sylvain Chatel; Apostolos Pyrgelis; Carmela Troncoso,No
+ccs_2024_227,RISiren: Wireless Sensing System Attacks via Metasurface.,Chenghan Jiang; Jinjiang Yang; Xinyi Li; Qi Li; Xinyu Zhang; Ju Ren,No
+ccs_2024_244,SafeEar: Content Privacy-Preserving Audio Deepfake Detection.,Xinfeng Li; Kai Li; Yifan Zheng; Chen Yan; Xiaoyu Ji; Wenyuan Xu,No
+ccs_2024_276,Secure Vickrey Auctions with Rational Parties.,Chaya Ganesh; Shreyas Gupta; Bhavana Kanukurthi; Girisha Shankar,No
+ccs_2024_355,Poster: An Exploration of Large Language Models in Malicious Source Code Detection.,Di Xue; Gang Zhao; Zhongqi Fan; Wei Li; Yahong Xu; Zhen Liu; Yin Liu; Zhongliang Yuan,No
+ccs_2024_384,Poster: Acoustic Side-Channel Attack on Robot Vacuums.,Peter Chen; Guannan Liu; Haining Wang,No
+ccs_2024_401,Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code.,Khiem Ton; Nhi Nguyen; Mahmoud Nazzal; Abdallah Khreishah; Cristian Borcea; NhatHai Phan; Ruoming Jin; Issa Khalil; Yelong Shen,No
+ccs_2024_408,Catch Me if You Can: Detecting Unauthorized Data Use in Training Deep Learning Models.,Zitao Chen,Yes
+ieee_2021_53,On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols.,Liyi Zhou; Kaihua Qin; Antoine Cully; Benjamin Livshits; Arthur Gervais,No
+ieee_2021_70,SGUARD: Towards Fixing Vulnerable Smart Contracts Automatically.,Tai D. Nguyen; Long H. Pham; Jun Sun,No
+ieee_2021_78,"CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability.",Deepak Maram; Harjasleen Malvai; Fan Zhang; Nerla Jean-Louis; Alexander Frolov; Tyler Kell; Tyrone Lobban; Christine Moy; Ari Juels; Andrew Miller,No
+ieee_2022_19,vSGX: Virtualizing SGX Enclaves on AMD SEV.,Shixuan Zhao; Mengyuan Li; Yinqian Zhang; Zhiqiang Lin,No
+ieee_2022_60,PCR-Auth: Solving Authentication Puzzle Challenge with Encoded Palm Contact Response.,Long Huang; Chen Wang,Yes
+ieee_2022_66,Reconstructing Training Data with Informed Adversaries.,Borja Balle; Giovanni Cherubin; Jamie Hayes,Yes
+ieee_2022_106,PGPatch: Policy-Guided Logic Bug Patching for Robotic Vehicles.,Hyungsub Kim; Muslum Ozgur Ozmen; Z. Berkay Celik; Antonio Bianchi; Dongyan Xu,No
+ieee_2022_132,HAMRAZ: Resilient Partitioning and Replication.,Xiao Li; Farzin Houshmand; Mohsen Lesani,No
+ieee_2023_25,On the (In)security of Peer-to-Peer Decentralized Machine Learning.,Dario Pasquini; Mathilde Raynal; Carmela Troncoso,Yes
+ieee_2023_40,Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers.,Limin Yang; Zhi Chen; Jacopo Cortellazzi; Feargus Pendlebury; Kevin Tu; Fabio Pierazzi; Lorenzo Cavallaro; Gang Wang,Yes
+ieee_2023_78,On The Empirical Effectiveness of Unrealistic Adversarial Hardening Against Realistic Adversarial Attacks.,Salijona Dyrmishi; Salah Ghamizi; Thibault Simonetto; Yves Le Traon; Maxime Cordy,Yes
+ieee_2023_165,User Perceptions and Experiences with Smart Home Updates.,Julie M. Haney; Susanne M. Furman,No
+ieee_2024_4,A Representative Study on Human Detection of Artificially Generated Media Across Countries.,Joel Frank; Franziska Herbert; Jonas Ricker; Lea Schönherr; Thorsten Eisenhofer; Asja Fischer; Markus Dürmuth; Thorsten Holz,No
+ieee_2024_22,MAWSEO: Adversarial Wiki Search Poisoning for Illicit Online Promotion.,Zilong Lin; Zhengyi Li; Xiaojing Liao; XiaoFeng Wang; Xiaozhong Liu,Yes
+ieee_2024_23,Poisoning Web-Scale Training Datasets is Practical.,Nicholas Carlini; Matthew Jagielski; Christopher A. Choquette-Choo; Daniel Paleka; Will Pearce; Hyrum S. Anderson; Andreas Terzis; Kurt Thomas; Florian Tramèr,Yes
+ieee_2024_40,Withdrawing is believing? Detecting Inconsistencies between Withdrawal Choices and Third-party Data Collections in Mobile Apps.,Xiaolin Du; Zhemin Yang; Jiapeng Lin; Yinzhi Cao; Min Yang,No
+ieee_2024_87,Specious Sites: Tracking the Spread and Sway of Spurious News Stories at Scale.,Hans W. A. Hanley; Deepak Kumar; Zakir Durumeric,No
+ieee_2024_90,Understanding and Benchmarking the Commonality of Adversarial Examples.,Ruiwen He; Yushi Cheng; Junning Ze; Xiaoyu Ji; Wenyuan Xu,Yes
+ieee_2024_110,Distribution Preserving Backdoor Attack in Self-supervised Learning.,Guanhong Tao; Zhenting Wang; Shiwei Feng; Guangyu Shen; Shiqing Ma; Xiangyu Zhang,Yes
+ieee_2024_111,Robust Backdoor Detection for Deep Learning via Topological Evolution Dynamics.,Xiaoxing Mo; Yechao Zhang; Leo Yu Zhang; Wei Luo; Nan Sun; Shengshan Hu; Shang Gao; Yang Xiang,Yes
+ieee_2024_123,Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts.,Christoph Sendner; Lukas Petzi; Jasper Stang; Alexandra Dmitrienko,No
+ieee_2024_136,MEA-Defender: A Robust Watermark against Model Extraction Attack.,Peizhuo Lv; Hualong Ma; Kai Chen; Jiachen Zhou; Shengzhi Zhang; Ruigang Liang; Shenchen Zhu; Pan Li; Yingjun Zhang,Yes
+ieee_2024_160,Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks.,Yuni Lai; Yulin Zhu; Bailin Pan; Kai Zhou,Yes
+ieee_2024_180,No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML.,Ziqi Zhang; Chen Gong; Yifeng Cai; Yuanyuan Yuan; Bingyan Liu; Ding Li; Yao Guo; Xiangqun Chen,Yes
+ieee_2024_232,"Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation.",Mingxun Zhou; Andrew Park; Wenting Zheng; Elaine Shi,No
+ieee_2024_261,Protecting Label Distribution in Cross-Silo Federated Learning.,Yangfan Jiang; Xinjian Luo; Yuncheng Wu; Xiaokui Xiao; Beng Chin Ooi,No
+ndss_2021_63,Practical Blind Membership Inference Attack via Differential Comparisons.,Bo Hui; Yuchen Yang; Haolin Yuan; Philippe Burlina; Neil Zhenqiang Gong; Yinzhi Cao,Yes
+ndss_2023_39,Partitioning Ethereum without Eclipsing It.,Hwanjo Heo; Seungwon Woo; Taeung Yoon; Min Suk Kang; Seungwon Shin,No
+ndss_2023_47,RR: A Fault Model for Efficient TEE Replication.,Baltasar Dinis; Peter Druschel; Rodrigo Rodrigues,No
+ndss_2024_29,NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation.,Shaofei Li; Feng Dong; Xusheng Xiao; Haoyu Wang; Fei Shao; Jiedong Chen; Yao Guo; Xiangqun Chen; Ding Li,No
+ndss_2024_110,Private Aggregate Queries to Untrusted Databases.,Syed Mahbub Hafiz; Chitrabhanu Gupta; Warren Wnuck; Brijesh Vora; Chen-Nee Chuah,No
+uss_2020_51,TeeRex: Discovery and Exploitation of Memory Corruption Vulnerabilities in SGX Enclaves.,Tobias Cloosters; Michael Rodler; Lucas Davi,No
+uss_2020_72,P2IM: Scalable and Hardware-independent Firmware Testing via Automatic Peripheral Interface Modeling.,Bo Feng; Alejandro Mera; Long Lu,No
+uss_2020_76,Exploring Connections Between Active Learning and Model Extraction.,Varun Chandrasekaran; Kamalika Chaudhuri; Irene Giacomelli; Somesh Jha; Songbai Yan,Yes
+uss_2021_0,"30th USENIX Security Symposium, USENIX Security 2021, August 11-13, 2021.",Michael D. Bailey; Rachel Greenstadt,No
+uss_2021_41,VoltPillager: Hardware-based fault injection attacks against Intel SGX Enclaves using the SVID voltage scaling interface.,Zitai Chen; Georgios Vasilakis; Kit Murdock; Edward Dean; David F. Oswald; Flavio D. Garcia,No
+uss_2021_101,Express: Lowering the Cost of Metadata-hiding Communication with Cryptographic Privacy.,Saba Eskandarian; Henry Corrigan-Gibbs; Matei Zaharia; Dan Boneh,No
+uss_2021_126,ObliCheck: Efficient Verification of Oblivious Algorithms with Unobservable State.,Jeongseok Son; Griffin Prechter; Rishabh Poddar; Raluca Ada Popa; Koushik Sen,No
+uss_2021_132,CADE: Detecting and Explaining Concept Drift Samples for Security Applications.,Limin Yang; Wenbo Guo; Qingying Hao; Arridhana Ciptadi; Ali Ahmadzadeh; Xinyu Xing; Gang Wang,Yes
+uss_2021_160,The Use of Likely Invariants as Feedback for Fuzzers.,Andrea Fioraldi; Daniele Cono D'Elia; Davide Balzarotti,No
+uss_2021_186,Research on the Security of Visual Reasoning CAPTCHA.,Yipeng Gao; Haichang Gao; Sainan Luo; Yang Zi; Shudong Zhang; Wenjie Mao; Ping Wang; Yulong Shen; Jeff Yan,No
+uss_2021_207,"Share First, Ask Later (or Never?) Studying Violations of GDPR's Explicit Consent in Android Apps.",Trung Tin Nguyen; Michael Backes; Ninja Marnau; Ben Stock,No
+uss_2021_208,DEFInit: An Analysis of Exposed Android Init Routines.,Yuede Ji; Mohamed Elsabagh; Ryan Johnson; Angelos Stavrou,No
+uss_2021_219,Accurately Measuring Global Risk of Amplification Attacks using AmpMap.,Soo-Jin Moon; Yucheng Yin; Rahul Anand Sharma; Yifei Yuan; Jonathan M. Spring; Vyas Sekar,No
+uss_2022_44,QCSD: A QUIC Client-Side Website-Fingerprinting Defence Framework.,Jean-Pierre Smith; Luca Dolfi; Prateek Mittal; Adrian Perrig,No
+uss_2022_56,TLB;DR: Enhancing TLB-based Attacks with TLB Desynchronized Reverse Engineering.,Andrei Tatar; Daniël Trujillo; Cristiano Giuffrida; Herbert Bos,No
+uss_2022_92,Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach.,Ruofan Liu; Yun Lin; Xianglin Yang; Siang Hwee Ng; Dinil Mon Divakaran; Jin Song Dong,No
+uss_2022_105,Gossamer: Securely Measuring Password-based Logins.,Marina Sanusi Bohuk; Mazharul Islam; Suleman Ahmad; Michael M. Swift; Thomas Ristenpart; Rahul Chatterjee,No
+uss_2022_116,PatchCleanser: Certifiably Robust Defense against Adversarial Patches for Any Image Classifier.,Chong Xiang; Saeed Mahloujifar; Prateek Mittal,Yes
+uss_2023_13,Squint Hard Enough: Attacking Perceptual Hashing with Adversarial Machine Learning.,Jonathan Prokos; Neil Fendley; Matthew Green; Roei Schuster; Eran Tromer; Tushar M. Jois; Yinzhi Cao,Yes
+uss_2023_14,How to Cover up Anomalous Accesses to Electronic Health Records.,Xiaojun Xu; Qingying Hao; Zhuolin Yang; Bo Li; David M. Liebovitz; Gang Wang; Carl A. Gunter,Yes
+uss_2023_15,KENKU: Towards Efficient and Stealthy Black-box Adversarial Attacks against ASR Systems.,Xinghui Wu; Shiqing Ma; Chao Shen; Chenhao Lin; Qian Wang; Qi Li; Yuan Rao,Yes
+uss_2023_66,Adversarial Training for Raw-Binary Malware Classifiers.,Keane Lucas; Samruddhi Pai; Weiran Lin; Lujo Bauer; Michael K. Reiter; Mahmood Sharif,Yes
+uss_2023_95,Towards A Proactive ML Approach for Detecting Backdoor Poison Samples.,Xiangyu Qi; Tinghao Xie; Jiachen T. Wang; Tong Wu; Saeed Mahloujifar; Prateek Mittal,Yes
+uss_2023_183,On the Security Risks of Knowledge Graph Reasoning.,Zhaohan Xi; Tianyu Du; Changjiang Li; Ren Pang; Shouling Ji; Xiapu Luo; Xusheng Xiao; Fenglong Ma; Ting Wang,Yes
+uss_2023_234,Content-Type: multipart/oracle - Tapping into Format Oracles in Email End-to-End Encryption.,Fabian Ising; Damian Poddebniak; Tobias Kappert; Christoph Saatjohann; Sebastian Schinzel,No
+uss_2023_245,Dubhe: Succinct Zero-Knowledge Proofs for Standard AES and related Applications.,Changchang Ding; Yan Huang,No
+uss_2023_349,Oops..! I Glitched It Again! How to Multi-Glitch the Glitching-Protections on ARM TrustZone-M.,Xhani Marvin Saß; Richard Mitev; Ahmad-Reza Sadeghi,No
+uss_2023_382,Pspray: Timing Side-Channel based Linux Kernel Heap Exploitation Technique.,Yoochan Lee; Jinhan Kwak; Junesoo Kang; Yuseok Jeon; Byoungyoung Lee,No
+uss_2023_403,FACE-AUDITOR: Data Auditing in Facial Recognition Systems.,Min Chen; Zhikun Zhang; Tianhao Wang; Michael Backes; Yang Zhang,Yes
+uss_2023_404,UnGANable: Defending Against GAN-based Face Manipulation.,Zheng Li; Ning Yu; Ahmed Salem; Michael Backes; Mario Fritz; Yang Zhang,Yes
+uss_2024_76,Forget and Rewire: Enhancing the Resilience of Transformer-based Models against Bit-Flip Attacks.,Najmeh Nazari; Hosein Mohammadi Makrani; Chongzhou Fang; Hossein Sayadi; Setareh Rafatirad; Khaled N. Khasawneh; Houman Homayoun,Yes
+uss_2024_102,REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models.,Ruisi Zhang; Shehzeen Samarah Hussain; Paarth Neekhara; Farinaz Koushanfar,No
+uss_2024_166,Xplain: Analyzing Invisible Correlations in Model Explanation.,Kavita Kumari; Alessandro Pegoraro; Hossein Fereidooni; Ahmad-Reza Sadeghi,Yes
+uss_2024_171,It Doesn't Look Like Anything to Me: Using Diffusion Model to Subvert Visual Phishing Detectors.,Qingying Hao; Nirav Diwan; Ying Yuan; Giovanni Apruzzese; Mauro Conti; Gang Wang,Yes
+uss_2024_291,You Cannot Escape Me: Detecting Evasions of SIEM Rules in Enterprise Networks.,Rafael Uetz; Marco Herzog; Louis Hackländer; Simon Schwarz; Martin Henze,No
+uss_2024_303,EL3XIR: Fuzzing COTS Secure Monitors.,Christian Lindenmeier; Mathias Payer; Marcel Busch,No
+uss_2024_308,ElectionGuard: a Cryptographic Toolkit to Enable Verifiable Elections.,Josh Benaloh; Michael Naehrig; Olivier Pereira; Dan S. Wallach,No
+uss_2024_360,Length Leakage in Oblivious Data Access Mechanisms.,Grace Jia; Rachit Agarwal; Anurag Khandelwal,No
+uss_2024_387,Landscape More Secure Than Portrait? Zooming Into the Directionality of Digital Images With Security Implications.,Benedikt Lorch; Rainer Böhme,Yes
+uss_2024_405,Why Aren't We Using Passkeys? Obstacles Companies Face Deploying FIDO2 Passwordless Authentication.,Leona Lassak; Elleen Pan; Blase Ur; Maximilian Golla,No
+uss_2024_411,AE-Morpher: Improve Physical Robustness of Adversarial Objects against LiDAR-based Detectors via Object Reconstruction.,Shenchen Zhu; Yue Zhao; Kai Chen; Bo Wang; Hualong Ma; Cheng'an Wei,Yes

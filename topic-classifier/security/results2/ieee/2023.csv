@@ -1,0 +1,201 @@
+uuid,title,response
+ieee_2023_0,"44th IEEE Symposium on Security and Privacy, SP 2023, San Francisco, CA, USA, May 21-25, 2023.",No
+ieee_2023_1,Space Odyssey: An Experimental Software Security Analysis of Satellites.,No
+ieee_2023_2,"Selective Amnesia: On Efficient, High-Fidelity and Blind Suppression of Backdoor Effects in Trojaned Machine Learning Models.",Yes
+ieee_2023_3,Scaphy: Detecting Modern ICS Attacks by Correlating Behaviors in SCADA and PHYsical.,Yes
+ieee_2023_4,Shedding Light on Inconsistencies in Grid Cybersecurity: Disconnects and Recommendations.,No
+ieee_2023_5,Red Team vs. Blue Team: A Real-World Hardware Trojan Detection Case Study Across Four Modern CMOS Technology Generations.,No
+ieee_2023_6,SoK: Distributed Randomness Beacons.,No
+ieee_2023_7,"WeRLman: To Tackle Whale (Transactions), Go Deep (RL).",No
+ieee_2023_8,Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks.,No
+ieee_2023_9,Bitcoin-Enhanced Proof-of-Stake Security: Possibilities and Impossibilities.,No
+ieee_2023_10,MEGA: Malleable Encryption Goes Awry.,No
+ieee_2023_11,Practically-exploitable Cryptographic Vulnerabilities in Matrix.,No
+ieee_2023_12,DBREACH: Stealing from Databases Using Compression Side Channels.,No
+ieee_2023_13,Weak Fiat-Shamir Attacks on Modern Proof Systems.,No
+ieee_2023_14,"Attitudes towards Client-Side Scanning for CSAM, Terrorism, Drug Trafficking, Drug Use and Tax Evasion in Germany.",No
+ieee_2023_15,Deep perceptual hashing algorithms with hidden dual purpose: when client-side scanning does facial recognition.,Yes
+ieee_2023_16,Public Verification for Private Hash Matching.,No
+ieee_2023_17,Is Cryptographic Deniability Sufficientƒ Non-Expert Perceptions of Deniability in Secure Messaging.,No
+ieee_2023_18,On the Evolution of (Hateful) Memes by Means of Multimodal Contrastive Learning.,No
+ieee_2023_19,Lambretta: Learning to Rank for Twitter Soft Moderation.,No
+ieee_2023_20,SoK: Let the Privacy Games Begin! A Unified Treatment of Data Inference Privacy in Machine Learning.,Yes
+ieee_2023_21,Analyzing Leakage of Personally Identifiable Information in Language Models.,Yes
+ieee_2023_22,Accuracy-Privacy Trade-off in Deep Ensemble: A Membership Inference Perspective.,No
+ieee_2023_23,D-DAE: Defense-Penetrating Model Extraction Attacks.,Yes
+ieee_2023_24,SNAP: Efficient Extraction of Private Properties with Poisoning.,Yes
+ieee_2023_25,On the (In)security of Peer-to-Peer Decentralized Machine Learning.,Yes
+ieee_2023_26,Vectorized Batch Private Information Retrieval.,No
+ieee_2023_27,RoFL: Robustness of Secure Federated Learning.,Yes
+ieee_2023_28,Flamingo: Multi-Round Single-Server Secure Aggregation with Applications to Private Federated Learning.,No
+ieee_2023_29,SoK: Cryptographic Neural-Network Computation.,No
+ieee_2023_30,FLUTE: Fast and Secure Lookup Table Evaluations.,No
+ieee_2023_31,Bicoptor: Two-round Secure Three-party Non-linear Computation without Preprocessing for Privacy-preserving Machine Learning.,No
+ieee_2023_32,Investigating the Password Policy Practices of Website Administrators.,No
+ieee_2023_33,"""In Eighty Percent of the Cases, I Select the Password for Them"": Security and Privacy Challenges, Advice, and Opportunities at Cybercafes in Kenya.",No
+ieee_2023_34,Perceptions of Distributed Ledger Technology Key Management - An Interview Study with Finance Professionals.,No
+ieee_2023_35,Towards a Rigorous Statistical Analysis of Empirical Password Datasets.,No
+ieee_2023_36,Confident Monte Carlo: Rigorous Analysis of Guessing Curves for Probabilistic Password Models.,No
+ieee_2023_37,Not Yet Another Digital ID: Privacy-Preserving Humanitarian Aid Distribution.,No
+ieee_2023_38,Disguising Attacks with Explanation-Aware Backdoors.,Yes
+ieee_2023_39,AI-Guardian: Defeating Adversarial Attacks using Backdoors.,Yes
+ieee_2023_40,Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers.,Yes
+ieee_2023_41,BayBFed: Bayesian Backdoor Defense for Federated Learning.,Yes
+ieee_2023_42,Redeem Myself: Purifying Backdoors in Deep Learning Models using Self Attention Distillation.,Yes
+ieee_2023_43,Threshold BBS+ Signatures for Distributed Anonymous Credential Issuance.,No
+ieee_2023_44,zk-creds: Flexible Anonymous Credentials from zkSNARKs and Existing Identity Infrastructure.,No
+ieee_2023_45,Private Access Control for Function Secret Sharing.,No
+ieee_2023_46,MPCAuth: Multi-factor Authentication for Distributed-trust Systems.,No
+ieee_2023_47,Silph: A Framework for Scalable and Accurate Generation of Hybrid MPC Protocols.,No
+ieee_2023_48,SoK: Anti-Facial Recognition Technology.,No
+ieee_2023_49,Spoofing Real-world Face Authentication Systems through Optical Synthesis.,Yes
+ieee_2023_50,ImU: Physical Impersonating Attack for Face Recognition System with Natural Style Changes.,Yes
+ieee_2023_51,DepthFake: Spoofing 3D Face Authentication with a 2D Photo.,Yes
+ieee_2023_52,Understanding the (In)Security of Cross-side Face Verification Systems in Mobile Apps: A System Perspective.,Yes
+ieee_2023_53,Breaking Security-Critical Voice Authentication.,Yes
+ieee_2023_54,SoK: A Critical Evaluation of Efficient Website Fingerprinting Defenses.,No
+ieee_2023_55,Fashion Faux Pas: Implicit Stylistic Fingerprints for Bypassing Browsers' Anti-Fingerprinting Defenses.,No
+ieee_2023_56,Robust Multi-tab Website Fingerprinting Attacks in the Wild.,No
+ieee_2023_57,Only Pay for What You Leak: Leveraging Sandboxes for a Minimally Invasive Browser Fingerprinting Defense.,No
+ieee_2023_58,"It's (DOM) Clobbering Time: Attack Techniques, Prevalence, and Defenses.",No
+ieee_2023_59,Scaling JavaScript Abstract Interpretation to Detect and Exploit Node.js Taint-style Vulnerability.,No
+ieee_2023_60,Sound Verification of Security Protocols: From Design to Interoperable Implementations.,No
+ieee_2023_61,Typing High-Speed Cryptography against Spectre v1.,No
+ieee_2023_62,Less is more: refinement proofs for probabilistic proofs.,No
+ieee_2023_63,Owl: Compositional Verification of Security Protocols via an Information-Flow Type System.,No
+ieee_2023_64,AUC: Accountable Universal Composability.,No
+ieee_2023_65,High-Order Masking of Lattice Signatures in Quasilinear Time.,No
+ieee_2023_66,Practical Timing Side-Channel Attacks on Memory Compression.,No
+ieee_2023_67,TEEzz: Fuzzing Trusted Applications on COTS Android Devices.,No
+ieee_2023_68,"Half&Half: Demystifying Intel's Directional Branch Predictors for Fast, Secure Partitioned Execution.",No
+ieee_2023_69,"Half&Half: Demystifying Intel's Directional Branch Predictors for Fast, Secure Partitioned Execution.",No
+ieee_2023_70,Improving Developers' Understanding of Regex Denial of Service Tools through Anti-Patterns and Fix Strategies.,No
+ieee_2023_71,Practical Program Modularization with Type-Based Dependence Analysis.,No
+ieee_2023_72,WarpAttack: Bypassing CFI through Compiler-Introduced Double-Fetches.,No
+ieee_2023_73,SoK: Certified Robustness for Deep Neural Networks.,Yes
+ieee_2023_74,RAB: Provable Robustness Against Backdoor Attacks.,Yes
+ieee_2023_75,ObjectSeeker: Certifiably Robust Object Detection against Patch Hiding Attacks via Patch-agnostic Masking.,Yes
+ieee_2023_76,PublicCheck: Public Integrity Verification for Services of Run-time Deep Models.,Yes
+ieee_2023_77,FedRecover: Recovering from Poisoning Attacks in Federated Learning using Historical Information.,Yes
+ieee_2023_78,On The Empirical Effectiveness of Unrealistic Adversarial Hardening Against Realistic Adversarial Attacks.,Yes
+ieee_2023_79,Rethinking Searchable Symmetric Encryption.,No
+ieee_2023_80,Private Collaborative Data Cleaning via Non-Equi PSI.,No
+ieee_2023_81,Private Collaborative Data Cleaning via Non-Equi PSI.,No
+ieee_2023_82,SPHINCS+C: Compressing SPHINCS+ With (Almost) No Cost.,No
+ieee_2023_83,Threshold Signatures in the Multiverse.,No
+ieee_2023_84,"FIDO2, CTAP 2.1, and WebAuthn 2: Provable Security and Post-Quantum Instantiation.",No
+ieee_2023_85,Token meets Wallet: Formalizing Privacy and Revocation for FIDO2.,No
+ieee_2023_86,SoK: Taxonomy of Attacks on Open-Source Software Supply Chains.,No
+ieee_2023_87,It's like flossing your teeth: On the Importance and Challenges of Reproducible Builds for Software Supply Chain Security.,No
+ieee_2023_88,"""Always Contribute Back"": A Qualitative Study on Security Challenges of the Open Source Supply Chain.",No
+ieee_2023_89,Continuous Intrusion: Characterizing the Security of Continuous Integration Services.,No
+ieee_2023_90,Investigating Package Related Security Threats in Software Registries.,No
+ieee_2023_91,ShadowNet: A Secure and Efficient On-device Model Inference System for Convolutional Neural Networks.,No
+ieee_2023_92,Deepfake Text Detection: Limitations and Opportunities.,Yes
+ieee_2023_93,StyleFool: Fooling Video Classification Systems via Style Transfer.,Yes
+ieee_2023_94,"GeeSolver: A Generic, Efficient, and Effortless Solver with Self-Supervised Learning for Breaking Text Captchas.",Yes
+ieee_2023_95,TrojanModel: A Practical Trojan Attack against Automatic Speech Recognition Systems.,Yes
+ieee_2023_96,REGA: Scalable Rowhammer Mitigation with Refresh-Generating Activations.,No
+ieee_2023_97,CSI:Rowhammer - Cryptographic Security and Integrity against Rowhammer.,No
+ieee_2023_98,Jolt: Recovering TLS Signing Keys via Rowhammer Faults.,No
+ieee_2023_99,Hide and Seek with Spectres: Efficient discovery of speculative information leaks with random testing.,No
+ieee_2023_100,Spectre Declassified: Reading from the Right Place at the Wrong Time.,No
+ieee_2023_101,Volttack: Control IoT Devices by Manipulating Power Supply Voltage.,No
+ieee_2023_102,Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks.,Yes
+ieee_2023_103,mmSpoof: Resilient Spoofing of Automotive Millimeter-wave Radars using Reflect Array.,No
+ieee_2023_104,PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle.,Yes
+ieee_2023_105,mmEcho: A mmWave-based Acoustic Eavesdropping Method.,No
+ieee_2023_106,Side Eye: Characterizing the Limits of POV Acoustic Eavesdropping from Smartphone Cameras with Rolling Shutters and Movable Lenses.,No
+ieee_2023_107,3DFed: Adaptive and Extensible Framework for Covert Backdoor Attack in Federated Learning.,Yes
+ieee_2023_108,Scalable and Privacy-Preserving Federated Principal Component Analysis.,No
+ieee_2023_109,"Private, Efficient, and Accurate: Protecting Models Trained by Multi-party Learning with Differential Privacy.",No
+ieee_2023_110,Spectral-DP: Differentially Private Deep Learning through Spectral Perturbation and Filtering.,No
+ieee_2023_111,ELSA: Secure Aggregation for Federated Learning with Malicious Actors.,No
+ieee_2023_112,No One Drinks From the Firehose: How Organizations Filter and Prioritize Vulnerability Information.,No
+ieee_2023_113,Vulnerability Discovery for All: Experiences of Marginalization in Vulnerability Discovery.,No
+ieee_2023_114,"""We are a startup to the core"": A qualitative interview study on the security and privacy development practices in Turkish software startups.",No
+ieee_2023_115,"""How technical do you get? I'm an English teacher"": Teaching and Learning Cybersecurity and AI Ethics in High School.",No
+ieee_2023_116,Skilled or Gullibleƒ Gender Stereotypes Related to Computer Security and Privacy.,No
+ieee_2023_117,"Everybody's Got ML, Tell Me What Else You Have: Practitioners' Perception of ML-Based Security Tools and Explanations.",Yes
+ieee_2023_118,Precise Detection of Kernel Data Races with Probabilistic Lockset Analysis.,No
+ieee_2023_119,SegFuzz: Segmentizing Thread Interleaving to Discover Kernel Concurrency Bugs through Fuzzing.,No
+ieee_2023_120,AEM: Facilitating Cross-Version Exploitability Assessment of Linux Kernel Vulnerabilities.,No
+ieee_2023_121,AEM: Facilitating Cross-Version Exploitability Assessment of Linux Kernel Vulnerabilities.,No
+ieee_2023_122,When Top-down Meets Bottom-up: Detecting and Exploiting Use-After-Cleanup Bugs in Linux Kernel.,No
+ieee_2023_123,RSFuzzer: Discovering Deep SMI Handler Vulnerabilities in UEFI Firmware with Hybrid Fuzzing.,No
+ieee_2023_124,A Theory to Instruct Differentially-Private Learning via Clipping Bias Reduction.,No
+ieee_2023_125,Continual Observation under User-level Differential Privacy.,No
+ieee_2023_126,Locally Differentially Private Frequency Estimation Based on Convolution Framework.,No
+ieee_2023_127,Telepath: A Minecraft-based Covert Communication System.,No
+ieee_2023_128,"Discop: Provably Secure Steganography in Practice Based on ""Distribution Copies"".",No
+ieee_2023_129,SQUIP: Exploiting the Scheduler Queue Contention Side Channel.,No
+ieee_2023_130,Scatter and Split Securely: Defeating Cache Contention and Occupancy Attacks.,No
+ieee_2023_131,DevIOus: Device-Driven Side-Channel Attacks on the IOMMU.,No
+ieee_2023_132,"DVFS Frequently Leaks Secrets: Hertzbleed Attacks Beyond SIKE, Cryptography, and CPU-Only Data.",No
+ieee_2023_133,A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs.,No
+ieee_2023_134,Examining Zero-Shot Vulnerability Repair with Large Language Models.,No
+ieee_2023_135,Examining Zero-Shot Vulnerability Repair with Large Language Models.,No
+ieee_2023_136,Callee: Recovering Call Graphs for Binaries with Transfer and Contrastive Learning.,No
+ieee_2023_137,XFL: Naming Functions in Binaries with Extreme Multi-label Learning.,No
+ieee_2023_138,D-ARM: Disassembling ARM Binaries by Lightweight Superset Instruction Interpretation and Graph Modeling.,No
+ieee_2023_139,GraphSPD: Graph-Based Security Patch Detection with Enriched Code Semantics.,No
+ieee_2023_140,Effective ReDoS Detection by Principled Vulnerability Modeling and Exploit Generation.,No
+ieee_2023_141,SoK: Decentralized Finance (DeFi) Attacks.,No
+ieee_2023_142,BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs Supporting Variable Amounts.,No
+ieee_2023_143,Optimistic Fast Confirmation While Tolerating Malicious Majority in Blockchains.,No
+ieee_2023_144,Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts.,No
+ieee_2023_145,Tyr: Finding Consensus Failure Bugs in Blockchain System with Behaviour Divergent Model.,No
+ieee_2023_146,Leaking Arbitrarily Many Secrets: Any-out-of-Many Proofs and Applications to RingCT Protocols.,No
+ieee_2023_147,Could you clean up the Internet with a Pit of Tar? Investigating tarpit feasibility on Internet worms.,No
+ieee_2023_148,Beyond Phish: Toward Detecting Fraudulent e-Commerce Websites at Scale.,No
+ieee_2023_149,Limits of I/O Based Ransomware Detection: An Imitation Based Attack.,No
+ieee_2023_150,From Grim Reality to Practical Solution: Malware Classification in Real-World Noise.,No
+ieee_2023_151,SoK: History is a Vast Early Warning System: Auditing the Provenance of System Intrusions.,No
+ieee_2023_152,Collaborative Ad Transparency: Promises and Limitations.,No
+ieee_2023_153,Toss a Fault to Your Witcher: Applying Grey-box Coverage-Guided Mutational Fuzzing to Detect SQL and Command Injection Vulnerabilities.,No
+ieee_2023_154,UTopia: Automatic Generation of Fuzz Driver using Unit Tests.,No
+ieee_2023_155,SelectFuzz: Efficient Directed Fuzzing with Selective Path Exploration.,No
+ieee_2023_156,Finding Specification Blind Spots via Fuzz Testing.,No
+ieee_2023_157,ODDFuzz: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing.,No
+ieee_2023_158,The Leaky Web: Automated Discovery of Cross-Site Information Leaks in Browsers and the Web.,No
+ieee_2023_159,WebSpec: Towards Machine-Checked Analysis of Browser Security Mechanisms.,No
+ieee_2023_160,Detection of Inconsistencies in Privacy Practices of Browser Extensions.,No
+ieee_2023_161,TeSec: Accurate Server-side Attack Investigation for Web Applications.,No
+ieee_2023_162,RuleKeeper: GDPR-Aware Personal Data Compliance for Web Frameworks.,No
+ieee_2023_163,Characterizing Everyday Misuse of Smart Home Devices.,No
+ieee_2023_164,"""It's up to the Consumer to be Smart"": Understanding the Security and Privacy Attitudes of Smart Home Users on Reddit.",No
+ieee_2023_165,User Perceptions and Experiences with Smart Home Updates.,No
+ieee_2023_166,Design and Evaluation of Inclusive Email Security Indicators for People with Visual Impairments.,No
+ieee_2023_167,"When and Why Do People Want Ad Targeting Explanations? Evidence from a Four-Week, Mixed-Methods Field Study.",No
+ieee_2023_168,SecureCells: A Secure Compartmentalized Architecture.,No
+ieee_2023_169,WaVe: a verifiably secure WebAssembly sandboxing runtime.,No
+ieee_2023_170,μSwitch: Fast Kernel Context Isolation with Implicit Context Switches.,No
+ieee_2023_171,Control Flow and Pointer Integrity Enforcement in a Secure Tagged Architecture.,No
+ieee_2023_172,EC: Embedded Systems Compartmentalization via Intra-Kernel Isolation.,No
+ieee_2023_173,Low-Cost Privilege Separation with Compile Time Compartmentalization for Embedded Systems.,No
+ieee_2023_174,One Key to Rule Them All: Secure Group Pairing for Heterogeneous IoT Devices.,No
+ieee_2023_175,Optimistic Access Control for the Smart Home.,No
+ieee_2023_176,Protected or Porous: A Comparative Analysis of Threat Detection Capability of IoT Safeguards.,No
+ieee_2023_177,LazyTAP: On-Demand Data Minimization for Trigger-Action Applications.,No
+ieee_2023_178,Blue's Clues: Practical Discovery of Non-Discoverable Bluetooth Devices.,No
+ieee_2023_179,DeHiREC: Detecting Hidden Voice Recorders via ADC Electromagnetic Radiation.,No
+ieee_2023_180,IPvSeeYou: Exploiting Leaked Identifiers in IPv6 for Street-Level Geolocation.,No
+ieee_2023_181,From 5G Sniffing to Harvesting Leakages of Privacy-Preserving Messengers.,No
+ieee_2023_182,Man-in-the-Middle Attacks without Rogue AP: When WPAs Meet ICMP Redirects.,No
+ieee_2023_183,Mew: Enabling Large-Scale and Dynamic Link-Flooding Defenses on Programmable Switches.,No
+ieee_2023_184,PCSPOOF: Compromising the Safety of Time-Triggered Ethernet.,No
+ieee_2023_185,BLEDiff: Scalable and Property-Agnostic Noncompliance Checking for BLE Implementations.,No
+ieee_2023_186,ViDeZZo: Dependency-aware Virtual Device Fuzzing.,No
+ieee_2023_187,DevFuzz: Automatic Device Model-Guided Device Driver Fuzzing.,No
+ieee_2023_188,"SyzDescribe: Principled, Automated, Static Generation of Syscall Descriptions for Kernel Drivers.",No
+ieee_2023_189,QueryX: Symbolic Query on Decompiled Code for Finding Bugs in COTS Binaries.,No
+ieee_2023_190,Pyfet: Forensically Equivalent Transformation for Python Binary Decompilation.,No
+ieee_2023_191,Adaptive Risk-Limiting Comparison Audits.,No
+ieee_2023_192,Blue Is the New Black (Market): Privacy Leaks and Re-Victimization from Police-Auctioned Cellphones.,No
+ieee_2023_193,No Privacy in the Electronics Repair Industry.,No
+ieee_2023_194,How IoT Re-using Threatens Your Sensitive Data: Exploring the User-Data Disposal in Used IoT Devices.,No
+ieee_2023_195,Privacy Leakage via Unrestricted Motion-Position Sensors in the Age of Virtual Reality: A Study of Snooping Typed Input on Virtual Keyboards.,No
+ieee_2023_196,Uncovering User Interactions on Smartphones via Contactless Wireless Charging Side Channels.,No
+ieee_2023_197,MagBackdoor: Beware of Your Loudspeaker as A Backdoor For Magnetic Injection Attacks.,No
+ieee_2023_198,Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing.,No
+ieee_2023_199,Low-effort VR Headset User Authentication Using Head-reverberated Sounds with Replay Resistance.,No

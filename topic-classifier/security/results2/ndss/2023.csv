@@ -1,0 +1,96 @@
+uuid,title,response
+ndss_2023_0,"30th Annual Network and Distributed System Security Symposium, NDSS 2023, San Diego, California, USA, February 27 - March 3, 2023.",No
+ndss_2023_1,Assessing the Impact of Interface Vulnerabilities in Compartmentalized Software.,No
+ndss_2023_2,Let Me Unwind That For You: Exceptions to Backward-Edge Protection.,No
+ndss_2023_3,VulHawk: Cross-architecture Vulnerability Detection with Entropy-based Binary Code Search.,No
+ndss_2023_4,Towards Automatic and Precise Heap Layout Manipulation for General-Purpose Programs.,No
+ndss_2023_5,Backdoor Attacks Against Dataset Distillation.,Yes
+ndss_2023_6,REaaS: Enabling Adversarially Robust Downstream Classifiers via Robust Encoder as a Service.,Yes
+ndss_2023_7,Adversarial Robustness for Tabular Data through Cost and Utility Awareness.,Yes
+ndss_2023_8,Focusing on Pinocchio's Nose: A Gradients Scrutinizer to Thwart Split-Learning Hijacking Attacks Using Intrinsic Attributes.,Yes
+ndss_2023_9,ProbFlow : Using Probabilistic Programming in Anonymous Communication Networks.,No
+ndss_2023_10,PPA: Preference Profiling Attack Against Federated Learning.,Yes
+ndss_2023_11,RAI2: Responsible Identity Audit Governing the Artificial Intelligence.,No
+ndss_2023_12,Faster Secure Comparisons with Offline Phase for Efficient Private Set Intersection.,No
+ndss_2023_13,DiffCSP: Finding Browser Bugs in Content Security Policy Enforcement through Differential Testing.,No
+ndss_2023_14,Browser Permission Mechanisms Demystified.,No
+ndss_2023_15,Drone Security and the Mysterious Case of DJI's DroneID.,No
+ndss_2023_16,"The ""Beatrix"" Resurrections: Robust Backdoor Detection via Gram Matrices.",Yes
+ndss_2023_17,RoVISQ: Reduction of Video Service Quality via Adversarial Attacks on Deep Learning-based Video Compression.,No
+ndss_2023_18,Machine Unlearning of Features and Labels.,Yes
+ndss_2023_19,Fusion: Efficient and Secure Inference Resilient to Malicious Servers.,Yes
+ndss_2023_20,Trellis: Robust and Scalable Metadata-private Anonymous Broadcast.,No
+ndss_2023_21,On the Anonymity of Peer-To-Peer Network Anonymity Schemes Used by Cryptocurrencies.,No
+ndss_2023_22,Thwarting Smartphone SMS Attacks at the Radio Interface Layer.,No
+ndss_2023_23,InfoMasker: Preventing Eavesdropping Using Phoneme-Based Noise.,No
+ndss_2023_24,FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities.,No
+ndss_2023_25,"No Grammar, No Problem: Towards Fuzzing the Linux Kernel without System-Call Descriptions.",No
+ndss_2023_26,DARWIN: Survival of the Fittest Fuzzing Mutators.,No
+ndss_2023_27,LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols.,No
+ndss_2023_28,Securing Federated Sensitive Topic Classification against Poisoning Attacks.,Yes
+ndss_2023_29,OBSan: An Out-Of-Bound Sanitizer to Harden DNN Executables.,No
+ndss_2023_30,BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems.,Yes
+ndss_2023_31,"Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation.",No
+ndss_2023_32,Ghost Domain Reloaded: Vulnerable Links in Domain Name Delegation and Revocation.,No
+ndss_2023_33,QUICforge: Client-side Request Forgery in QUIC.,No
+ndss_2023_34,Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations.,No
+ndss_2023_35,I Still Know What You Watched Last Sunday: Privacy of the HbbTV Protocol in the European Smart TV Landscape.,No
+ndss_2023_36,Your Router is My Prober: Measuring IPv6 Networks via ICMP Rate Limiting Side Channels.,No
+ndss_2023_37,POSE: Practical Off-chain Smart Contract Execution.,No
+ndss_2023_38,OptRand: Optimistically Responsive Reconfigurable Distributed Randomness.,No
+ndss_2023_39,Partitioning Ethereum without Eclipsing It.,No
+ndss_2023_40,Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning.,No
+ndss_2023_41,Real Threshold ECDSA.,No
+ndss_2023_42,Post-GDPR Threat Hunting on Android Phones: Dissecting OS-level Safeguards of User-unresettable Identifiers.,No
+ndss_2023_43,MyTEE: Own the Trusted Execution Environment on Embedded Devices.,No
+ndss_2023_44,StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors.,No
+ndss_2023_45,AuthentiSense: A Scalable Behavioral Biometrics Authentication Scheme using Few-Shot Learning for Mobile Platforms.,No
+ndss_2023_46,Do Not Give a Dog Bread Every Time He Wags His Tail: Stealing Passwords through Content Queries (CONQUER) Attacks.,No
+ndss_2023_47,RR: A Fault Model for Efficient TEE Replication.,No
+ndss_2023_48,Copy-on-Flip: Hardening ECC Memory Against Rowhammer Attacks.,No
+ndss_2023_49,Extrapolating Formal Analysis to Uncover Attacks in Bluetooth Passkey Entry Pairing.,No
+ndss_2023_50,Attacks as Defenses: Designing Robust Audio CAPTCHAs Using Attacks on Automatic Speech Recognition Systems.,Yes
+ndss_2023_51,Cryptographic Oracle-based Conditional Payments.,No
+ndss_2023_52,BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects.,No
+ndss_2023_53,Breaking and Fixing Virtual Channels: Domino Attack and Donner.,No
+ndss_2023_54,He-HTLC: Revisiting Incentives in HTLC.,No
+ndss_2023_55,Parakeet: Practical Key Transparency for End-to-End Encrypted Messaging.,No
+ndss_2023_56,The Power of Bamboo: On the Post-Compromise Security for Searchable Symmetric Encryption.,No
+ndss_2023_57,Private Certifier Intersection.,No
+ndss_2023_58,OBI: a multi-path oblivious RAM for forward-and-backward-secure searchable encryption.,No
+ndss_2023_59,Un-Rocking Drones: Foundations of Acoustic Injection Attacks and Recovery Thereof.,No
+ndss_2023_60,EdgeTDC: On the Security of Time Difference of Arrival Measurements in CAN Bus Systems.,No
+ndss_2023_61,Evasion Attacks and Defenses on Smart Home Physical Event Verification.,No
+ndss_2023_62,SoundLock: A Novel User Authentication Scheme for VR Devices Using Auditory-Pupillary Response.,No
+ndss_2023_63,Accountable Javascript Code Delivery.,No
+ndss_2023_64,ReScan: A Middleware Framework for Realistic and Robust Black-box Web Application Scanning.,No
+ndss_2023_65,Him of Many Faces: Characterizing Billion-scale Adversarial and Benign Browser Fingerprints on Commercial Websites.,No
+ndss_2023_66,A Security Study about Electron Applications and a Programming Methodology to Tame DOM Functionalities.,No
+ndss_2023_67,An OS-agnostic Approach to Memory Forensics.,No
+ndss_2023_68,BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense.,Yes
+ndss_2023_69,Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams.,No
+ndss_2023_70,Preventing SIM Box Fraud Using Device Model Fingerprinting.,No
+ndss_2023_71,Access Your Tesla without Your Awareness: Compromising Keyless Entry System of Model 3.,No
+ndss_2023_72,MetaWave: Attacking mmWave Sensing with Meta-material-enhanced Tags.,No
+ndss_2023_73,Paralyzing Drones via EMI Signal Injection on Sensory Communication Channels.,No
+ndss_2023_74,Brokenwire : Wireless Disruption of CCS Electric Vehicle Charging.,No
+ndss_2023_75,CHKPLUG: Checking GDPR Compliance of WordPress Plugins via Cross-language Code Property Graph.,No
+ndss_2023_76,SynthDB: Synthesizing Database via Program Analysis for Security Testing of Web Applications.,No
+ndss_2023_77,Hope of Delivery: Extracting User Locations From Mobile Instant Messengers.,No
+ndss_2023_78,"Tactics, Threats & Targets: Modeling Disinformation and its Mitigation.",No
+ndss_2023_79,How to Count Bots in Longitudinal Datasets of IP Addresses.,No
+ndss_2023_80,"Sometimes, You Aren't What You Do: Mimicry Attacks against Provenance Graph Host Intrusion Detection Systems.",Yes
+ndss_2023_81,BinaryInferno: A Semantic-Driven Approach to Field Inference for Binary Message Formats.,No
+ndss_2023_82,Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis.,No
+ndss_2023_83,Efficient Dynamic Proof of Retrievability for Cold Storage.,No
+ndss_2023_84,HeteroScore: Evaluating and Mitigating Cloud Security Threats Brought by Heterogeneity.,No
+ndss_2023_85,A Robust Counting Sketch for Data Plane Intrusion Detection.,No
+ndss_2023_86,REDsec: Running Encrypted Discretized Neural Networks in Seconds.,No
+ndss_2023_87,DOITRUST: Dissecting On-chain Compromised Internet Domains via Graph Learning.,No
+ndss_2023_88,VICEROY: GDPR-/CCPA-compliant Enforcement of Verifiable Accountless Consumer Requests.,No
+ndss_2023_89,Navigating Murky Waters: Automated Browser Feature Testing for Uncovering Tracking Vectors.,No
+ndss_2023_90,ChargePrint: A Framework for Internet-Scale Discovery and Security Analysis of EV Charging Management Systems.,No
+ndss_2023_91,A Systematic Study of the Consistency of Two-Factor Authentication User Journeys on Top-Ranked Websites.,No
+ndss_2023_92,Privacy-Preserving Database Fingerprinting.,No
+ndss_2023_93,Folk Models of Misinformation on Social Media.,No
+ndss_2023_94,Fine-Grained Trackability in Protocol Executions.,No

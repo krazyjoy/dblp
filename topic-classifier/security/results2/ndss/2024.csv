@@ -1,0 +1,142 @@
+uuid,title,response
+ndss_2024_0,"31st Annual Network and Distributed System Security Symposium, NDSS 2024, San Diego, California, USA, February 26 - March 1, 2024.",No
+ndss_2024_1,"Architecting Trigger-Action Platforms for Security, Performance and Functionality.",No
+ndss_2024_2,Attributions for ML-based ICS Anomaly Detection: From Theory to Practice.,No
+ndss_2024_3,Bernoulli Honeywords.,No
+ndss_2024_4,BreakSPF: How Shared Infrastructures Magnify SPF Vulnerabilities Across the Internet.,No
+ndss_2024_5,Compensating Removed Frequency Components: Thwarting Voice Spectrum Reduction Attacks.,Yes
+ndss_2024_6,Compromising Industrial Processes using Web-Based Programmable Logic Controller Malware.,No
+ndss_2024_7,Content Censorship in the InterPlanetary File System.,No
+ndss_2024_8,Crafter: Facial Feature Crafting against Inversion-based Identity Theft on Deep Models.,Yes
+ndss_2024_9,CrowdGuard: Federated Backdoor Detection in Federated Learning.,Yes
+ndss_2024_10,Eavesdropping on Black-box Mobile Devices via Audio Amplifier's EMR.,No
+ndss_2024_11,Enhance Stealthiness and Transferability of Adversarial Attacks with Class Activation Mapping Ensemble Attack.,Yes
+ndss_2024_12,Exploiting Sequence Number Leakage: TCP Hijacking in NAT-Enabled Wi-Fi Networks.,No
+ndss_2024_13,Facilitating Non-Intrusive In-Vivo Firmware Testing with Stateless Instrumentation.,No
+ndss_2024_14,File Hijacking Vulnerability: The Elephant in the Room.,No
+ndss_2024_15,Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus.,No
+ndss_2024_16,GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards.,No
+ndss_2024_17,GNNIC: Finding Long-Lost Sibling Functions with Abstract Similarity.,No
+ndss_2024_18,HEIR: A Unified Representation for Cross-Scheme Compilation of Fully Homomorphic Computation.,No
+ndss_2024_19,IDA: Hybrid Attestation with Support for Interrupts and TOCTOU.,No
+ndss_2024_20,Inaudible Adversarial Perturbation: Manipulating the Recognition of User Speech in Real Time.,Yes
+ndss_2024_21,LARMix: Latency-Aware Routing in Mix Networks.,No
+ndss_2024_22,LDR: Secure and Efficient Linux Driver Runtime for Embedded TEE Systems.,No
+ndss_2024_23,"LiDAR Spoofing Meets the New-Gen: Capability Improvements, Broken Assumptions, and New Attack Strategies.",Yes
+ndss_2024_24,LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors.,Yes
+ndss_2024_25,Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic.,Yes
+ndss_2024_26,MOCK: Optimizing Kernel Fuzzing Mutation with Context-aware Dependency.,No
+ndss_2024_27,Modeling and Detecting Internet Censorship Events.,No
+ndss_2024_28,MPCDiff: Testing and Repairing MPC-Hardened Deep Learning Models.,Yes
+ndss_2024_29,NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation.,No
+ndss_2024_30,On Precisely Detecting Censorship Circumvention in Real-World Networks.,No
+ndss_2024_31,ORL-AUDITOR: Dataset Auditing in Offline Deep Reinforcement Learning.,No
+ndss_2024_32,Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction.,Yes
+ndss_2024_33,Pisces: Private and Compliable Cryptocurrency Exchange.,No
+ndss_2024_34,ShapFuzz: Efficient Fuzzing via Shapley-Guided Byte Selection.,No
+ndss_2024_35,SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing.,No
+ndss_2024_36,Symphony: Path Validation at Scale.,No
+ndss_2024_37,The Dark Side of E-Commerce: Dropshipping Abuse as a Business Model.,No
+ndss_2024_38,Transpose Attack: Stealing Datasets with Bidirectional Training.,Yes
+ndss_2024_39,TrustSketch: Trustworthy Sketch-based Telemetry on Cloud Hosts.,No
+ndss_2024_40,Understanding and Analyzing Appraisal Systems in the Underground Marketplaces.,No
+ndss_2024_41,Unus pro omnibus: Multi-Client Searchable Encryption via Access Control.,No
+ndss_2024_42,50 Shades of Support: A Device-Centric Analysis of Android Security Updates.,No
+ndss_2024_43,5G-Spector: An O-RAN Compliant Layer-3 Cellular Attack Detection Service.,No
+ndss_2024_44,"A Duty to Forget, a Right to be Assured? Exposing Vulnerabilities in Machine Unlearning Services.",Yes
+ndss_2024_45,A Security and Usability Analysis of Local Attacks Against FIDO2.,No
+ndss_2024_46,A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance.,No
+ndss_2024_47,A Unified Symbolic Analysis of WireGuard.,No
+ndss_2024_48,AAKA: An Anti-Tracking Cellular Authentication Scheme Leveraging Anonymous Credentials.,No
+ndss_2024_49,Abusing the Ethereum Smart Contract Verification Services for Fun and Profit.,No
+ndss_2024_50,Acoustic Keystroke Leakage on Smart Televisions.,No
+ndss_2024_51,ActiveDaemon: Unconscious DNN Dormancy and Waking Up via User-specific Invisible Token.,Yes
+ndss_2024_52,AnonPSI: An Anonymity Assessment Framework for PSI.,No
+ndss_2024_53,Automatic Adversarial Adaption for Stealthy Poisoning Attacks in Federated Learning.,Yes
+ndss_2024_54,Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization.,No
+ndss_2024_55,Beyond the Surface: Uncovering the Unprotected Components of Android Against Overlay Attack.,No
+ndss_2024_56,BGP-iSec: Improved Security of Internet Routing Against Post-ROV Attacks.,No
+ndss_2024_57,BliMe: Verifiably Secure Outsourced Computation with Hardware-Enforced Taint Tracking.,No
+ndss_2024_58,CAGE: Complementing Arm CCA with GPU Extensions.,No
+ndss_2024_59,CamPro: Camera-based Anti-Facial Recognition.,Yes
+ndss_2024_60,Certificate Transparency Revisited: The Public Inspections on Third-party Monitors.,No
+ndss_2024_61,CP-IoT: A Cross-Platform Monitoring System for Smart Home.,No
+ndss_2024_62,Decentralized Information-Flow Control for ROS2.,No
+ndss_2024_63,DeepGo: Predictive Directed Greybox Fuzzing.,No
+ndss_2024_64,DeGPT: Optimizing Decompiler Output with LLM.,No
+ndss_2024_65,DEMASQ: Unmasking the ChatGPT Wordsmith.,Yes
+ndss_2024_66,Detecting Voice Cloning Attacks via Timbre Watermarking.,Yes
+ndss_2024_67,Don't Interrupt Me - A Large-Scale Study of On-Device Permission Prompt Quieting in Chrome.,No
+ndss_2024_68,DorPatch: Distributed and Occlusion-Robust Adversarial Patch to Evade Certifiable Defenses.,Yes
+ndss_2024_69,DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs.,No
+ndss_2024_70,"dRR: A Decentralized, Scalable, and Auditable Architecture for RPKI Repository.",No
+ndss_2024_71,DynPRE: Protocol Reverse Engineering via Dynamic Inference.,No
+ndss_2024_72,Eavesdropping on Controller Acoustic Emanation for Keystroke Inference Attack in Virtual Reality.,No
+ndss_2024_73,Efficient and Timely Revocation of V2X Credentials.,No
+ndss_2024_74,Efficient Use-After-Free Prevention with Opportunistic Page-Level Sweeping.,No
+ndss_2024_75,EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras.,No
+ndss_2024_76,EnclaveFuzz: Finding Vulnerabilities in SGX Applications.,No
+ndss_2024_77,Experimental Analyses of the Physical Surveillance Risks in Client-Side Content Scanning.,Yes
+ndss_2024_78,Faster and Better: Detecting Vulnerabilities in Linux-based IoT Firmware with Optimized Reaching Definition Analysis.,No
+ndss_2024_79,Faults in Our Bus: Novel Bus Fault Attack to Break ARM TrustZone.,No
+ndss_2024_80,Flow Correlation Attacks on Tor Onion Service Sessions with Sliding Subset Sum.,Yes
+ndss_2024_81,FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting.,No
+ndss_2024_82,FreqFed: A Frequency Analysis-Based Approach for Mitigating Poisoning Attacks in Federated Learning.,Yes
+ndss_2024_83,From Hardware Fingerprint to Access Token: Enhancing the Authentication on IoT Devices.,Yes
+ndss_2024_84,From Interaction to Independence: zkSNARKs for Transparent and Non-Interactive Remote Attestation.,No
+ndss_2024_85,Gradient Shaping: Enhancing Backdoor Attack Against Reverse Engineering.,Yes
+ndss_2024_86,GraphGuard: Detecting and Counteracting Training Data Misuse in Graph Neural Networks.,Yes
+ndss_2024_87,Group-based Robustness: A General Framework for Customized Robustness in the Real World.,Yes
+ndss_2024_88,IdleLeak: Exploiting Idle State Side Effects for Information Leakage.,No
+ndss_2024_89,Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention.,Yes
+ndss_2024_90,Information Based Heavy Hitters for Real-Time DNS Data Exfiltration Detection.,No
+ndss_2024_91,Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception.,Yes
+ndss_2024_92,IRRedicator: Pruning IRR with RPKI-Valid BGP Insights.,No
+ndss_2024_93,K-LEAK: Towards Automating the Generation of Multi-Step Infoleak Exploits against the Linux Kernel.,No
+ndss_2024_94,Large Language Model guided Protocol Fuzzing.,No
+ndss_2024_95,Leaking the Privacy of Groups and More: Understanding Privacy Risks of Cross-App Content Sharing in Mobile Ecosystem.,No
+ndss_2024_96,"Like, Comment, Get Scammed: Characterizing Comment Scams on Media Platforms.",No
+ndss_2024_97,LoRDMA: A New Low-Rate DoS Attack in RDMA Networks.,No
+ndss_2024_98,MadRadar: A Black-Box Physical Layer Attack Framework on mmWave Automotive FMCW Radars.,No
+ndss_2024_99,Maginot Line: Assessing a New Cross-app Threat to PII-as-Factor Authentication in Chinese Mobile Apps.,No
+ndss_2024_100,MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots.,Yes
+ndss_2024_101,MirageFlow: A New Bandwidth Inflation Attack on Tor.,No
+ndss_2024_102,Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts.,No
+ndss_2024_103,Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models.,Yes
+ndss_2024_104,Pencil: Private and Extensible Collaborative Learning without the Non-Colluding Assumption.,No
+ndss_2024_105,Phoenix: Surviving Unpatched Vulnerabilities via Accurate and Efficient Filtering of Syscall Sequences.,No
+ndss_2024_106,Powers of Tau in Asynchrony.,No
+ndss_2024_107,Predictive Context-sensitive Fuzzing.,No
+ndss_2024_108,PrintListener: Uncovering the Vulnerability of Fingerprint Authentication via the Finger Friction Sound.,No
+ndss_2024_109,PriSrv: Privacy-Enhanced and Highly Usable Service Discovery in Wireless Communications.,No
+ndss_2024_110,Private Aggregate Queries to Untrusted Databases.,No
+ndss_2024_111,Proof of Backhaul: Trustfree Measurement of Broadband Bandwidth.,No
+ndss_2024_112,QUACK: Hindering Deserialization Attacks via Static Duck Typing.,No
+ndss_2024_113,REPLICAWATCHER: Training-less Anomaly Detection in Containerized Microservices.,No
+ndss_2024_114,ReqsMiner: Automated Discovery of CDN Forwarding Request Inconsistencies and DoS Attacks with Grammar-based Fuzzing.,No
+ndss_2024_115,Scrappy: SeCure Rate Assuring Protocol with PrivacY.,No
+ndss_2024_116,Secret-Shared Shuffle with Malicious Security.,No
+ndss_2024_117,Secure Multiparty Computation of Threshold Signatures Made More Efficient.,No
+ndss_2024_118,Security-Performance Tradeoff in DAG-based Proof-of-Work Blockchain Protocols.,No
+ndss_2024_119,SENSE: Enhancing Microarchitectural Awareness for TEEs via Subscription-Based Notification.,No
+ndss_2024_120,Separation is Good: A Faster Order-Fairness Byzantine Consensus.,No
+ndss_2024_121,Sharing cyber threat intelligence: Does it really help?,No
+ndss_2024_122,SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems.,Yes
+ndss_2024_123,Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data.,Yes
+ndss_2024_124,SSL-WM: A Black-Box Watermarking Approach for Encoders Pre-trained by Self-Supervised Learning.,Yes
+ndss_2024_125,SyzBridge: Bridging the Gap in Exploitability Assessment of Linux Kernel Bugs in the Linux Ecosystem.,No
+ndss_2024_126,TALISMAN: Tamper Analysis for Reference Monitors.,No
+ndss_2024_127,TEE-SHirT: Scalable Leakage-Free Cache Hierarchies for TEEs.,No
+ndss_2024_128,TextGuard: Provable Defense against Backdoor Attacks on Text Classification.,Yes
+ndss_2024_129,The CURE to Vulnerabilities in RPKI Validation.,No
+ndss_2024_130,Timing Channels in Adaptive Neural Networks.,Yes
+ndss_2024_131,Towards Automated Regulation Analysis for Effective Privacy Compliance.,No
+ndss_2024_132,Towards Precise Reporting of Cryptographic Misuses.,No
+ndss_2024_133,Understanding Route Origin Validation (ROV) Deployment in the Real World and Why MANRS Action 1 Is Not Followed.,No
+ndss_2024_134,Understanding the Implementation and Security Implications of Protective DNS Services.,No
+ndss_2024_135,UniID: Spoofing Face Authentication System by Universal Identity.,Yes
+ndss_2024_136,Untangle: Multi-Layer Web Server Fingerprinting.,No
+ndss_2024_137,UntrustIDE: Exploiting Weaknesses in VS Code Extensions.,No
+ndss_2024_138,"VETEOS: Statically Vetting EOSIO Contracts for the ""Groundhog Day"" Vulnerabilities.",No
+ndss_2024_139,When Cryptography Needs a Hand: Practical Post-Quantum Authentication for V2V Communications.,No
+ndss_2024_140,You Can Use But Cannot Recognize: Preserving Visual Privacy in Deep Neural Networks.,No

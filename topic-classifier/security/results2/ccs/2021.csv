@@ -1,0 +1,227 @@
+uuid,title,response
+ccs_2021_0,"CCS '21: 2021 ACM SIGSAC Conference on Computer and Communications Security, Virtual Event, Republic of Korea, November 15 - 19, 2021.",No
+ccs_2021_1,Pseudo-Randomness and the Crystal Ball.,No
+ccs_2021_2,Towards Building a Responsible Data Economy.,No
+ccs_2021_3,Are we done yet? Our Journey to Fight against Memory-safety Bugs.,No
+ccs_2021_4,Chunk-Level Password Guessing: Towards Modeling Refined Password Composition Representations.,No
+ccs_2021_5,"Out of Sight, Out of Mind: Detecting Orphaned Web Pages at Internet-Scale.",No
+ccs_2021_6,Catching Transparent Phish: Analyzing and Detecting MITM Phishing Toolkits.,Yes
+ccs_2021_7,Reverse Attack: Black-box Attacks on Collaborative Recommendation.,Yes
+ccs_2021_8,It's Not What It Looks Like: Manipulating Perceptual Hashing based Applications.,Yes
+ccs_2021_9,Black-box Adversarial Attacks on Commercial Speech Platforms with Minimal Information.,Yes
+ccs_2021_10,A Hard Label Black-box Adversarial Attack Against Graph Neural Networks.,Yes
+ccs_2021_11,Robust Adversarial Attacks Against DNN-Based Wireless Communication Systems.,Yes
+ccs_2021_12,AI-Lancet: Locating Error-inducing Neurons to Optimize Neural Networks.,Yes
+ccs_2021_13,Doubly Efficient Interactive Proofs for General Arithmetic Circuits with Linear Prover Time.,No
+ccs_2021_14,Constant-Overhead Zero-Knowledge for RAM Programs.,No
+ccs_2021_15,Appenzeller to Brie: Efficient Zero-Knowledge Proofs for Mixed-Mode Arithmetic and Z2k.,No
+ccs_2021_16,Shorter and Faster Post-Quantum Designated-Verifier zkSNARKs from Lattices.,No
+ccs_2021_17,"""Hello, It's Me"": Deep Learning-based Speech Synthesis Attacks in the Real World.",Yes
+ccs_2021_18,Don't Forget the Stuffing! Revisiting the Security Impact of Typo-Tolerant Password Authentication.,No
+ccs_2021_19,Dissecting Click Fraud Autonomy in the Wild.,Yes
+ccs_2021_20,Understanding and Detecting Mobile Ad Fraud Through the Lens of Invalid Traffic.,No
+ccs_2021_21,Usable User Authentication on a Smartwatch using Vibration.,No
+ccs_2021_22,Automated Bug Hunting With Data-Driven Symbolic Root Cause Analysis.,No
+ccs_2021_23,Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference.,No
+ccs_2021_24,"Same Coverage, Less Bloat: Accelerating Binary-only Fuzzing with Coverage-preserving Coverage-guided Tracing.",No
+ccs_2021_25,HyperFuzzer: An Efficient Hybrid Fuzzer for Virtual CPUs.,No
+ccs_2021_26,HardsHeap: A Universal and Extensible Framework for Evaluating Secure Allocators.,No
+ccs_2021_27,DPGen: Automated Program Synthesis for Differential Privacy.,No
+ccs_2021_28,A Formally Verified Configuration for Hardware Security Modules in the Cloud.,No
+ccs_2021_29,Solver-Aided Constant-Time Hardware Verification.,No
+ccs_2021_30,Exorcising Spectres with Secure Compilers.,No
+ccs_2021_31,Structured Leakage and Applications to Cryptographic Constant-Time and Cost.,No
+ccs_2021_32,Learning Security Classifiers with Verified Global Robustness Properties.,Yes
+ccs_2021_33,On the Robustness of Domain Constraints.,Yes
+ccs_2021_34,Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks.,Yes
+ccs_2021_35,TSS: Transformation-Specific Smoothing for Robustness Certification.,Yes
+ccs_2021_36,Efficient Online-friendly Two-Party ECDSA Signature.,No
+ccs_2021_37,One Hot Garbling.,No
+ccs_2021_38,The Return of Eratosthenes: Secure Generation of RSA Moduli using Distributed Sieving.,No
+ccs_2021_39,Secure Graph Analysis at Scale.,No
+ccs_2021_40,Oblivious Linear Group Actions and Applications.,No
+ccs_2021_41,Wireless Charging Power Side-Channel Attacks.,No
+ccs_2021_42,Indistinguishability Prevents Scheduler Side Channels in Real-Time Systems.,No
+ccs_2021_43,Rosita++: Automatic Higher-Order Leakage Elimination from Cryptographic Code.,No
+ccs_2021_44,Periscope: A Keystroke Inference Attack Using Human Coupled Electromagnetic Emanations.,No
+ccs_2021_45,Constantine: Automatic Side-Channel Resistance Using Efficient Control and Data Flow Linearization.,No
+ccs_2021_46,ECMO: Peripheral Transplantation to Rehost Embedded Linux Kernels.,No
+ccs_2021_47,SyzGen: Automated Generation of Syscall Specification of Closed-Source macOS Drivers.,No
+ccs_2021_48,Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization.,No
+ccs_2021_49,SmashEx: Smashing SGX Enclaves Using Exceptions.,No
+ccs_2021_50,CPscan: Detecting Bugs Caused by Code Pruning in IoT Kernels.,No
+ccs_2021_51,Statically Discovering High-Order Taint Style Vulnerabilities in OS Kernels.,No
+ccs_2021_52,Honest-but-Curious Nets: Sensitive Attributes of Private Inputs Can Be Secretly Coded into the Classifiers' Outputs.,Yes
+ccs_2021_53,Quantifying and Mitigating Privacy Risks of Contrastive Learning.,Yes
+ccs_2021_54,Membership Inference Attacks Against Recommender Systems.,Yes
+ccs_2021_55,Membership Leakage in Label-Only Exposures.,Yes
+ccs_2021_56,When Machine Unlearning Jeopardizes Privacy.,Yes
+ccs_2021_57,Deterrence of Intelligent DDoS via Multi-Hop Traffic Divergence.,No
+ccs_2021_58,"Scan, Test, Execute: Adversarial Tactics in Amplification DDoS Attacks.",No
+ccs_2021_59,Warmonger: Inflicting Denial-of-Service via Serverless Functions in the Cloud.,No
+ccs_2021_60,United We Stand: Collaborative Detection and Mitigation of Amplification DDoS Attacks at Scale.,No
+ccs_2021_61,Revisiting Nakamoto Consensus in Asynchronous Networks: A Comprehensive Analysis of Bitcoin Safety and ChainQuality.,No
+ccs_2021_62,How Does Blockchain Security Dictate Blockchain Implementation?,No
+ccs_2021_63,The Exact Security of BIP32 Wallets.,No
+ccs_2021_64,A Security Framework for Distributed Ledgers.,No
+ccs_2021_65,This Sneaky Piggy Went to the Android Ad Market: Misusing Mobile Sensors for Stealthy Data Exfiltration.,No
+ccs_2021_66,Noncompliance as Deviant Behavior: An Automated Black-box Noncompliance Checker for 4G LTE Cellular Devices.,No
+ccs_2021_67,All your Credentials are Belong to Us: On Insecure WPA2-Enterprise Configurations.,No
+ccs_2021_68,On-device IoT Certificate Revocation Checking with Small Memory and Low Latency.,No
+ccs_2021_69,Labeled PSI from Homomorphic Encryption with Reduced Computation and Communication.,No
+ccs_2021_70,"Simple, Fast Malicious Multiparty Private Set Intersection.",No
+ccs_2021_71,Compact and Malicious Private Set Intersection for Small Sets.,No
+ccs_2021_72,Efficient Linear Multiparty PSI and Extensions to Circuit/Quorum PSI.,No
+ccs_2021_73,Differential Privacy for Directional Data.,No
+ccs_2021_74,"Differentially Private Sparse Vectors with Low Error, Optimal Space, and Fast Access.",No
+ccs_2021_75,Continuous Release of Data Streams under both Centralized and Local Differential Privacy.,No
+ccs_2021_76,Side-Channel Attacks on Query-Based Data Anonymization.,No
+ccs_2021_77,AHEAD: Adaptive Hierarchical Decomposition for Range Query under Local Differential Privacy.,No
+ccs_2021_78,Who's In Control? On Security Risks of Disjointed IoT Device Management Channels.,No
+ccs_2021_79,DroneKey: A Drone-Aided Group-Key Generation Scheme for Large-Scale IoT Networks.,No
+ccs_2021_80,You Make Me Tremble: A First Look at Attacks Against Structural Control Systems.,No
+ccs_2021_81,MaMIoT: Manipulation of Energy Market Leveraging High Wattage IoT Botnets.,No
+ccs_2021_82,Aion: Enabling Open Systems through Strong Availability Guarantees for Enclaves.,No
+ccs_2021_83,Rusted Anchors: A National Client-Side View of Hidden Root CAs in the Web PKI Ecosystem.,No
+ccs_2021_84,On Re-engineering the X.509 PKI with Executable Specification for Better Implementation Guarantees.,No
+ccs_2021_85,APECS: A Distributed Access Control Framework for Pervasive Edge Computing Services.,No
+ccs_2021_86,Let's Downgrade Let's Encrypt.,No
+ccs_2021_87,A Concrete Treatment of Efficient Continuous Group Key Agreement via Multi-Recipient PKEs.,No
+ccs_2021_88,Modular Design of Secure Group Messaging Protocols and the Security of MLS.,No
+ccs_2021_89,Secure Complaint-Enabled Source-Tracking for Encrypted Messaging.,No
+ccs_2021_90,Fuzzy Message Detection.,No
+ccs_2021_91,Meteor: Cryptographically Secure Steganography for Realistic Distributions.,No
+ccs_2021_92,Hiding the Lengths of Encrypted Messages via Gaussian Padding.,No
+ccs_2021_93,Android on PC: On the Security of End-user Android Emulators.,No
+ccs_2021_94,Ghost in the Binder: Binder Transaction Redirection Attacks in Android System Services.,No
+ccs_2021_95,Dissecting Residual APIs in Custom Android ROMs.,No
+ccs_2021_96,VIP: Safeguard Value Invariant Property for Thwarting Critical Memory Corruption Attacks.,No
+ccs_2021_97,Detecting Missed Security Operations Through Differential Checking of Object-based Similar Paths.,No
+ccs_2021_98,DETER: Denial of Ethereum Txpool sERvices.,No
+ccs_2021_99,SyncAttack: Double-spending in Bitcoin Without Mining Power.,No
+ccs_2021_100,Multi-Threshold Byzantine Fault Tolerance.,No
+ccs_2021_101,Securing Parallel-chain Protocols under Variable Mining Power.,No
+ccs_2021_102,BFT Protocol Forensics.,No
+ccs_2021_103,Supply-Chain Vulnerability Elimination via Active Learning and Regeneration.,No
+ccs_2021_104,XSinator.com: From a Formal Model to the Automatic Evaluation of Cross-Site Leaks in Web Browsers.,No
+ccs_2021_105,DoubleX: Statically Detecting Vulnerable Data Flows in Browser Extensions at Scale.,No
+ccs_2021_106,T-Reqs: HTTP Request Smuggling with Differential Fuzzing.,No
+ccs_2021_107,Preventing Dynamic Library Compromise on Node.js via RWX-Based Privilege Reduction.,No
+ccs_2021_108,Spinner: Automated Dynamic Command Subsystem Perturbation.,No
+ccs_2021_109,FakeWake: Understanding and Mitigating Fake Wake-up Words of Voice Assistants.,Yes
+ccs_2021_110,Robust Detection of Machine-induced Audio Attacks in Intelligent Audio Systems with Microphone Array.,Yes
+ccs_2021_111,Glowworm Attack: Optical TEMPEST Sound Recovery via a Device's Power Indicator LED.,No
+ccs_2021_112,CapSpeaker: Injecting Voices to Microphones via Capacitors.,No
+ccs_2021_113,I Can See the Light: Attacks on Autonomous Vehicles Using Invisible Lights.,Yes
+ccs_2021_114,Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving?,Yes
+ccs_2021_115,A PKI-based Framework for Establishing Efficient MPC Channels.,No
+ccs_2021_116,The Security of ChaCha20-Poly1305 in the Multi-User Setting.,No
+ccs_2021_117,With a Little Help from My Friends: Constructing Practical Anonymous Credentials.,No
+ccs_2021_118,Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees.,No
+ccs_2021_119,Revisiting Fuzzy Signatures: Towards a More Risk-Free Cryptographic Authentication System based on Biometrics.,No
+ccs_2021_120,On the (In)Security of ElGamal in OpenPGP.,No
+ccs_2021_121,EncoderMI: Membership Inference against Pre-trained Encoders in Contrastive Learning.,Yes
+ccs_2021_122,TableGAN-MCA: Evaluating Membership Collisions of GAN-Synthesized Tabular Data Releasing.,Yes
+ccs_2021_123,Unleashing the Tiger: Inference Attacks on Split Learning.,Yes
+ccs_2021_124,Locally Private Graph Neural Networks.,Yes
+ccs_2021_125,DataLens: Scalable Privacy Preserving Training via Gradient Compression and Aggregation.,Yes
+ccs_2021_126,Regression Greybox Fuzzing.,No
+ccs_2021_127,MirChecker: Detecting Bugs in Rust Programs via Static Analysis.,No
+ccs_2021_128,V-Shuttle: Scalable and Semantics-Aware Hypervisor Virtual Device Fuzzing.,No
+ccs_2021_129,Hardware Support to Improve Fuzzing Performance and Precision.,No
+ccs_2021_130,SoFi: Reflection-Augmented Fuzzing for JavaScript Engines.,No
+ccs_2021_131,Reconstructing with Less: Leakage Abuse Attacks in Two Dimensions.,No
+ccs_2021_132,εpsolute: Efficiently Querying Databases While Providing Differential Privacy.,No
+ccs_2021_133,Compressed Oblivious Encoding for Homomorphically Encrypted Search.,No
+ccs_2021_134,OnionPIR: Response Efficient Single-Server PIR.,No
+ccs_2021_135,"LEAP: Leakage-Abuse Attack on Efficiently Deployable, Efficiently Searchable Encryption with Partially Known Dataset.",No
+ccs_2021_136,On the Rényi Differential Privacy of the Shuffle Model.,No
+ccs_2021_137,Private Hierarchical Clustering in Federated Networks.,No
+ccs_2021_138,Secure Multi-party Computation of Differentially Private Heavy Hitters.,No
+ccs_2021_139,Automated Privacy Policy Annotation with Information Highlighting Made Practical Using Deep Representations.,No
+ccs_2021_140,POSTER: Recovering Songs from a Hanging Light Bulb.,No
+ccs_2021_141,"Search-Based Local Black-Box Deobfuscation: Understand, Improve and Mitigate (Poster).",No
+ccs_2021_142,Membership Inference Attacks against GANs by Leveraging Over-representation Regions.,Yes
+ccs_2021_143,Earable Authentication via Acoustic Toothprint.,No
+ccs_2021_144,POSTER: An Open-Source Framework for Developing Heterogeneous Distributed Enclave Applications.,No
+ccs_2021_145,Towards Automated Computational Auditing of mHealth Security and Privacy Regulations.,No
+ccs_2021_146,DEMO: A Secure Voting System for Score Based Elections.,No
+ccs_2021_147,POSTER: A Tough Nut to Crack: Attempting to Break Modulation Obfuscation.,Yes
+ccs_2021_148,POSTER: ReAvatar: Virtual Reality De-anonymization Attack Through Correlating Movement Signatures.,Yes
+ccs_2021_149,Revisiting Hybrid Private Information Retrieval.,No
+ccs_2021_150,POSTER: How Dangerous is My Click? Boosting Website Fingerprinting By Considering Sequences of Webpages.,No
+ccs_2021_151,Human and Organizational Factors in Public Key Certificate Authority Failures.,No
+ccs_2021_152,On Adoptability and Use Case Exploration of Threat Modeling for Mobile Communication Systems.,No
+ccs_2021_153,Enabling Visual Analytics via Alert-driven Attack Graphs.,No
+ccs_2021_154,Predictive Cipher-Suite Negotiation for Boosting Deployment of New Ciphers.,No
+ccs_2021_155,Chronos: Timing Interference as a New Attack Vector on Autonomous Cyber-physical Systems.,No
+ccs_2021_156,Demo: Detecting Third-Party Library Problems with Combined Program Analysis.,No
+ccs_2021_157,CyberBunker 2.0 - A Domain and Traffic Perspective on a Bulletproof Hoster.,No
+ccs_2021_158,An Ontology-driven Knowledge Graph for Android Malware.,Yes
+ccs_2021_159,De-identification of Unstructured Clinical Texts from Sequence to Sequence Perspective.,No
+ccs_2021_160,MANIAC: A Man-Machine Collaborative System for Classifying Malware Author Groups.,Yes
+ccs_2021_161,Evaluating Resilience of Domains in PKI.,No
+ccs_2021_162,Demo: Large Scale Analysis on Vulnerability Remediation in Open-source JavaScript Projects.,No
+ccs_2021_163,Optimized Predictive Control for AGC Cyber Resiliency.,No
+ccs_2021_164,POSTER: OS Independent Fuzz Testing of I/O Boundary.,No
+ccs_2021_165,Util: : Lookup: Exploiting Key Decoding in Cryptographic Libraries.,No
+ccs_2021_166,Morpheus: Bringing The (PKCS) One To Meet the Oracle.,No
+ccs_2021_167,PARASITE: PAssword Recovery Attack against Srp Implementations in ThE wild.,No
+ccs_2021_168,"Search-Based Local Black-Box Deobfuscation: Understand, Improve and Mitigate.",No
+ccs_2021_169,Learning to Explore Paths for Symbolic Execution.,No
+ccs_2021_170,Mechanized Proofs of Adversarial Complexity and Application to Universal Composability.,No
+ccs_2021_171,EasyPQC: Verifying Post-Quantum Cryptography.,No
+ccs_2021_172,Machine-checked ZKP for NP relations: Formally Verified Security Proofs and Implementations of MPC-in-the-Head.,No
+ccs_2021_173,An In-Depth Symbolic Security Analysis of the ACME Standard.,No
+ccs_2021_174,Biometrics-Authenticated Key Exchange for Secure Messaging.,No
+ccs_2021_175,Verifying Table-Based Elections.,No
+ccs_2021_176,Efficient CCA Timed Commitments in Class Groups.,No
+ccs_2021_177,MPC-Friendly Commitments for Publicly Verifiable Covert Security.,No
+ccs_2021_178,Asynchronous Data Dissemination and its Applications.,No
+ccs_2021_179,Faster Lattice-Based KEMs via a Generic Fujisaki-Okamoto Transform Using Prefix Hashing.,No
+ccs_2021_180,PPE Circuits for Rational Polynomials.,No
+ccs_2021_181,Amortized Threshold Symmetric-key Encryption.,No
+ccs_2021_182,The Invisible Shadow: How Security Cameras Leak Private Activities.,No
+ccs_2021_183,The One-Page Setting: A Higher Standard for Evaluating Website Fingerprinting Defenses.,No
+ccs_2021_184,WristPrint: Characterizing User Re-identification Risks from Wrist-worn Accelerometry Data.,Yes
+ccs_2021_185,Consistency Analysis of Data-Usage Purposes in Mobile Apps.,No
+ccs_2021_186,"SugarCoat: Programmatically Generating Privacy-Preserving, Web-Compatible Resource Replacements for Content Blocking.",No
+ccs_2021_187,Towards Transparent and Stealthy Android OS Sandboxing via Customizable Container-Based Virtualization.,No
+ccs_2021_188,One Glitch to Rule Them All: Fault Injection Attacks Against AMD's Secure Encrypted Virtualization.,No
+ccs_2021_189,RealSWATT: Remote Software-based Attestation for Embedded Devices under Realtime Constraints.,No
+ccs_2021_190,Prime+Scope: Overcoming the Observer Effect for High-Precision Cache Contention Attacks.,No
+ccs_2021_191,On the TOCTOU Problem in Remote Attestation.,No
+ccs_2021_192,"CrossLine: Breaking ""Security-by-Crash"" based Memory Isolation in AMD SEV.",No
+ccs_2021_193,Zero Knowledge Static Program Analysis.,No
+ccs_2021_194,zkCNN: Zero Knowledge Proofs for Convolutional Neural Network Predictions and Accuracy.,No
+ccs_2021_195,QuickSilver: Efficient and Affordable Zero-Knowledge Proofs for Circuits and Polynomials over Any Field.,No
+ccs_2021_196,ZKCPlus: Optimized Fair-exchange Protocol Supporting Practical and Flexible Data Exchange.,No
+ccs_2021_197,Limbo: Efficient Zero-knowledge MPCitH-based Arguments.,No
+ccs_2021_198,"""I need a better description"": An Investigation Into User Expectations For Differential Privacy.",No
+ccs_2021_199,An Inside Look into the Practice of Malware Analysis.,No
+ccs_2021_200,The Effect of Google Search on Software Security: Unobtrusive Security Interventions via Content Re-ranking.,No
+ccs_2021_201,12 Angry Developers - A Qualitative Study on Developers' Struggles with CSP.,No
+ccs_2021_202,Subpopulation Data Poisoning Attacks.,Yes
+ccs_2021_203,Hidden Backdoors in Human-Centric Language Models.,Yes
+ccs_2021_204,Backdoor Pre-trained Models Can Transfer to All.,Yes
+ccs_2021_205,Feature-Indistinguishable Attack to Circumvent Trapdoor-Enabled Defense.,Yes
+ccs_2021_206,DetectorGuard: Provably Securing Object Detectors against Localized Patch Hiding Attacks.,Yes
+ccs_2021_207,DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications.,Yes
+ccs_2021_208,Structural Attack against Graph Based Android Malware Detection.,Yes
+ccs_2021_209,PalmTree: Learning an Assembly Language Model for Instruction Embedding.,No
+ccs_2021_210,A One-Pass Distributed and Private Sketch for Kernel Sums with Applications to Machine Learning at Scale.,No
+ccs_2021_211,COINN: Crypto/ML Codesign for Oblivious Inference via Neural Networks.,No
+ccs_2021_212,Locating the Security Patches for Disclosed OSS Vulnerabilities with Vulnerability-Commit Correlation Ranking.,No
+ccs_2021_213,Facilitating Vulnerability Assessment through PoC Migration.,No
+ccs_2021_214,Igor: Crash Deduplication Through Root-Cause Clustering.,No
+ccs_2021_215,Validating the Integrity of Audit Logs Against Execution Repartitioning Attacks.,No
+ccs_2021_216,C3PO: Large-Scale Study Of Covert Monitoring of C&C Servers via Over-Permissioned Protocol Infiltration.,No
+ccs_2021_217,New Directions in Automated Traffic Analysis.,No
+ccs_2021_218,Themis: Ambiguity-Aware Network Intrusion Detection based on Symbolic Model Comparison.,No
+ccs_2021_219,DNS Cache Poisoning Attack: Resurrections with Side Channels.,No
+ccs_2021_220,Packet Scheduling with Optional Client Privacy.,No
+ccs_2021_221,Realtime Robust Malicious Traffic Detection via Frequency Domain Analysis.,Yes
+ccs_2021_222,OpenSquare: Decentralized Repeated Modular Squaring Service.,No
+ccs_2021_223,Generalized Proof of Liabilities.,No
+ccs_2021_224,Mining in Logarithmic Space.,No
+ccs_2021_225,RandPiper - Reconfiguration-Friendly Random Beacons with Quadratic Communication.,No

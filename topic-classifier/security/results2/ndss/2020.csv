@@ -1,0 +1,91 @@
+uuid,title,response
+ndss_2020_0,"27th Annual Network and Distributed System Security Symposium, NDSS 2020, San Diego, California, USA, February 23-26, 2020.",No
+ndss_2020_1,"Overcoming the ""Evil Twins"" Attack: Lessons Learned from the Industrial Battlefield.",No
+ndss_2020_2,FUSE: Finding File Upload Bugs via Penetration Testing.,No
+ndss_2020_3,Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites.,No
+ndss_2020_4,Deceptive Previews: A Study of the Link Preview Trustworthiness in Social Platforms.,Yes
+ndss_2020_5,Cross-Origin State Inference (COSI) Attacks: Leaking Web Site States through XS-Leaks.,No
+ndss_2020_6,Carnus: Exploring the Privacy Threats of Browser Extension Fingerprinting.,No
+ndss_2020_7,HYPER-CUBE: High-Dimensional Hypervisor Fuzzing.,No
+ndss_2020_8,HFL: Hybrid Fuzzing on the Linux Kernel.,No
+ndss_2020_9,HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing.,No
+ndss_2020_10,Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization.,No
+ndss_2020_11,Detecting Probe-resistant Proxies.,No
+ndss_2020_12,Decentralized Control: A Case Study of Russia.,No
+ndss_2020_13,Measuring the Deployment of Network Censorship Filters at Global Scale.,No
+ndss_2020_14,SymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery.,No
+ndss_2020_15,"MassBrowser: Unblocking the Censored Web for the Masses, by the Masses.",No
+ndss_2020_16,Et Tu Alexa? When Commodity WiFi Devices Turn into Adversarial Motion Sensors.,No
+ndss_2020_17,Metamorph: Injecting Inaudible Commands into Over-the-air Voice Controlled Systems.,Yes
+ndss_2020_18,SurfingAttack: Interactive Hidden Attack on Voice Assistants Using Ultrasonic Guided Waves.,Yes
+ndss_2020_19,Packet-Level Signatures for Smart Home Devices.,No
+ndss_2020_20,Learning-based Practical Smartphone Eavesdropping with Built-in Accelerometer.,No
+ndss_2020_21,Automated Cross-Platform Reverse Engineering of CAN Bus Commands From Mobile Apps.,No
+ndss_2020_22,Are You Going to Answer That? Measuring User Responses to Anti-Robocall Application Indicators.,No
+ndss_2020_23,TKPERM: Cross-platform Permission Knowledge Transfer to Detect Overprivileged Third-party Applications.,No
+ndss_2020_24,FlowPrint: Semi-Supervised Mobile-App Fingerprinting on Encrypted Network Traffic.,No
+ndss_2020_25,Bobtail: Improved Blockchain Security with Low-Variance Mining.,No
+ndss_2020_26,Snappy: Fast On-chain Payments with Practical Collaterals.,No
+ndss_2020_27,The Attack of the Clones Against Proof-of-Authority.,No
+ndss_2020_28,Broken Metre: Attacking Resource Metering in EVM.,No
+ndss_2020_29,Finding Safety in Numbers with Secure Allegation Escrows.,No
+ndss_2020_30,When Match Fields Do Not Need to Match: Buffered Packets Hijacking in SDN.,No
+ndss_2020_31,Automated Discovery of Cross-Plane Event-Based Vulnerabilities in Software-Defined Networking.,Yes
+ndss_2020_32,SVLAN: Secure & Scalable Network Virtualization.,No
+ndss_2020_33,µRAI: Securing Embedded Systems with Return Address Integrity.,No
+ndss_2020_34,NoJITsu: Locking Down JavaScript Engines.,No
+ndss_2020_35,SODA: A Generic Online Detection Framework for Smart Contracts.,No
+ndss_2020_36,A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints.,No
+ndss_2020_37,Designing a Better Browser for Tor with BLAST.,No
+ndss_2020_38,Encrypted DNS -> Privacy? A Traffic Analysis Perspective.,No
+ndss_2020_39,On Using Application-Layer Middlebox Protocols for Peeking Behind NAT Gateways.,No
+ndss_2020_40,ABSynthe: Automatic Blackbox Side-channel Synthesis on Commodity Microarchitectures.,No
+ndss_2020_41,PhantomCache: Obfuscating Cache Conflicts with Localized Randomization.,No
+ndss_2020_42,Data-Driven Debugging for Functional Side Channels.,No
+ndss_2020_43,Mind the Portability: A Warriors Guide through Realistic Profiled Side-channel Analysis.,Yes
+ndss_2020_44,Hold the Door! Fingerprinting Your Car Key to Prevent Keyless Entry Car Theft.,No
+ndss_2020_45,Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches.,No
+ndss_2020_46,EASI: Edge-Based Sender Identification on Resource-Constrained Platforms for Automotive Networks.,No
+ndss_2020_47,BLAG: Improving the Accuracy of Blacklists.,No
+ndss_2020_48,DefRec: Establishing Physical Function Virtualization to Disrupt Reconnaissance of Power Grids' Cyber-Physical Infrastructures.,No
+ndss_2020_49,Revisiting Leakage Abuse Attacks.,No
+ndss_2020_50,Metal: A Metadata-Hiding File-Sharing System.,No
+ndss_2020_51,MACAO: A Maliciously-Secure and Client-Efficient Active ORAM Framework.,No
+ndss_2020_52,Heterogeneous Private Information Retrieval.,No
+ndss_2020_53,Dynamic Searchable Encryption with Small Client Storage.,No
+ndss_2020_54,Withdrawing the BGP Re-Routing Curtain: Understanding the Security Impact of BGP Poisoning through Real-World Measurements.,No
+ndss_2020_55,IMP4GT: IMPersonation Attacks in 4G NeTworks.,No
+ndss_2020_56,Practical Traffic Analysis Attacks on Secure Messaging Applications.,No
+ndss_2020_57,CDN Judo: Breaking the CDN DoS Protection with Itself.,No
+ndss_2020_58,DeepBinDiff: Learning Program-Wide Code Representations for Binary Diffing.,No
+ndss_2020_59,Precisely Characterizing Security Impact in a Flood of Patches via Symbolic Rule Comparison.,No
+ndss_2020_60,Unicorn: Runtime Provenance-Based Detector for Advanced Persistent Threats.,No
+ndss_2020_61,Custos: Practical Tamper-Evident Auditing of Operating Systems Using Trusted Execution.,No
+ndss_2020_62,You Are What You Do: Hunting Stealthy Malware via Data Provenance Analysis.,No
+ndss_2020_63,OmegaLog: High-Fidelity Attack Investigation via Transparent Multi-layer Log Analysis.,No
+ndss_2020_64,Trident: Efficient 4PC Framework for Privacy Preserving Machine Learning.,No
+ndss_2020_65,Secure Sublinear Time Differentially Private Median Computation.,No
+ndss_2020_66,CloudLeak: Large-Scale Deep Learning Models Stealing Through Adversarial Examples.,Yes
+ndss_2020_67,BLAZE: Blazing Fast Privacy-Preserving Machine Learning.,No
+ndss_2020_68,Prevalence and Impact of Low-Entropy Packing Schemes in the Malware Ecosystem.,No
+ndss_2020_69,When Malware is Packin' Heat; Limits of Machine Learning Classifiers Based on Static Analysis Features.,Yes
+ndss_2020_70,"UIScope: Accurate, Instrumentation-free, and Visible Attack Investigation for GUI Applications.",No
+ndss_2020_71,OcuLock: Exploring Human Visual System for Authentication in Virtual Reality Head-mounted Display.,No
+ndss_2020_72,On the Resilience of Biometric Authentication Systems against Random Inputs.,Yes
+ndss_2020_73,Strong Authentication without Temper-Resistant Hardware and Application to Federated Identities.,No
+ndss_2020_74,A View from the Cockpit: Exploring Pilot Reactions to Attacks on Avionic Systems.,No
+ndss_2020_75,Genotype Extraction and False Relative Attacks: Security Risks to Third-Party Genetic Genealogy Services Beyond Identity Inference.,No
+ndss_2020_76,Complex Security Policy? A Longitudinal Analysis of Deployed Content Security Policies.,No
+ndss_2020_77,Into the Deep Web: Understanding E-commerce Fraud from Autonomous Chat with Cybercriminals.,No
+ndss_2020_78,Compliance Cautions: Investigating Security Issues Associated with U.S. Digital-Security Standards.,No
+ndss_2020_79,Let's Revoke: Scalable Global Certificate Revocation.,No
+ndss_2020_80,Post-Quantum Authentication in TLS 1.3: A Performance Study.,No
+ndss_2020_81,DISCO: Sidestepping RPKI's Deployment Barriers.,No
+ndss_2020_82,Proof of Storage-Time: Efficiently Checking Continuous Data Availability.,No
+ndss_2020_83,SPEECHMINER: A Framework for Investigating and Measuring Speculative Execution Vulnerabilities.,No
+ndss_2020_84,ProtectIOn: Root-of-Trust for IO in Compromised Platforms.,No
+ndss_2020_85,ConTExT: A Generic Approach for Mitigating Spectre.,No
+ndss_2020_86,Towards Plausible Graph Anonymization.,No
+ndss_2020_87,Adversarial Classification Under Differential Privacy.,Yes
+ndss_2020_88,Locally Differentially Private Frequency Estimation with Consistency.,No
+ndss_2020_89,DESENSITIZATION: Privacy-Aware and Attack-Preserving Crash Report.,No
